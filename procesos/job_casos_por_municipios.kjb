@@ -53,7 +53,7 @@
     </parameter>
     <parameter>
       <name>target_table</name>
-      <default_value/>
+      <default_value>CASOS_MUNICIPIOS_TEST</default_value>
       <description/>
     </parameter>
   </parameters>

@@ -1,0 +1,1 @@
+D:\Programas\pentaho\data-integration\Kitchen.bat /file="C:\Users\sejavichan\OneDrive - Universidad Pablo de Olavide de Sevilla\Universidad\2021-2022\TFG\Git\TFG\procesos\job_casos_por_municipios.kjb" -logfile:"C:\Users\sejavichan\OneDrive - Universidad Pablo de Olavide de Sevilla\Universidad\2021-2022\TFG\Git\TFG\procesos\log.log"
