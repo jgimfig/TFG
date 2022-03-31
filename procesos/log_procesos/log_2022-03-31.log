@@ -1,0 +1,175 @@
+2022/03/31 09:00:05 - Kitchen - Start of run.
+2022/03/31 09:00:16 - Job_casos_por_municipios - Start of job execution
+2022/03/31 09:00:17 - Job_casos_por_municipios - Starting entry [HTTP sev]
+2022/03/31 09:00:17 - HTTP sev - Start of HTTP job entry.
+2022/03/31 09:00:17 - HTTP sev - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=e2f14e4d-faa9-4735-bdc2-7133b9bc0124&type=3&foto=si&ejecutaDesde=&codConsulta=38676&consTipoVisua=JP
+2022/03/31 09:00:19 - HTTP sev - Resource type: Content-Type: application/zip, last modified on: Thu, 31 Mar 2022 09:00:19 GMT.
+2022/03/31 09:00:19 - HTTP sev - Finished writing 69442 bytes to result file [file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_sev.csv]
+2022/03/31 09:00:19 - Job_casos_por_municipios - Starting entry [Transformation]
+2022/03/31 09:00:19 - Transformation - Using run configuration [Pentaho local]
+2022/03/31 09:00:20 - Transformation - Running transformation using the Kettle execution engine
+2022/03/31 09:00:20 - Casos_por_municipios - Dispatching started for transformation [Casos_por_municipios]
+2022/03/31 09:00:20 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/03/31 09:00:20 - CSV file input.0 - Header row skipped in file 'file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_sev.csv'
+2022/03/31 09:00:20 - Información de sistema.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/03/31 09:00:20 - CSV file input.0 - Finished processing (I=2716, O=0, R=0, W=2715, U=0, E=0)
+2022/03/31 09:00:20 - Juntar filas (producto cartesiano).0 - Finished processing (I=0, O=0, R=2716, W=2715, U=0, E=0)
+2022/03/31 09:00:20 - Mapeo de valores.0 - Finished processing (I=0, O=0, R=2715, W=2715, U=0, E=0)
+2022/03/31 09:00:20 - Selecciona/Renombra valores.0 - Finished processing (I=0, O=0, R=2715, W=2715, U=0, E=0)
+2022/03/31 09:00:21 - Salida Tabla.0 - Finished processing (I=0, O=2715, R=2715, W=2715, U=0, E=0)
+2022/03/31 09:00:21 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2022/03/31 09:00:21 - Job_casos_por_municipios - Starting entry [Success]
+2022/03/31 09:00:21 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/03/31 09:00:21 - Job_casos_por_municipios - Finished job entry [Transformation] (result=[true])
+2022/03/31 09:00:21 - Job_casos_por_municipios - Finished job entry [HTTP sev] (result=[true])
+2022/03/31 09:00:21 - Job_casos_por_municipios - Starting entry [HTTP alm]
+2022/03/31 09:00:21 - HTTP alm - Start of HTTP job entry.
+2022/03/31 09:00:21 - HTTP alm - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=4bee2830-7efc-4ca7-9592-32f66bd15298&type=3&foto=si&ejecutaDesde=&codConsulta=38665&consTipoVisua=JP
+2022/03/31 09:00:22 - HTTP alm - Resource type: Content-Type: application/zip, last modified on: Thu, 31 Mar 2022 09:00:22 GMT.
+2022/03/31 09:00:22 - HTTP alm - Finished writing 58235 bytes to result file [file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_alm.csv]
+2022/03/31 09:00:22 - Job_casos_por_municipios - Starting entry [Transformation 2]
+2022/03/31 09:00:22 - Transformation 2 - Using run configuration [Pentaho local]
+2022/03/31 09:00:22 - Transformation 2 - Running transformation using the Kettle execution engine
+2022/03/31 09:00:22 - Casos_por_municipios - Dispatching started for transformation [Casos_por_municipios]
+2022/03/31 09:00:22 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/03/31 09:00:22 - Información de sistema.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/03/31 09:00:22 - CSV file input.0 - Header row skipped in file 'file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_alm.csv'
+2022/03/31 09:00:22 - CSV file input.0 - Finished processing (I=2486, O=0, R=0, W=2485, U=0, E=0)
+2022/03/31 09:00:22 - Juntar filas (producto cartesiano).0 - Finished processing (I=0, O=0, R=2486, W=2485, U=0, E=0)
+2022/03/31 09:00:22 - Mapeo de valores.0 - Finished processing (I=0, O=0, R=2485, W=2485, U=0, E=0)
+2022/03/31 09:00:22 - Selecciona/Renombra valores.0 - Finished processing (I=0, O=0, R=2485, W=2485, U=0, E=0)
+2022/03/31 09:00:23 - Salida Tabla.0 - Finished processing (I=0, O=2485, R=2485, W=2485, U=0, E=0)
+2022/03/31 09:00:23 - Job_casos_por_municipios - Starting entry [Success]
+2022/03/31 09:00:23 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/03/31 09:00:23 - Job_casos_por_municipios - Finished job entry [Transformation 2] (result=[true])
+2022/03/31 09:00:23 - Job_casos_por_municipios - Finished job entry [HTTP alm] (result=[true])
+2022/03/31 09:00:23 - Job_casos_por_municipios - Starting entry [HTTP cad]
+2022/03/31 09:00:23 - HTTP cad - Start of HTTP job entry.
+2022/03/31 09:00:23 - HTTP cad - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=5e119dc4-cff6-4f22-b4d3-1ef2e6fe4324&type=3&foto=si&ejecutaDesde=&codConsulta=38637&consTipoVisua=JP
+2022/03/31 09:00:23 - HTTP cad - Resource type: Content-Type: application/zip, last modified on: Thu, 31 Mar 2022 09:00:23 GMT.
+2022/03/31 09:00:23 - HTTP cad - Finished writing 31440 bytes to result file [file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_cad.csv]
+2022/03/31 09:00:23 - Job_casos_por_municipios - Starting entry [Transformation 3]
+2022/03/31 09:00:24 - Transformation 3 - Using run configuration [Pentaho local]
+2022/03/31 09:00:24 - Transformation 3 - Running transformation using the Kettle execution engine
+2022/03/31 09:00:24 - Casos_por_municipios - Dispatching started for transformation [Casos_por_municipios]
+2022/03/31 09:00:24 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/03/31 09:00:24 - Información de sistema.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/03/31 09:00:24 - CSV file input.0 - Header row skipped in file 'file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_cad.csv'
+2022/03/31 09:00:24 - CSV file input.0 - Finished processing (I=1198, O=0, R=0, W=1197, U=0, E=0)
+2022/03/31 09:00:24 - Juntar filas (producto cartesiano).0 - Finished processing (I=0, O=0, R=1198, W=1197, U=0, E=0)
+2022/03/31 09:00:24 - Mapeo de valores.0 - Finished processing (I=0, O=0, R=1197, W=1197, U=0, E=0)
+2022/03/31 09:00:24 - Selecciona/Renombra valores.0 - Finished processing (I=0, O=0, R=1197, W=1197, U=0, E=0)
+2022/03/31 09:00:24 - Salida Tabla.0 - Finished processing (I=0, O=1197, R=1197, W=1197, U=0, E=0)
+2022/03/31 09:00:24 - Job_casos_por_municipios - Starting entry [Success]
+2022/03/31 09:00:24 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/03/31 09:00:24 - Job_casos_por_municipios - Finished job entry [Transformation 3] (result=[true])
+2022/03/31 09:00:24 - Job_casos_por_municipios - Finished job entry [HTTP cad] (result=[true])
+2022/03/31 09:00:24 - Job_casos_por_municipios - Starting entry [HTTP cor]
+2022/03/31 09:00:24 - HTTP cor - Start of HTTP job entry.
+2022/03/31 09:00:24 - HTTP cor - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=2c8742cc-9d60-4a85-908e-be8acb55464e&type=3&foto=si&ejecutaDesde=&codConsulta=38666&consTipoVisua=JP
+2022/03/31 09:00:25 - HTTP cor - Resource type: Content-Type: application/zip, last modified on: Thu, 31 Mar 2022 09:00:24 GMT.
+2022/03/31 09:00:25 - HTTP cor - Finished writing 48104 bytes to result file [file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_cor.csv]
+2022/03/31 09:00:25 - Job_casos_por_municipios - Starting entry [Transformation 4]
+2022/03/31 09:00:25 - Transformation 4 - Using run configuration [Pentaho local]
+2022/03/31 09:00:25 - Transformation 4 - Running transformation using the Kettle execution engine
+2022/03/31 09:00:25 - Casos_por_municipios - Dispatching started for transformation [Casos_por_municipios]
+2022/03/31 09:00:25 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/03/31 09:00:25 - CSV file input.0 - Header row skipped in file 'file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_cor.csv'
+2022/03/31 09:00:25 - Información de sistema.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/03/31 09:00:25 - CSV file input.0 - Finished processing (I=1934, O=0, R=0, W=1933, U=0, E=0)
+2022/03/31 09:00:26 - Juntar filas (producto cartesiano).0 - Finished processing (I=0, O=0, R=1934, W=1933, U=0, E=0)
+2022/03/31 09:00:26 - Mapeo de valores.0 - Finished processing (I=0, O=0, R=1933, W=1933, U=0, E=0)
+2022/03/31 09:00:26 - Selecciona/Renombra valores.0 - Finished processing (I=0, O=0, R=1933, W=1933, U=0, E=0)
+2022/03/31 09:00:26 - Salida Tabla.0 - Finished processing (I=0, O=1933, R=1933, W=1933, U=0, E=0)
+2022/03/31 09:00:26 - Job_casos_por_municipios - Starting entry [Success]
+2022/03/31 09:00:26 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/03/31 09:00:26 - Job_casos_por_municipios - Finished job entry [Transformation 4] (result=[true])
+2022/03/31 09:00:26 - Job_casos_por_municipios - Finished job entry [HTTP cor] (result=[true])
+2022/03/31 09:00:26 - Job_casos_por_municipios - Starting entry [HTTP gra]
+2022/03/31 09:00:26 - HTTP gra - Start of HTTP job entry.
+2022/03/31 09:00:26 - HTTP gra - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=bad97422-dd1a-4da8-b030-8b61a8355fcc&type=3&foto=si&ejecutaDesde=&codConsulta=38667&consTipoVisua=JP
+2022/03/31 09:00:26 - HTTP gra - Resource type: Content-Type: application/zip, last modified on: Thu, 31 Mar 2022 09:00:26 GMT.
+2022/03/31 09:00:27 - HTTP gra - Finished writing 97463 bytes to result file [file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_gra.csv]
+2022/03/31 09:00:27 - Job_casos_por_municipios - Starting entry [Transformation 5]
+2022/03/31 09:00:27 - Transformation 5 - Using run configuration [Pentaho local]
+2022/03/31 09:00:27 - Transformation 5 - Running transformation using the Kettle execution engine
+2022/03/31 09:00:27 - Casos_por_municipios - Dispatching started for transformation [Casos_por_municipios]
+2022/03/31 09:00:27 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/03/31 09:00:27 - Información de sistema.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/03/31 09:00:27 - CSV file input.0 - Header row skipped in file 'file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_gra.csv'
+2022/03/31 09:00:27 - CSV file input.0 - Finished processing (I=4142, O=0, R=0, W=4141, U=0, E=0)
+2022/03/31 09:00:27 - Juntar filas (producto cartesiano).0 - Finished processing (I=0, O=0, R=4142, W=4141, U=0, E=0)
+2022/03/31 09:00:27 - Mapeo de valores.0 - Finished processing (I=0, O=0, R=4141, W=4141, U=0, E=0)
+2022/03/31 09:00:27 - Selecciona/Renombra valores.0 - Finished processing (I=0, O=0, R=4141, W=4141, U=0, E=0)
+2022/03/31 09:00:27 - Salida Tabla.0 - Finished processing (I=0, O=4141, R=4141, W=4141, U=0, E=0)
+2022/03/31 09:00:27 - Job_casos_por_municipios - Starting entry [Success]
+2022/03/31 09:00:27 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/03/31 09:00:27 - Job_casos_por_municipios - Finished job entry [Transformation 5] (result=[true])
+2022/03/31 09:00:27 - Job_casos_por_municipios - Finished job entry [HTTP gra] (result=[true])
+2022/03/31 09:00:27 - Job_casos_por_municipios - Starting entry [HTTP hue]
+2022/03/31 09:00:27 - HTTP hue - Start of HTTP job entry.
+2022/03/31 09:00:27 - HTTP hue - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=104cbea6-efb2-459f-b5d4-5c7d4758afb3&type=3&foto=si&ejecutaDesde=&codConsulta=38668&consTipoVisua=JP
+2022/03/31 09:00:28 - HTTP hue - Resource type: Content-Type: application/zip, last modified on: Thu, 31 Mar 2022 09:00:28 GMT.
+2022/03/31 09:00:28 - HTTP hue - Finished writing 46328 bytes to result file [file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_hue.csv]
+2022/03/31 09:00:28 - Job_casos_por_municipios - Starting entry [Transformation 6]
+2022/03/31 09:00:28 - Transformation 6 - Using run configuration [Pentaho local]
+2022/03/31 09:00:28 - Transformation 6 - Running transformation using the Kettle execution engine
+2022/03/31 09:00:28 - Casos_por_municipios - Dispatching started for transformation [Casos_por_municipios]
+2022/03/31 09:00:28 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/03/31 09:00:28 - Información de sistema.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/03/31 09:00:28 - CSV file input.0 - Header row skipped in file 'file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_hue.csv'
+2022/03/31 09:00:28 - CSV file input.0 - Finished processing (I=1819, O=0, R=0, W=1818, U=0, E=0)
+2022/03/31 09:00:28 - Juntar filas (producto cartesiano).0 - Finished processing (I=0, O=0, R=1819, W=1818, U=0, E=0)
+2022/03/31 09:00:28 - Mapeo de valores.0 - Finished processing (I=0, O=0, R=1818, W=1818, U=0, E=0)
+2022/03/31 09:00:28 - Selecciona/Renombra valores.0 - Finished processing (I=0, O=0, R=1818, W=1818, U=0, E=0)
+2022/03/31 09:00:29 - Salida Tabla.0 - Finished processing (I=0, O=1818, R=1818, W=1818, U=0, E=0)
+2022/03/31 09:00:29 - Job_casos_por_municipios - Starting entry [Success]
+2022/03/31 09:00:29 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/03/31 09:00:29 - Job_casos_por_municipios - Finished job entry [Transformation 6] (result=[true])
+2022/03/31 09:00:29 - Job_casos_por_municipios - Finished job entry [HTTP hue] (result=[true])
+2022/03/31 09:00:29 - Job_casos_por_municipios - Starting entry [HTTP jae]
+2022/03/31 09:00:29 - HTTP jae - Start of HTTP job entry.
+2022/03/31 09:00:29 - HTTP jae - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=bdb74d81-b03a-4de7-9185-2c96ccbd6126&type=3&foto=si&ejecutaDesde=&codConsulta=38669&consTipoVisua=JP
+2022/03/31 09:00:29 - HTTP jae - Resource type: Content-Type: application/zip, last modified on: Thu, 31 Mar 2022 09:00:29 GMT.
+2022/03/31 09:00:30 - HTTP jae - Finished writing 58095 bytes to result file [file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_jae.csv]
+2022/03/31 09:00:30 - Job_casos_por_municipios - Starting entry [Transformation 7]
+2022/03/31 09:00:30 - Transformation 7 - Using run configuration [Pentaho local]
+2022/03/31 09:00:30 - Transformation 7 - Running transformation using the Kettle execution engine
+2022/03/31 09:00:30 - Casos_por_municipios - Dispatching started for transformation [Casos_por_municipios]
+2022/03/31 09:00:30 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/03/31 09:00:30 - CSV file input.0 - Header row skipped in file 'file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_jae.csv'
+2022/03/31 09:00:30 - CSV file input.0 - Finished processing (I=2371, O=0, R=0, W=2370, U=0, E=0)
+2022/03/31 09:00:30 - Información de sistema.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/03/31 09:00:30 - Juntar filas (producto cartesiano).0 - Finished processing (I=0, O=0, R=2371, W=2370, U=0, E=0)
+2022/03/31 09:00:30 - Mapeo de valores.0 - Finished processing (I=0, O=0, R=2370, W=2370, U=0, E=0)
+2022/03/31 09:00:30 - Selecciona/Renombra valores.0 - Finished processing (I=0, O=0, R=2370, W=2370, U=0, E=0)
+2022/03/31 09:00:30 - Salida Tabla.0 - Finished processing (I=0, O=2370, R=2370, W=2370, U=0, E=0)
+2022/03/31 09:00:30 - Job_casos_por_municipios - Starting entry [Success]
+2022/03/31 09:00:30 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/03/31 09:00:30 - Job_casos_por_municipios - Finished job entry [Transformation 7] (result=[true])
+2022/03/31 09:00:30 - Job_casos_por_municipios - Finished job entry [HTTP jae] (result=[true])
+2022/03/31 09:00:30 - Job_casos_por_municipios - Starting entry [HTTP mal]
+2022/03/31 09:00:30 - HTTP mal - Start of HTTP job entry.
+2022/03/31 09:00:30 - HTTP mal - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=14bab3d0-916e-4253-8d56-343c325bf719&type=3&foto=si&ejecutaDesde=&codConsulta=38674&consTipoVisua=JP
+2022/03/31 09:00:31 - HTTP mal - Resource type: Content-Type: application/zip, last modified on: Thu, 31 Mar 2022 09:00:30 GMT.
+2022/03/31 09:00:31 - HTTP mal - Finished writing 61523 bytes to result file [file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_mal.csv]
+2022/03/31 09:00:31 - Job_casos_por_municipios - Starting entry [Transformation 8]
+2022/03/31 09:00:31 - Transformation 8 - Using run configuration [Pentaho local]
+2022/03/31 09:00:31 - Transformation 8 - Running transformation using the Kettle execution engine
+2022/03/31 09:00:31 - Casos_por_municipios - Dispatching started for transformation [Casos_por_municipios]
+2022/03/31 09:00:31 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/03/31 09:00:31 - Información de sistema.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/03/31 09:00:31 - CSV file input.0 - Header row skipped in file 'file:///home/sejavichan/TFG/procesos/ficheros/casos_mun_mal.csv'
+2022/03/31 09:00:31 - CSV file input.0 - Finished processing (I=2555, O=0, R=0, W=2554, U=0, E=0)
+2022/03/31 09:00:32 - Juntar filas (producto cartesiano).0 - Finished processing (I=0, O=0, R=2555, W=2554, U=0, E=0)
+2022/03/31 09:00:32 - Mapeo de valores.0 - Finished processing (I=0, O=0, R=2554, W=2554, U=0, E=0)
+2022/03/31 09:00:32 - Selecciona/Renombra valores.0 - Finished processing (I=0, O=0, R=2554, W=2554, U=0, E=0)
+2022/03/31 09:00:32 - Salida Tabla.0 - Finished processing (I=0, O=2554, R=2554, W=2554, U=0, E=0)
+2022/03/31 09:00:32 - Job_casos_por_municipios - Starting entry [Success]
+2022/03/31 09:00:32 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/03/31 09:00:32 - Job_casos_por_municipios - Finished job entry [Transformation 8] (result=[true])
+2022/03/31 09:00:32 - Job_casos_por_municipios - Finished job entry [HTTP mal] (result=[true])
+2022/03/31 09:00:32 - Job_casos_por_municipios - Job execution finished
+2022/03/31 09:00:32 - Kitchen - Finished!
+2022/03/31 09:00:32 - Kitchen - Start=2022/03/31 09:00:16.992, Stop=2022/03/31 09:00:32.178
+2022/03/31 09:00:32 - Kitchen - Processing ended after 15 seconds.
