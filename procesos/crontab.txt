@@ -1,0 +1,1 @@
+0 9 * * * /home/sejavichan/TFG/procesos/lanza_carga.sh
