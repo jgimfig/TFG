@@ -1,59 +1,52 @@
-Lugar de residencia;Medida;Valor;
-Huelva;Población media anual;514763;
-Huelva;Confirmados PDIA;83762;
-Huelva;Confirmados PDIA 14 días;1159;
-Huelva;Tasa PDIA 14 días;225,15215740059017;
-Huelva;Confirmados PDIA 7 días;447;
-Huelva;Tasa PDIA 7 dias;86,8360779620913;
-Huelva;Total Confirmados ;83991;
-Huelva;Curados;79678;
-Huelva;Fallecidos;489;
-Sierra de Huelva-Andévalo Central;Población media anual;67400;
-Sierra de Huelva-Andévalo Central;Confirmados PDIA;12452;
-Sierra de Huelva-Andévalo Central;Confirmados PDIA 14 días;284;
-Sierra de Huelva-Andévalo Central;Tasa PDIA 14 días;421,3649851632047;
-Sierra de Huelva-Andévalo Central;Confirmados PDIA 7 días;90;
-Sierra de Huelva-Andévalo Central;Tasa PDIA 7 dias;133,53115727002967;
-Sierra de Huelva-Andévalo Central;Total Confirmados ;12484;
-Sierra de Huelva-Andévalo Central;Curados;11797;
+Territorio;Medida;Valor;
+Huelva;Confirmados PDIA;82842;
+Huelva;Confirmados PDIA 14 días;239;
+Huelva;Tasa PDIA 14 días;0;
+Huelva;Confirmados PDIA 7 días;0;
+Huelva;Tasa PDIA 7 dias;0;
+Huelva;Total Confirmados ;83071;
+Huelva;Curados;79671;
+Huelva;Fallecidos;488;
+Sierra de Huelva-Andévalo Central;Confirmados PDIA;12239;
+Sierra de Huelva-Andévalo Central;Confirmados PDIA 14 días;71;
+Sierra de Huelva-Andévalo Central;Tasa PDIA 14 días;0;
+Sierra de Huelva-Andévalo Central;Confirmados PDIA 7 días;0;
+Sierra de Huelva-Andévalo Central;Tasa PDIA 7 dias;0;
+Sierra de Huelva-Andévalo Central;Total Confirmados ;12271;
+Sierra de Huelva-Andévalo Central;Curados;11795;
 Sierra de Huelva-Andévalo Central;Fallecidos;63;
-Alájar;Población media anual;814;
-Alájar;Confirmados PDIA;82;
-Alájar;Confirmados PDIA 14 días;3;
-Alájar;Tasa PDIA 14 días;368,55036855036855;
+Alájar;Confirmados PDIA;79;
+Alájar;Confirmados PDIA 14 días;0;
+Alájar;Tasa PDIA 14 días;0;
 Alájar;Confirmados PDIA 7 días;0;
 Alájar;Tasa PDIA 7 dias;0;
-Alájar;Total Confirmados ;83;
+Alájar;Total Confirmados ;80;
 Alájar;Curados;79;
 Alájar;Fallecidos;0;
-Almonaster la Real;Población media anual;1786;
-Almonaster la Real;Confirmados PDIA;291;
-Almonaster la Real;Confirmados PDIA 14 días;1;
-Almonaster la Real;Tasa PDIA 14 días;55,99104143337066;
+Almonaster la Real;Confirmados PDIA;290;
+Almonaster la Real;Confirmados PDIA 14 días;0;
+Almonaster la Real;Tasa PDIA 14 días;0;
 Almonaster la Real;Confirmados PDIA 7 días;0;
 Almonaster la Real;Tasa PDIA 7 dias;0;
-Almonaster la Real;Total Confirmados ;294;
+Almonaster la Real;Total Confirmados ;293;
 Almonaster la Real;Curados;289;
 Almonaster la Real;Fallecidos;1;
-Aracena;Población media anual;8215;
-Aracena;Confirmados PDIA;1659;
-Aracena;Confirmados PDIA 14 días;34;
-Aracena;Tasa PDIA 14 días;413,87705416920267;
-Aracena;Confirmados PDIA 7 días;7;
-Aracena;Tasa PDIA 7 dias;85,20998174071819;
-Aracena;Total Confirmados ;1669;
+Aracena;Confirmados PDIA;1634;
+Aracena;Confirmados PDIA 14 días;9;
+Aracena;Tasa PDIA 14 días;0;
+Aracena;Confirmados PDIA 7 días;0;
+Aracena;Tasa PDIA 7 dias;0;
+Aracena;Total Confirmados ;1644;
 Aracena;Curados;1588;
 Aracena;Fallecidos;20;
-Aroche;Población media anual;3046;
-Aroche;Confirmados PDIA;651;
-Aroche;Confirmados PDIA 14 días;19;
-Aroche;Tasa PDIA 14 días;623,768877216021;
-Aroche;Confirmados PDIA 7 días;7;
-Aroche;Tasa PDIA 7 dias;229,80958634274458;
-Aroche;Total Confirmados ;651;
+Aroche;Confirmados PDIA;639;
+Aroche;Confirmados PDIA 14 días;7;
+Aroche;Tasa PDIA 14 días;0;
+Aroche;Confirmados PDIA 7 días;0;
+Aroche;Tasa PDIA 7 dias;0;
+Aroche;Total Confirmados ;639;
 Aroche;Curados;607;
 Aroche;Fallecidos;1;
-Berrocal;Población media anual;312;
 Berrocal;Confirmados PDIA;36;
 Berrocal;Confirmados PDIA 14 días;0;
 Berrocal;Tasa PDIA 14 días;0;
@@ -62,43 +55,38 @@ Berrocal;Tasa PDIA 7 dias;0;
 Berrocal;Total Confirmados ;36;
 Berrocal;Curados;34;
 Berrocal;Fallecidos;1;
-Calañas;Población media anual;2763;
-Calañas;Confirmados PDIA;507;
-Calañas;Confirmados PDIA 14 días;7;
-Calañas;Tasa PDIA 14 días;253,3478103510677;
-Calañas;Confirmados PDIA 7 días;3;
-Calañas;Tasa PDIA 7 dias;108,57763300760044;
-Calañas;Total Confirmados ;507;
-Calañas;Curados;493;
+Calañas;Confirmados PDIA;501;
+Calañas;Confirmados PDIA 14 días;1;
+Calañas;Tasa PDIA 14 días;0;
+Calañas;Confirmados PDIA 7 días;0;
+Calañas;Tasa PDIA 7 dias;0;
+Calañas;Total Confirmados ;501;
+Calañas;Curados;492;
 Calañas;Fallecidos;2;
-Campillo (El);Población media anual;1996;
-Campillo (El);Confirmados PDIA;404;
-Campillo (El);Confirmados PDIA 14 días;21;
-Campillo (El);Tasa PDIA 14 días;1052,1042084168337;
-Campillo (El);Confirmados PDIA 7 días;2;
-Campillo (El);Tasa PDIA 7 dias;100,20040080160321;
-Campillo (El);Total Confirmados ;404;
+Campillo (El);Confirmados PDIA;389;
+Campillo (El);Confirmados PDIA 14 días;6;
+Campillo (El);Tasa PDIA 14 días;0;
+Campillo (El);Confirmados PDIA 7 días;0;
+Campillo (El);Tasa PDIA 7 dias;0;
+Campillo (El);Total Confirmados ;389;
 Campillo (El);Curados;360;
 Campillo (El);Fallecidos;1;
-Campofrío;Población media anual;731;
-Campofrío;Confirmados PDIA;127;
-Campofrío;Confirmados PDIA 14 días;3;
-Campofrío;Tasa PDIA 14 días;410,3967168262654;
-Campofrío;Confirmados PDIA 7 días;3;
-Campofrío;Tasa PDIA 7 dias;410,3967168262654;
-Campofrío;Total Confirmados ;127;
+Campofrío;Confirmados PDIA;124;
+Campofrío;Confirmados PDIA 14 días;0;
+Campofrío;Tasa PDIA 14 días;0;
+Campofrío;Confirmados PDIA 7 días;0;
+Campofrío;Tasa PDIA 7 dias;0;
+Campofrío;Total Confirmados ;124;
 Campofrío;Curados;122;
 Campofrío;Fallecidos;0;
-Cañaveral de León;Población media anual;401;
-Cañaveral de León;Confirmados PDIA;44;
-Cañaveral de León;Confirmados PDIA 14 días;1;
-Cañaveral de León;Tasa PDIA 14 días;249,37655860349128;
+Cañaveral de León;Confirmados PDIA;43;
+Cañaveral de León;Confirmados PDIA 14 días;0;
+Cañaveral de León;Tasa PDIA 14 días;0;
 Cañaveral de León;Confirmados PDIA 7 días;0;
 Cañaveral de León;Tasa PDIA 7 dias;0;
-Cañaveral de León;Total Confirmados ;44;
+Cañaveral de León;Total Confirmados ;43;
 Cañaveral de León;Curados;43;
 Cañaveral de León;Fallecidos;0;
-Castaño del Robledo;Población media anual;230;
 Castaño del Robledo;Confirmados PDIA;16;
 Castaño del Robledo;Confirmados PDIA 14 días;0;
 Castaño del Robledo;Tasa PDIA 14 días;0;
@@ -107,34 +95,30 @@ Castaño del Robledo;Tasa PDIA 7 dias;0;
 Castaño del Robledo;Total Confirmados ;16;
 Castaño del Robledo;Curados;15;
 Castaño del Robledo;Fallecidos;0;
-Cerro de Andévalo (El);Población media anual;2320;
-Cerro de Andévalo (El);Confirmados PDIA;554;
-Cerro de Andévalo (El);Confirmados PDIA 14 días;4;
-Cerro de Andévalo (El);Tasa PDIA 14 días;172,41379310344828;
-Cerro de Andévalo (El);Confirmados PDIA 7 días;2;
-Cerro de Andévalo (El);Tasa PDIA 7 dias;86,20689655172414;
-Cerro de Andévalo (El);Total Confirmados ;555;
+Cerro de Andévalo (El);Confirmados PDIA;552;
+Cerro de Andévalo (El);Confirmados PDIA 14 días;2;
+Cerro de Andévalo (El);Tasa PDIA 14 días;0;
+Cerro de Andévalo (El);Confirmados PDIA 7 días;0;
+Cerro de Andévalo (El);Tasa PDIA 7 dias;0;
+Cerro de Andévalo (El);Total Confirmados ;553;
 Cerro de Andévalo (El);Curados;532;
 Cerro de Andévalo (El);Fallecidos;6;
-Corteconcepción;Población media anual;571;
-Corteconcepción;Confirmados PDIA;92;
-Corteconcepción;Confirmados PDIA 14 días;2;
-Corteconcepción;Tasa PDIA 14 días;350,2626970227671;
+Corteconcepción;Confirmados PDIA;90;
+Corteconcepción;Confirmados PDIA 14 días;0;
+Corteconcepción;Tasa PDIA 14 días;0;
 Corteconcepción;Confirmados PDIA 7 días;0;
 Corteconcepción;Tasa PDIA 7 dias;0;
-Corteconcepción;Total Confirmados ;92;
+Corteconcepción;Total Confirmados ;90;
 Corteconcepción;Curados;90;
 Corteconcepción;Fallecidos;0;
-Cortegana;Población media anual;4635;
-Cortegana;Confirmados PDIA;1030;
-Cortegana;Confirmados PDIA 14 días;23;
-Cortegana;Tasa PDIA 14 días;496,22437971952536;
-Cortegana;Confirmados PDIA 7 días;9;
-Cortegana;Tasa PDIA 7 dias;194,1747572815534;
-Cortegana;Total Confirmados ;1030;
+Cortegana;Confirmados PDIA;1013;
+Cortegana;Confirmados PDIA 14 días;6;
+Cortegana;Tasa PDIA 14 días;0;
+Cortegana;Confirmados PDIA 7 días;0;
+Cortegana;Tasa PDIA 7 dias;0;
+Cortegana;Total Confirmados ;1013;
 Cortegana;Curados;968;
 Cortegana;Fallecidos;2;
-Cortelazor;Población media anual;303;
 Cortelazor;Confirmados PDIA;32;
 Cortelazor;Confirmados PDIA 14 días;0;
 Cortelazor;Tasa PDIA 14 días;0;
@@ -143,7 +127,6 @@ Cortelazor;Tasa PDIA 7 dias;0;
 Cortelazor;Total Confirmados ;32;
 Cortelazor;Curados;30;
 Cortelazor;Fallecidos;1;
-Cumbres de Enmedio;Población media anual;53;
 Cumbres de Enmedio;Confirmados PDIA;2;
 Cumbres de Enmedio;Confirmados PDIA 14 días;0;
 Cumbres de Enmedio;Tasa PDIA 14 días;0;
@@ -152,7 +135,6 @@ Cumbres de Enmedio;Tasa PDIA 7 dias;0;
 Cumbres de Enmedio;Total Confirmados ;2;
 Cumbres de Enmedio;Curados;2;
 Cumbres de Enmedio;Fallecidos;0;
-Cumbres de San Bartolomé;Población media anual;374;
 Cumbres de San Bartolomé;Confirmados PDIA;29;
 Cumbres de San Bartolomé;Confirmados PDIA 14 días;0;
 Cumbres de San Bartolomé;Tasa PDIA 14 días;0;
@@ -161,25 +143,22 @@ Cumbres de San Bartolomé;Tasa PDIA 7 dias;0;
 Cumbres de San Bartolomé;Total Confirmados ;29;
 Cumbres de San Bartolomé;Curados;29;
 Cumbres de San Bartolomé;Fallecidos;0;
-Cumbres Mayores;Población media anual;1734;
-Cumbres Mayores;Confirmados PDIA;354;
-Cumbres Mayores;Confirmados PDIA 14 días;6;
-Cumbres Mayores;Tasa PDIA 14 días;346,02076124567475;
-Cumbres Mayores;Confirmados PDIA 7 días;2;
-Cumbres Mayores;Tasa PDIA 7 dias;115,34025374855824;
-Cumbres Mayores;Total Confirmados ;355;
+Cumbres Mayores;Confirmados PDIA;349;
+Cumbres Mayores;Confirmados PDIA 14 días;1;
+Cumbres Mayores;Tasa PDIA 14 días;0;
+Cumbres Mayores;Confirmados PDIA 7 días;0;
+Cumbres Mayores;Tasa PDIA 7 dias;0;
+Cumbres Mayores;Total Confirmados ;350;
 Cumbres Mayores;Curados;343;
 Cumbres Mayores;Fallecidos;2;
-Encinasola;Población media anual;1292;
-Encinasola;Confirmados PDIA;275;
-Encinasola;Confirmados PDIA 14 días;1;
-Encinasola;Tasa PDIA 14 días;77,39938080495357;
+Encinasola;Confirmados PDIA;274;
+Encinasola;Confirmados PDIA 14 días;0;
+Encinasola;Tasa PDIA 14 días;0;
 Encinasola;Confirmados PDIA 7 días;0;
 Encinasola;Tasa PDIA 7 dias;0;
-Encinasola;Total Confirmados ;275;
+Encinasola;Total Confirmados ;274;
 Encinasola;Curados;269;
 Encinasola;Fallecidos;2;
-Fuenteheridos;Población media anual;751;
 Fuenteheridos;Confirmados PDIA;100;
 Fuenteheridos;Confirmados PDIA 14 días;0;
 Fuenteheridos;Tasa PDIA 14 días;0;
@@ -188,16 +167,14 @@ Fuenteheridos;Tasa PDIA 7 dias;0;
 Fuenteheridos;Total Confirmados ;100;
 Fuenteheridos;Curados;98;
 Fuenteheridos;Fallecidos;0;
-Galaroza;Población media anual;1373;
-Galaroza;Confirmados PDIA;190;
-Galaroza;Confirmados PDIA 14 días;2;
-Galaroza;Tasa PDIA 14 días;145,66642388929353;
-Galaroza;Confirmados PDIA 7 días;1;
-Galaroza;Tasa PDIA 7 dias;72,83321194464676;
-Galaroza;Total Confirmados ;190;
+Galaroza;Confirmados PDIA;188;
+Galaroza;Confirmados PDIA 14 días;0;
+Galaroza;Tasa PDIA 14 días;0;
+Galaroza;Confirmados PDIA 7 días;0;
+Galaroza;Tasa PDIA 7 dias;0;
+Galaroza;Total Confirmados ;188;
 Galaroza;Curados;183;
 Galaroza;Fallecidos;0;
-Granada de Río-Tinto (La);Población media anual;242;
 Granada de Río-Tinto (La);Confirmados PDIA;23;
 Granada de Río-Tinto (La);Confirmados PDIA 14 días;0;
 Granada de Río-Tinto (La);Tasa PDIA 14 días;0;
@@ -206,16 +183,14 @@ Granada de Río-Tinto (La);Tasa PDIA 7 dias;0;
 Granada de Río-Tinto (La);Total Confirmados ;23;
 Granada de Río-Tinto (La);Curados;21;
 Granada de Río-Tinto (La);Fallecidos;0;
-Higuera de la Sierra;Población media anual;1326;
 Higuera de la Sierra;Confirmados PDIA;206;
 Higuera de la Sierra;Confirmados PDIA 14 días;2;
-Higuera de la Sierra;Tasa PDIA 14 días;150,82956259426848;
+Higuera de la Sierra;Tasa PDIA 14 días;0;
 Higuera de la Sierra;Confirmados PDIA 7 días;0;
 Higuera de la Sierra;Tasa PDIA 7 dias;0;
 Higuera de la Sierra;Total Confirmados ;206;
 Higuera de la Sierra;Curados;197;
 Higuera de la Sierra;Fallecidos;1;
-Hinojales;Población media anual;338;
 Hinojales;Confirmados PDIA;33;
 Hinojales;Confirmados PDIA 14 días;0;
 Hinojales;Tasa PDIA 14 días;0;
@@ -224,16 +199,14 @@ Hinojales;Tasa PDIA 7 dias;0;
 Hinojales;Total Confirmados ;33;
 Hinojales;Curados;33;
 Hinojales;Fallecidos;0;
-Jabugo;Población media anual;2247;
-Jabugo;Confirmados PDIA;426;
-Jabugo;Confirmados PDIA 14 días;9;
-Jabugo;Tasa PDIA 14 días;400,5340453938585;
-Jabugo;Confirmados PDIA 7 días;2;
-Jabugo;Tasa PDIA 7 dias;89,00756564307966;
-Jabugo;Total Confirmados ;430;
+Jabugo;Confirmados PDIA;420;
+Jabugo;Confirmados PDIA 14 días;3;
+Jabugo;Tasa PDIA 14 días;0;
+Jabugo;Confirmados PDIA 7 días;0;
+Jabugo;Tasa PDIA 7 dias;0;
+Jabugo;Total Confirmados ;424;
 Jabugo;Curados;411;
 Jabugo;Fallecidos;1;
-Linares de la Sierra;Población media anual;268;
 Linares de la Sierra;Confirmados PDIA;24;
 Linares de la Sierra;Confirmados PDIA 14 días;0;
 Linares de la Sierra;Tasa PDIA 14 días;0;
@@ -242,70 +215,62 @@ Linares de la Sierra;Tasa PDIA 7 dias;0;
 Linares de la Sierra;Total Confirmados ;24;
 Linares de la Sierra;Curados;24;
 Linares de la Sierra;Fallecidos;0;
-Marines (Los);Población media anual;410;
-Marines (Los);Confirmados PDIA;66;
-Marines (Los);Confirmados PDIA 14 días;2;
-Marines (Los);Tasa PDIA 14 días;487,8048780487805;
+Marines (Los);Confirmados PDIA;65;
+Marines (Los);Confirmados PDIA 14 días;1;
+Marines (Los);Tasa PDIA 14 días;0;
 Marines (Los);Confirmados PDIA 7 días;0;
 Marines (Los);Tasa PDIA 7 dias;0;
-Marines (Los);Total Confirmados ;66;
+Marines (Los);Total Confirmados ;65;
 Marines (Los);Curados;58;
 Marines (Los);Fallecidos;0;
-Minas de Riotinto;Población media anual;3778;
-Minas de Riotinto;Confirmados PDIA;544;
-Minas de Riotinto;Confirmados PDIA 14 días;16;
-Minas de Riotinto;Tasa PDIA 14 días;423,5044997353097;
-Minas de Riotinto;Confirmados PDIA 7 días;9;
-Minas de Riotinto;Tasa PDIA 7 dias;238,22128110111169;
-Minas de Riotinto;Total Confirmados ;545;
-Minas de Riotinto;Curados;503;
+Minas de Riotinto;Confirmados PDIA;531;
+Minas de Riotinto;Confirmados PDIA 14 días;3;
+Minas de Riotinto;Tasa PDIA 14 días;0;
+Minas de Riotinto;Confirmados PDIA 7 días;0;
+Minas de Riotinto;Tasa PDIA 7 dias;0;
+Minas de Riotinto;Total Confirmados ;532;
+Minas de Riotinto;Curados;502;
 Minas de Riotinto;Fallecidos;2;
-Nava (La);Población media anual;255;
-Nava (La);Confirmados PDIA;27;
-Nava (La);Confirmados PDIA 14 días;7;
-Nava (La);Tasa PDIA 14 días;2745,098039215686;
-Nava (La);Confirmados PDIA 7 días;7;
-Nava (La);Tasa PDIA 7 dias;2745,098039215686;
-Nava (La);Total Confirmados ;27;
+Nava (La);Confirmados PDIA;20;
+Nava (La);Confirmados PDIA 14 días;0;
+Nava (La);Tasa PDIA 14 días;0;
+Nava (La);Confirmados PDIA 7 días;0;
+Nava (La);Tasa PDIA 7 dias;0;
+Nava (La);Total Confirmados ;20;
 Nava (La);Curados;20;
 Nava (La);Fallecidos;0;
-Nerva;Población media anual;5127;
-Nerva;Confirmados PDIA;830;
-Nerva;Confirmados PDIA 14 días;15;
-Nerva;Tasa PDIA 14 días;292,5687536571094;
-Nerva;Confirmados PDIA 7 días;6;
-Nerva;Tasa PDIA 7 dias;117,02750146284377;
-Nerva;Total Confirmados ;830;
+Nerva;Confirmados PDIA;818;
+Nerva;Confirmados PDIA 14 días;3;
+Nerva;Tasa PDIA 14 días;0;
+Nerva;Confirmados PDIA 7 días;0;
+Nerva;Tasa PDIA 7 dias;0;
+Nerva;Total Confirmados ;818;
 Nerva;Curados;760;
 Nerva;Fallecidos;10;
-Puerto Moral;Población media anual;281;
-Puerto Moral;Confirmados PDIA;48;
-Puerto Moral;Confirmados PDIA 14 días;1;
-Puerto Moral;Tasa PDIA 14 días;355,87188612099646;
+Puerto Moral;Confirmados PDIA;47;
+Puerto Moral;Confirmados PDIA 14 días;0;
+Puerto Moral;Tasa PDIA 14 días;0;
 Puerto Moral;Confirmados PDIA 7 días;0;
 Puerto Moral;Tasa PDIA 7 dias;0;
-Puerto Moral;Total Confirmados ;48;
+Puerto Moral;Total Confirmados ;47;
 Puerto Moral;Curados;46;
 Puerto Moral;Fallecidos;0;
-Rosal de la Frontera;Población media anual;1682;
-Rosal de la Frontera;Confirmados PDIA;381;
-Rosal de la Frontera;Confirmados PDIA 14 días;3;
-Rosal de la Frontera;Tasa PDIA 14 días;178,359096313912;
-Rosal de la Frontera;Confirmados PDIA 7 días;1;
-Rosal de la Frontera;Tasa PDIA 7 dias;59,45303210463734;
-Rosal de la Frontera;Total Confirmados ;381;
+Rosal de la Frontera;Confirmados PDIA;379;
+Rosal de la Frontera;Confirmados PDIA 14 días;1;
+Rosal de la Frontera;Tasa PDIA 14 días;0;
+Rosal de la Frontera;Confirmados PDIA 7 días;0;
+Rosal de la Frontera;Tasa PDIA 7 dias;0;
+Rosal de la Frontera;Total Confirmados ;379;
 Rosal de la Frontera;Curados;365;
 Rosal de la Frontera;Fallecidos;1;
-Santa Ana la Real;Población media anual;489;
-Santa Ana la Real;Confirmados PDIA;68;
-Santa Ana la Real;Confirmados PDIA 14 días;2;
-Santa Ana la Real;Tasa PDIA 14 días;408,9979550102249;
-Santa Ana la Real;Confirmados PDIA 7 días;2;
-Santa Ana la Real;Tasa PDIA 7 dias;408,9979550102249;
-Santa Ana la Real;Total Confirmados ;68;
+Santa Ana la Real;Confirmados PDIA;66;
+Santa Ana la Real;Confirmados PDIA 14 días;0;
+Santa Ana la Real;Tasa PDIA 14 días;0;
+Santa Ana la Real;Confirmados PDIA 7 días;0;
+Santa Ana la Real;Tasa PDIA 7 dias;0;
+Santa Ana la Real;Total Confirmados ;66;
 Santa Ana la Real;Curados;63;
 Santa Ana la Real;Fallecidos;0;
-Valdelarco;Población media anual;236;
 Valdelarco;Confirmados PDIA;14;
 Valdelarco;Confirmados PDIA 14 días;0;
 Valdelarco;Tasa PDIA 14 días;0;
@@ -314,205 +279,190 @@ Valdelarco;Tasa PDIA 7 dias;0;
 Valdelarco;Total Confirmados ;14;
 Valdelarco;Curados;13;
 Valdelarco;Fallecidos;1;
-Valverde del Camino;Población media anual;12714;
-Valverde del Camino;Confirmados PDIA;2734;
-Valverde del Camino;Confirmados PDIA 14 días;89;
-Valverde del Camino;Tasa PDIA 14 días;700,0157306905774;
-Valverde del Camino;Confirmados PDIA 7 días;24;
-Valverde del Camino;Tasa PDIA 7 dias;188,76828692779614;
-Valverde del Camino;Total Confirmados ;2744;
+Valverde del Camino;Confirmados PDIA;2667;
+Valverde del Camino;Confirmados PDIA 14 días;22;
+Valverde del Camino;Tasa PDIA 14 días;0;
+Valverde del Camino;Confirmados PDIA 7 días;0;
+Valverde del Camino;Tasa PDIA 7 dias;0;
+Valverde del Camino;Total Confirmados ;2677;
 Valverde del Camino;Curados;2595;
 Valverde del Camino;Fallecidos;5;
-Zalamea la Real;Población media anual;3055;
-Zalamea la Real;Confirmados PDIA;407;
-Zalamea la Real;Confirmados PDIA 14 días;6;
-Zalamea la Real;Tasa PDIA 14 días;196,39934533551556;
-Zalamea la Real;Confirmados PDIA 7 días;3;
-Zalamea la Real;Tasa PDIA 7 dias;98,19967266775778;
-Zalamea la Real;Total Confirmados ;408;
+Zalamea la Real;Confirmados PDIA;402;
+Zalamea la Real;Confirmados PDIA 14 días;1;
+Zalamea la Real;Tasa PDIA 14 días;0;
+Zalamea la Real;Confirmados PDIA 7 días;0;
+Zalamea la Real;Tasa PDIA 7 dias;0;
+Zalamea la Real;Total Confirmados ;403;
 Zalamea la Real;Curados;378;
 Zalamea la Real;Fallecidos;3;
-Zarza-Perrunal (La);Población media anual;1252;
-Zarza-Perrunal (La);Confirmados PDIA;146;
-Zarza-Perrunal (La);Confirmados PDIA 14 días;5;
-Zarza-Perrunal (La);Tasa PDIA 14 días;399,36102236421726;
+Zarza-Perrunal (La);Confirmados PDIA;144;
+Zarza-Perrunal (La);Confirmados PDIA 14 días;3;
+Zarza-Perrunal (La);Tasa PDIA 14 días;0;
 Zarza-Perrunal (La);Confirmados PDIA 7 días;0;
 Zarza-Perrunal (La);Tasa PDIA 7 dias;0;
-Zarza-Perrunal (La);Total Confirmados ;146;
+Zarza-Perrunal (La);Total Confirmados ;144;
 Zarza-Perrunal (La);Curados;136;
 Zarza-Perrunal (La);Fallecidos;0;
-Condado-Campiña;Población media anual;157062;
-Condado-Campiña;Confirmados PDIA;22998;
-Condado-Campiña;Confirmados PDIA 14 días;254;
-Condado-Campiña;Tasa PDIA 14 días;161,7195757089557;
-Condado-Campiña;Confirmados PDIA 7 días;97;
-Condado-Campiña;Tasa PDIA 7 dias;61,759050566018516;
-Condado-Campiña;Total Confirmados ;23068;
-Condado-Campiña;Curados;21948;
-Condado-Campiña;Fallecidos;175;
-Almonte;Población media anual;24577;
-Almonte;Confirmados PDIA;3602;
-Almonte;Confirmados PDIA 14 días;48;
-Almonte;Tasa PDIA 14 días;195,30455303739268;
-Almonte;Confirmados PDIA 7 días;20;
-Almonte;Tasa PDIA 7 dias;81,37689709891362;
-Almonte;Total Confirmados ;3611;
+Condado-Campiña;Confirmados PDIA;22796;
+Condado-Campiña;Confirmados PDIA 14 días;52;
+Condado-Campiña;Tasa PDIA 14 días;0;
+Condado-Campiña;Confirmados PDIA 7 días;0;
+Condado-Campiña;Tasa PDIA 7 dias;0;
+Condado-Campiña;Total Confirmados ;22866;
+Condado-Campiña;Curados;21946;
+Condado-Campiña;Fallecidos;174;
+Almonte;Confirmados PDIA;3563;
+Almonte;Confirmados PDIA 14 días;9;
+Almonte;Tasa PDIA 14 días;0;
+Almonte;Confirmados PDIA 7 días;0;
+Almonte;Tasa PDIA 7 dias;0;
+Almonte;Total Confirmados ;3572;
 Almonte;Curados;3442;
 Almonte;Fallecidos;23;
-Beas;Población media anual;4464;
-Beas;Confirmados PDIA;685;
-Beas;Confirmados PDIA 14 días;22;
-Beas;Tasa PDIA 14 días;492,831541218638;
-Beas;Confirmados PDIA 7 días;8;
-Beas;Tasa PDIA 7 dias;179,21146953405017;
-Beas;Total Confirmados ;685;
+Beas;Confirmados PDIA;668;
+Beas;Confirmados PDIA 14 días;5;
+Beas;Tasa PDIA 14 días;0;
+Beas;Confirmados PDIA 7 días;0;
+Beas;Tasa PDIA 7 dias;0;
+Beas;Total Confirmados ;668;
 Beas;Curados;628;
 Beas;Fallecidos;6;
-Bollullos Par del Condado;Población media anual;14392;
-Bollullos Par del Condado;Confirmados PDIA;2098;
-Bollullos Par del Condado;Confirmados PDIA 14 días;25;
-Bollullos Par del Condado;Tasa PDIA 14 días;173,70761534185658;
-Bollullos Par del Condado;Confirmados PDIA 7 días;5;
-Bollullos Par del Condado;Tasa PDIA 7 dias;34,741523068371315;
-Bollullos Par del Condado;Total Confirmados ;2103;
-Bollullos Par del Condado;Curados;2004;
+Bollullos Par del Condado;Confirmados PDIA;2080;
+Bollullos Par del Condado;Confirmados PDIA 14 días;7;
+Bollullos Par del Condado;Tasa PDIA 14 días;0;
+Bollullos Par del Condado;Confirmados PDIA 7 días;0;
+Bollullos Par del Condado;Tasa PDIA 7 dias;0;
+Bollullos Par del Condado;Total Confirmados ;2085;
+Bollullos Par del Condado;Curados;2003;
 Bollullos Par del Condado;Fallecidos;12;
-Bonares;Población media anual;6075;
-Bonares;Confirmados PDIA;704;
-Bonares;Confirmados PDIA 14 días;10;
-Bonares;Tasa PDIA 14 días;164,6090534979424;
-Bonares;Confirmados PDIA 7 días;7;
-Bonares;Tasa PDIA 7 dias;115,22633744855968;
-Bonares;Total Confirmados ;704;
+Bonares;Confirmados PDIA;694;
+Bonares;Confirmados PDIA 14 días;0;
+Bonares;Tasa PDIA 14 días;0;
+Bonares;Confirmados PDIA 7 días;0;
+Bonares;Tasa PDIA 7 dias;0;
+Bonares;Total Confirmados ;694;
 Bonares;Curados;653;
 Bonares;Fallecidos;2;
-Escacena del Campo;Población media anual;2294;
-Escacena del Campo;Confirmados PDIA;375;
-Escacena del Campo;Confirmados PDIA 14 días;1;
-Escacena del Campo;Tasa PDIA 14 días;43,59197907585004;
+Escacena del Campo;Confirmados PDIA;374;
+Escacena del Campo;Confirmados PDIA 14 días;0;
+Escacena del Campo;Tasa PDIA 14 días;0;
 Escacena del Campo;Confirmados PDIA 7 días;0;
 Escacena del Campo;Tasa PDIA 7 dias;0;
-Escacena del Campo;Total Confirmados ;380;
+Escacena del Campo;Total Confirmados ;379;
 Escacena del Campo;Curados;364;
 Escacena del Campo;Fallecidos;9;
-Gibraleón;Población media anual;12810;
-Gibraleón;Confirmados PDIA;1671;
-Gibraleón;Confirmados PDIA 14 días;26;
-Gibraleón;Tasa PDIA 14 días;202,9664324746292;
-Gibraleón;Confirmados PDIA 7 días;8;
-Gibraleón;Tasa PDIA 7 dias;62,4512099921936;
-Gibraleón;Total Confirmados ;1677;
+Gibraleón;Confirmados PDIA;1650;
+Gibraleón;Confirmados PDIA 14 días;5;
+Gibraleón;Tasa PDIA 14 días;0;
+Gibraleón;Confirmados PDIA 7 días;0;
+Gibraleón;Tasa PDIA 7 dias;0;
+Gibraleón;Total Confirmados ;1656;
 Gibraleón;Curados;1564;
 Gibraleón;Fallecidos;21;
-Lucena del Puerto;Población media anual;3187;
-Lucena del Puerto;Confirmados PDIA;532;
-Lucena del Puerto;Confirmados PDIA 14 días;4;
-Lucena del Puerto;Tasa PDIA 14 días;125,50988390335739;
-Lucena del Puerto;Confirmados PDIA 7 días;3;
-Lucena del Puerto;Tasa PDIA 7 dias;94,13241292751805;
-Lucena del Puerto;Total Confirmados ;538;
+Lucena del Puerto;Confirmados PDIA;528;
+Lucena del Puerto;Confirmados PDIA 14 días;0;
+Lucena del Puerto;Tasa PDIA 14 días;0;
+Lucena del Puerto;Confirmados PDIA 7 días;0;
+Lucena del Puerto;Tasa PDIA 7 dias;0;
+Lucena del Puerto;Total Confirmados ;534;
 Lucena del Puerto;Curados;520;
 Lucena del Puerto;Fallecidos;3;
-Manzanilla;Población media anual;2152;
-Manzanilla;Confirmados PDIA;287;
-Manzanilla;Confirmados PDIA 14 días;4;
-Manzanilla;Tasa PDIA 14 días;185,87360594795538;
-Manzanilla;Confirmados PDIA 7 días;2;
-Manzanilla;Tasa PDIA 7 dias;92,93680297397769;
-Manzanilla;Total Confirmados ;287;
-Manzanilla;Curados;278;
+Manzanilla;Confirmados PDIA;283;
+Manzanilla;Confirmados PDIA 14 días;0;
+Manzanilla;Tasa PDIA 14 días;0;
+Manzanilla;Confirmados PDIA 7 días;0;
+Manzanilla;Tasa PDIA 7 dias;0;
+Manzanilla;Total Confirmados ;283;
+Manzanilla;Curados;277;
 Manzanilla;Fallecidos;1;
-Moguer;Población media anual;22061;
-Moguer;Confirmados PDIA;3076;
-Moguer;Confirmados PDIA 14 días;19;
-Moguer;Tasa PDIA 14 días;86,1248356828793;
-Moguer;Confirmados PDIA 7 días;7;
-Moguer;Tasa PDIA 7 dias;31,73020262000816;
-Moguer;Total Confirmados ;3082;
+Moguer;Confirmados PDIA;3062;
+Moguer;Confirmados PDIA 14 días;5;
+Moguer;Tasa PDIA 14 días;0;
+Moguer;Confirmados PDIA 7 días;0;
+Moguer;Tasa PDIA 7 dias;0;
+Moguer;Total Confirmados ;3068;
 Moguer;Curados;2964;
 Moguer;Fallecidos;9;
-Niebla;Población media anual;4158;
-Niebla;Confirmados PDIA;647;
-Niebla;Confirmados PDIA 14 días;7;
-Niebla;Tasa PDIA 14 días;168,35016835016836;
-Niebla;Confirmados PDIA 7 días;4;
-Niebla;Tasa PDIA 7 dias;96,2000962000962;
-Niebla;Total Confirmados ;650;
+Niebla;Confirmados PDIA;641;
+Niebla;Confirmados PDIA 14 días;1;
+Niebla;Tasa PDIA 14 días;0;
+Niebla;Confirmados PDIA 7 días;0;
+Niebla;Tasa PDIA 7 dias;0;
+Niebla;Total Confirmados ;644;
 Niebla;Curados;625;
 Niebla;Fallecidos;2;
-Palma del Condado (La);Población media anual;10787;
-Palma del Condado (La);Confirmados PDIA;2070;
-Palma del Condado (La);Confirmados PDIA 14 días;27;
-Palma del Condado (La);Tasa PDIA 14 días;250,3012885881153;
-Palma del Condado (La);Confirmados PDIA 7 días;8;
-Palma del Condado (La);Tasa PDIA 7 dias;74,16334476684898;
-Palma del Condado (La);Total Confirmados ;2082;
+Palma del Condado (La);Confirmados PDIA;2052;
+Palma del Condado (La);Confirmados PDIA 14 días;9;
+Palma del Condado (La);Tasa PDIA 14 días;0;
+Palma del Condado (La);Confirmados PDIA 7 días;0;
+Palma del Condado (La);Tasa PDIA 7 dias;0;
+Palma del Condado (La);Total Confirmados ;2064;
 Palma del Condado (La);Curados;1969;
 Palma del Condado (La);Fallecidos;26;
-Palos de la Frontera;Población media anual;12001;
-Palos de la Frontera;Confirmados PDIA;1873;
-Palos de la Frontera;Confirmados PDIA 14 días;14;
-Palos de la Frontera;Tasa PDIA 14 días;116,65694525456212;
-Palos de la Frontera;Confirmados PDIA 7 días;2;
-Palos de la Frontera;Tasa PDIA 7 dias;16,665277893508875;
-Palos de la Frontera;Total Confirmados ;1875;
+Palos de la Frontera;Confirmados PDIA;1862;
+Palos de la Frontera;Confirmados PDIA 14 días;3;
+Palos de la Frontera;Tasa PDIA 14 días;0;
+Palos de la Frontera;Confirmados PDIA 7 días;0;
+Palos de la Frontera;Tasa PDIA 7 dias;0;
+Palos de la Frontera;Total Confirmados ;1864;
 Palos de la Frontera;Curados;1791;
 Palos de la Frontera;Fallecidos;10;
-Paterna del Campo;Población media anual;3478;
-Paterna del Campo;Confirmados PDIA;433;
-Paterna del Campo;Confirmados PDIA 14 días;7;
-Paterna del Campo;Tasa PDIA 14 días;201,26509488211616;
-Paterna del Campo;Confirmados PDIA 7 días;4;
-Paterna del Campo;Tasa PDIA 7 dias;115,00862564692352;
-Paterna del Campo;Total Confirmados ;433;
+Paterna del Campo;Confirmados PDIA;427;
+Paterna del Campo;Confirmados PDIA 14 días;1;
+Paterna del Campo;Tasa PDIA 14 días;0;
+Paterna del Campo;Confirmados PDIA 7 días;0;
+Paterna del Campo;Tasa PDIA 7 dias;0;
+Paterna del Campo;Total Confirmados ;427;
 Paterna del Campo;Curados;414;
 Paterna del Campo;Fallecidos;3;
-Rociana del Condado;Población media anual;7834;
-Rociana del Condado;Confirmados PDIA;1042;
-Rociana del Condado;Confirmados PDIA 14 días;4;
-Rociana del Condado;Tasa PDIA 14 días;51,05948429920858;
-Rociana del Condado;Confirmados PDIA 7 días;2;
-Rociana del Condado;Tasa PDIA 7 dias;25,52974214960429;
-Rociana del Condado;Total Confirmados ;1047;
+Rociana;Confirmados PDIA;;
+Rociana;Confirmados PDIA 14 días;;
+Rociana;Tasa PDIA 14 días;0;
+Rociana;Confirmados PDIA 7 días;;
+Rociana;Tasa PDIA 7 dias;0;
+Rociana;Total Confirmados ;;
+Rociana;Curados;;
+Rociana;Fallecidos;;
+Rociana del Condado;Confirmados PDIA;1039;
+Rociana del Condado;Confirmados PDIA 14 días;1;
+Rociana del Condado;Tasa PDIA 14 días;0;
+Rociana del Condado;Confirmados PDIA 7 días;0;
+Rociana del Condado;Tasa PDIA 7 dias;0;
+Rociana del Condado;Total Confirmados ;1044;
 Rociana del Condado;Curados;991;
-Rociana del Condado;Fallecidos;9;
-San Bartolomé de la Torre;Población media anual;3846;
-San Bartolomé de la Torre;Confirmados PDIA;568;
-San Bartolomé de la Torre;Confirmados PDIA 14 días;1;
-San Bartolomé de la Torre;Tasa PDIA 14 días;26,001040041601666;
-San Bartolomé de la Torre;Confirmados PDIA 7 días;1;
-San Bartolomé de la Torre;Tasa PDIA 7 dias;26,001040041601666;
-San Bartolomé de la Torre;Total Confirmados ;569;
+Rociana del Condado;Fallecidos;8;
+San Bartolomé de la Torre;Confirmados PDIA;567;
+San Bartolomé de la Torre;Confirmados PDIA 14 días;0;
+San Bartolomé de la Torre;Tasa PDIA 14 días;0;
+San Bartolomé de la Torre;Confirmados PDIA 7 días;0;
+San Bartolomé de la Torre;Tasa PDIA 7 dias;0;
+San Bartolomé de la Torre;Total Confirmados ;568;
 San Bartolomé de la Torre;Curados;554;
 San Bartolomé de la Torre;Fallecidos;2;
-San Juan del Puerto;Población media anual;9503;
-San Juan del Puerto;Confirmados PDIA;1257;
-San Juan del Puerto;Confirmados PDIA 14 días;19;
-San Juan del Puerto;Tasa PDIA 14 días;199,93686204356518;
-San Juan del Puerto;Confirmados PDIA 7 días;11;
-San Juan del Puerto;Tasa PDIA 7 dias;115,75292013048511;
-San Juan del Puerto;Total Confirmados ;1258;
+San Juan del Puerto;Confirmados PDIA;1239;
+San Juan del Puerto;Confirmados PDIA 14 días;1;
+San Juan del Puerto;Tasa PDIA 14 días;0;
+San Juan del Puerto;Confirmados PDIA 7 días;0;
+San Juan del Puerto;Tasa PDIA 7 dias;0;
+San Juan del Puerto;Total Confirmados ;1240;
 San Juan del Puerto;Curados;1194;
 San Juan del Puerto;Fallecidos;15;
-Trigueros;Población media anual;7906;
-Trigueros;Confirmados PDIA;1063;
-Trigueros;Confirmados PDIA 14 días;14;
-Trigueros;Tasa PDIA 14 días;177,08069820389576;
-Trigueros;Confirmados PDIA 7 días;4;
-Trigueros;Tasa PDIA 7 dias;50,59448520111308;
-Trigueros;Total Confirmados ;1069;
+Trigueros;Confirmados PDIA;1054;
+Trigueros;Confirmados PDIA 14 días;5;
+Trigueros;Tasa PDIA 14 días;0;
+Trigueros;Confirmados PDIA 7 días;0;
+Trigueros;Tasa PDIA 7 dias;0;
+Trigueros;Total Confirmados ;1060;
 Trigueros;Curados;1000;
 Trigueros;Fallecidos;11;
-Villalba del Alcor;Población media anual;3334;
-Villalba del Alcor;Confirmados PDIA;660;
-Villalba del Alcor;Confirmados PDIA 14 días;2;
-Villalba del Alcor;Tasa PDIA 14 días;59,9880023995201;
-Villalba del Alcor;Confirmados PDIA 7 días;1;
-Villalba del Alcor;Tasa PDIA 7 dias;29,99400119976005;
-Villalba del Alcor;Total Confirmados ;661;
+Villalba del Alcor;Confirmados PDIA;658;
+Villalba del Alcor;Confirmados PDIA 14 días;0;
+Villalba del Alcor;Tasa PDIA 14 días;0;
+Villalba del Alcor;Confirmados PDIA 7 días;0;
+Villalba del Alcor;Tasa PDIA 7 dias;0;
+Villalba del Alcor;Total Confirmados ;659;
 Villalba del Alcor;Curados;643;
 Villalba del Alcor;Fallecidos;8;
-Villarrasa;Población media anual;2203;
 Villarrasa;Confirmados PDIA;355;
 Villarrasa;Confirmados PDIA 14 días;0;
 Villarrasa;Tasa PDIA 14 días;0;
@@ -521,25 +471,22 @@ Villarrasa;Tasa PDIA 7 dias;0;
 Villarrasa;Total Confirmados ;357;
 Villarrasa;Curados;350;
 Villarrasa;Fallecidos;3;
-Huelva-Costa;Población media anual;290301;
-Huelva-Costa;Confirmados PDIA;47814;
-Huelva-Costa;Confirmados PDIA 14 días;620;
-Huelva-Costa;Tasa PDIA 14 días;213,57143103192894;
-Huelva-Costa;Confirmados PDIA 7 días;259;
-Huelva-Costa;Tasa PDIA 7 dias;89,21774296333805;
-Huelva-Costa;Total Confirmados ;47940;
-Huelva-Costa;Curados;45457;
+Huelva-Costa;Confirmados PDIA;47310;
+Huelva-Costa;Confirmados PDIA 14 días;116;
+Huelva-Costa;Tasa PDIA 14 días;0;
+Huelva-Costa;Confirmados PDIA 7 días;0;
+Huelva-Costa;Tasa PDIA 7 dias;0;
+Huelva-Costa;Total Confirmados ;47436;
+Huelva-Costa;Curados;45454;
 Huelva-Costa;Fallecidos;242;
-Aljaraque;Población media anual;21706;
-Aljaraque;Confirmados PDIA;3335;
-Aljaraque;Confirmados PDIA 14 días;60;
-Aljaraque;Tasa PDIA 14 días;276,4212660093983;
-Aljaraque;Confirmados PDIA 7 días;22;
-Aljaraque;Tasa PDIA 7 dias;101,35446420344606;
-Aljaraque;Total Confirmados ;3348;
+Aljaraque;Confirmados PDIA;3286;
+Aljaraque;Confirmados PDIA 14 días;11;
+Aljaraque;Tasa PDIA 14 días;0;
+Aljaraque;Confirmados PDIA 7 días;0;
+Aljaraque;Tasa PDIA 7 dias;0;
+Aljaraque;Total Confirmados ;3299;
 Aljaraque;Curados;3152;
 Aljaraque;Fallecidos;18;
-Almendro (El);Población media anual;835;
 Almendro (El);Confirmados PDIA;97;
 Almendro (El);Confirmados PDIA 14 días;0;
 Almendro (El);Tasa PDIA 14 días;0;
@@ -548,25 +495,22 @@ Almendro (El);Tasa PDIA 7 dias;0;
 Almendro (El);Total Confirmados ;99;
 Almendro (El);Curados;97;
 Almendro (El);Fallecidos;0;
-Alosno;Población media anual;3929;
-Alosno;Confirmados PDIA;500;
-Alosno;Confirmados PDIA 14 días;8;
-Alosno;Tasa PDIA 14 días;203,61415118350726;
+Alosno;Confirmados PDIA;494;
+Alosno;Confirmados PDIA 14 días;2;
+Alosno;Tasa PDIA 14 días;0;
 Alosno;Confirmados PDIA 7 días;0;
 Alosno;Tasa PDIA 7 dias;0;
-Alosno;Total Confirmados ;501;
+Alosno;Total Confirmados ;495;
 Alosno;Curados;470;
 Alosno;Fallecidos;8;
-Ayamonte;Población media anual;21510;
-Ayamonte;Confirmados PDIA;3508;
-Ayamonte;Confirmados PDIA 14 días;45;
-Ayamonte;Tasa PDIA 14 días;209,20502092050208;
-Ayamonte;Confirmados PDIA 7 días;21;
-Ayamonte;Tasa PDIA 7 dias;97,62900976290098;
-Ayamonte;Total Confirmados ;3514;
+Ayamonte;Confirmados PDIA;3473;
+Ayamonte;Confirmados PDIA 14 días;10;
+Ayamonte;Tasa PDIA 14 días;0;
+Ayamonte;Confirmados PDIA 7 días;0;
+Ayamonte;Tasa PDIA 7 dias;0;
+Ayamonte;Total Confirmados ;3479;
 Ayamonte;Curados;3376;
 Ayamonte;Fallecidos;11;
-Cabezas Rubias;Población media anual;716;
 Cabezas Rubias;Confirmados PDIA;75;
 Cabezas Rubias;Confirmados PDIA 14 días;0;
 Cabezas Rubias;Tasa PDIA 14 días;0;
@@ -575,16 +519,14 @@ Cabezas Rubias;Tasa PDIA 7 dias;0;
 Cabezas Rubias;Total Confirmados ;75;
 Cabezas Rubias;Curados;74;
 Cabezas Rubias;Fallecidos;0;
-Cartaya;Población media anual;20314;
-Cartaya;Confirmados PDIA;3407;
-Cartaya;Confirmados PDIA 14 días;27;
-Cartaya;Tasa PDIA 14 días;132,9132617898986;
-Cartaya;Confirmados PDIA 7 días;11;
-Cartaya;Tasa PDIA 7 dias;54,14984739588461;
-Cartaya;Total Confirmados ;3412;
+Cartaya;Confirmados PDIA;3385;
+Cartaya;Confirmados PDIA 14 días;5;
+Cartaya;Tasa PDIA 14 días;0;
+Cartaya;Confirmados PDIA 7 días;0;
+Cartaya;Tasa PDIA 7 dias;0;
+Cartaya;Total Confirmados ;3390;
 Cartaya;Curados;3253;
 Cartaya;Fallecidos;17;
-Granado (El);Población media anual;517;
 Granado (El);Confirmados PDIA;75;
 Granado (El);Confirmados PDIA 14 días;0;
 Granado (El);Tasa PDIA 14 días;0;
@@ -593,61 +535,54 @@ Granado (El);Tasa PDIA 7 dias;0;
 Granado (El);Total Confirmados ;75;
 Granado (El);Curados;71;
 Granado (El);Fallecidos;3;
-Huelva (capital);Población media anual;142538;
-Huelva (capital);Confirmados PDIA;24349;
-Huelva (capital);Confirmados PDIA 14 días;373;
-Huelva (capital);Tasa PDIA 14 días;261,6846034040045;
-Huelva (capital);Confirmados PDIA 7 días;162;
-Huelva (capital);Tasa PDIA 7 dias;113,65390281889742;
-Huelva (capital);Total Confirmados ;24424;
-Huelva (capital);Curados;22979;
+Huelva (capital);Confirmados PDIA;24044;
+Huelva (capital);Confirmados PDIA 14 días;68;
+Huelva (capital);Tasa PDIA 14 días;0;
+Huelva (capital);Confirmados PDIA 7 días;0;
+Huelva (capital);Tasa PDIA 7 dias;0;
+Huelva (capital);Total Confirmados ;24119;
+Huelva (capital);Curados;22976;
 Huelva (capital);Fallecidos;125;
-Isla Cristina;Población media anual;21516;
-Isla Cristina;Confirmados PDIA;4349;
-Isla Cristina;Confirmados PDIA 14 días;30;
-Isla Cristina;Tasa PDIA 14 días;139,43112102621305;
-Isla Cristina;Confirmados PDIA 7 días;12;
-Isla Cristina;Tasa PDIA 7 dias;55,77244841048522;
-Isla Cristina;Total Confirmados ;4353;
+Isla Cristina;Confirmados PDIA;4323;
+Isla Cristina;Confirmados PDIA 14 días;4;
+Isla Cristina;Tasa PDIA 14 días;0;
+Isla Cristina;Confirmados PDIA 7 días;0;
+Isla Cristina;Tasa PDIA 7 dias;0;
+Isla Cristina;Total Confirmados ;4327;
 Isla Cristina;Curados;4188;
 Isla Cristina;Fallecidos;23;
-Lepe;Población media anual;28293;
-Lepe;Confirmados PDIA;4318;
-Lepe;Confirmados PDIA 14 días;26;
-Lepe;Tasa PDIA 14 días;91,89552186053088;
-Lepe;Confirmados PDIA 7 días;10;
-Lepe;Tasa PDIA 7 dias;35,344431484819566;
-Lepe;Total Confirmados ;4326;
+Lepe;Confirmados PDIA;4295;
+Lepe;Confirmados PDIA 14 días;3;
+Lepe;Tasa PDIA 14 días;0;
+Lepe;Confirmados PDIA 7 días;0;
+Lepe;Tasa PDIA 7 dias;0;
+Lepe;Total Confirmados ;4303;
 Lepe;Curados;4168;
 Lepe;Fallecidos;18;
-Paymogo;Población media anual;1149;
-Paymogo;Confirmados PDIA;130;
-Paymogo;Confirmados PDIA 14 días;2;
-Paymogo;Tasa PDIA 14 días;174,06440382941688;
-Paymogo;Confirmados PDIA 7 días;1;
-Paymogo;Tasa PDIA 7 dias;87,03220191470844;
-Paymogo;Total Confirmados ;130;
+Paymogo;Confirmados PDIA;128;
+Paymogo;Confirmados PDIA 14 días;0;
+Paymogo;Tasa PDIA 14 días;0;
+Paymogo;Confirmados PDIA 7 días;0;
+Paymogo;Tasa PDIA 7 dias;0;
+Paymogo;Total Confirmados ;128;
 Paymogo;Curados;123;
 Paymogo;Fallecidos;2;
-Puebla de Guzmán;Población media anual;3154;
-Puebla de Guzmán;Confirmados PDIA;371;
-Puebla de Guzmán;Confirmados PDIA 14 días;1;
-Puebla de Guzmán;Tasa PDIA 14 días;31,70577045022194;
-Puebla de Guzmán;Confirmados PDIA 7 días;1;
-Puebla de Guzmán;Tasa PDIA 7 dias;31,70577045022194;
-Puebla de Guzmán;Total Confirmados ;372;
+Puebla de Guzmán;Confirmados PDIA;370;
+Puebla de Guzmán;Confirmados PDIA 14 días;0;
+Puebla de Guzmán;Tasa PDIA 14 días;0;
+Puebla de Guzmán;Confirmados PDIA 7 días;0;
+Puebla de Guzmán;Tasa PDIA 7 dias;0;
+Puebla de Guzmán;Total Confirmados ;371;
 Puebla de Guzmán;Curados;352;
 Puebla de Guzmán;Fallecidos;3;
-Punta Umbría;Población media anual;15891;
-Punta Umbría;Confirmados PDIA;2196;
-Punta Umbría;Confirmados PDIA 14 días;34;
-Punta Umbría;Tasa PDIA 14 días;213,9575860549997;
-Punta Umbría;Confirmados PDIA 7 días;10;
-Punta Umbría;Tasa PDIA 7 dias;62,92870178088226;
-Punta Umbría;Total Confirmados ;2203;
+Punta Umbría;Confirmados PDIA;2174;
+Punta Umbría;Confirmados PDIA 14 días;12;
+Punta Umbría;Tasa PDIA 14 días;0;
+Punta Umbría;Confirmados PDIA 7 días;0;
+Punta Umbría;Tasa PDIA 7 dias;0;
+Punta Umbría;Total Confirmados ;2181;
 Punta Umbría;Curados;2097;
 Punta Umbría;Fallecidos;6;
-San Silvestre de Guzmán;Población media anual;653;
 San Silvestre de Guzmán;Confirmados PDIA;117;
 San Silvestre de Guzmán;Confirmados PDIA 14 días;0;
 San Silvestre de Guzmán;Tasa PDIA 14 días;0;
@@ -656,7 +591,6 @@ San Silvestre de Guzmán;Tasa PDIA 7 dias;0;
 San Silvestre de Guzmán;Total Confirmados ;117;
 San Silvestre de Guzmán;Curados;115;
 San Silvestre de Guzmán;Fallecidos;0;
-Sanlúcar de Guadiana;Población media anual;380;
 Sanlúcar de Guadiana;Confirmados PDIA;45;
 Sanlúcar de Guadiana;Confirmados PDIA 14 días;0;
 Sanlúcar de Guadiana;Tasa PDIA 14 días;0;
@@ -665,25 +599,22 @@ Sanlúcar de Guadiana;Tasa PDIA 7 dias;0;
 Sanlúcar de Guadiana;Total Confirmados ;45;
 Sanlúcar de Guadiana;Curados;44;
 Sanlúcar de Guadiana;Fallecidos;0;
-Santa Bárbara de Casa;Población media anual;1055;
-Santa Bárbara de Casa;Confirmados PDIA;100;
-Santa Bárbara de Casa;Confirmados PDIA 14 días;1;
-Santa Bárbara de Casa;Tasa PDIA 14 días;94,7867298578199;
-Santa Bárbara de Casa;Confirmados PDIA 7 días;1;
-Santa Bárbara de Casa;Tasa PDIA 7 dias;94,7867298578199;
-Santa Bárbara de Casa;Total Confirmados ;100;
+Santa Bárbara de Casa;Confirmados PDIA;99;
+Santa Bárbara de Casa;Confirmados PDIA 14 días;0;
+Santa Bárbara de Casa;Tasa PDIA 14 días;0;
+Santa Bárbara de Casa;Confirmados PDIA 7 días;0;
+Santa Bárbara de Casa;Tasa PDIA 7 dias;0;
+Santa Bárbara de Casa;Total Confirmados ;99;
 Santa Bárbara de Casa;Curados;94;
 Santa Bárbara de Casa;Fallecidos;4;
-Villablanca;Población media anual;2911;
-Villablanca;Confirmados PDIA;431;
-Villablanca;Confirmados PDIA 14 días;10;
-Villablanca;Tasa PDIA 14 días;343,52456200618343;
-Villablanca;Confirmados PDIA 7 días;6;
-Villablanca;Tasa PDIA 7 dias;206,11473720371006;
-Villablanca;Total Confirmados ;432;
+Villablanca;Confirmados PDIA;422;
+Villablanca;Confirmados PDIA 14 días;1;
+Villablanca;Tasa PDIA 14 días;0;
+Villablanca;Confirmados PDIA 7 días;0;
+Villablanca;Tasa PDIA 7 dias;0;
+Villablanca;Total Confirmados ;423;
 Villablanca;Curados;405;
 Villablanca;Fallecidos;2;
-Villanueva de las Cruces;Población media anual;385;
 Villanueva de las Cruces;Confirmados PDIA;63;
 Villanueva de las Cruces;Confirmados PDIA 14 días;0;
 Villanueva de las Cruces;Tasa PDIA 14 días;0;
@@ -692,22 +623,20 @@ Villanueva de las Cruces;Tasa PDIA 7 dias;0;
 Villanueva de las Cruces;Total Confirmados ;63;
 Villanueva de las Cruces;Curados;60;
 Villanueva de las Cruces;Fallecidos;0;
-Villanueva de los Castillejos;Población media anual;2849;
-Villanueva de los Castillejos;Confirmados PDIA;348;
-Villanueva de los Castillejos;Confirmados PDIA 14 días;3;
-Villanueva de los Castillejos;Tasa PDIA 14 días;105,3001053001053;
-Villanueva de los Castillejos;Confirmados PDIA 7 días;2;
-Villanueva de los Castillejos;Tasa PDIA 7 dias;70,2000702000702;
-Villanueva de los Castillejos;Total Confirmados ;351;
+Villanueva de los Castillejos;Confirmados PDIA;345;
+Villanueva de los Castillejos;Confirmados PDIA 14 días;0;
+Villanueva de los Castillejos;Tasa PDIA 14 días;0;
+Villanueva de los Castillejos;Confirmados PDIA 7 días;0;
+Villanueva de los Castillejos;Tasa PDIA 7 dias;0;
+Villanueva de los Castillejos;Total Confirmados ;348;
 Villanueva de los Castillejos;Curados;339;
 Villanueva de los Castillejos;Fallecidos;2;
-Municipio de Huelva sin especificar;Población media anual;;
-Municipio de Huelva sin especificar;Confirmados PDIA;498;
-Municipio de Huelva sin especificar;Confirmados PDIA 14 días;1;
-Municipio de Huelva sin especificar;Tasa PDIA 14 días;-;
-Municipio de Huelva sin especificar;Confirmados PDIA 7 días;1;
-Municipio de Huelva sin especificar;Tasa PDIA 7 dias;-;
-Municipio de Huelva sin especificar;Total Confirmados ;499;
+Municipio de Huelva sin especificar;Confirmados PDIA;497;
+Municipio de Huelva sin especificar;Confirmados PDIA 14 días;0;
+Municipio de Huelva sin especificar;Tasa PDIA 14 días;0;
+Municipio de Huelva sin especificar;Confirmados PDIA 7 días;0;
+Municipio de Huelva sin especificar;Tasa PDIA 7 dias;0;
+Municipio de Huelva sin especificar;Total Confirmados ;498;
 Municipio de Huelva sin especificar;Curados;476;
 Municipio de Huelva sin especificar;Fallecidos;9;
 
@@ -723,12 +652,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -751,7 +678,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -765,12 +691,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -793,7 +717,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -807,12 +730,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -835,7 +756,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -849,12 +769,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -877,12 +795,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -905,7 +821,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -919,12 +834,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -947,7 +860,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -961,12 +873,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -989,7 +899,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1003,12 +912,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1031,12 +938,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1059,7 +964,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1073,12 +977,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1101,7 +1003,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1115,12 +1016,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1143,7 +1042,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1157,12 +1055,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1185,7 +1081,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1199,12 +1094,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1227,7 +1120,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1241,12 +1133,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1269,7 +1159,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1283,12 +1172,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1311,7 +1198,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1325,12 +1211,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1353,12 +1237,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1381,7 +1263,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1395,12 +1276,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1423,7 +1302,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1437,12 +1315,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1465,7 +1341,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1479,12 +1354,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1507,12 +1380,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1535,7 +1406,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1549,12 +1419,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1577,7 +1445,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1591,12 +1458,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1619,7 +1484,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1633,12 +1497,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1661,12 +1523,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1689,7 +1549,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1703,12 +1562,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1731,7 +1588,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1745,12 +1601,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1773,7 +1627,6 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
@@ -1787,12 +1640,10 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1807,6 +1658,18 @@ Municipio de Huelva sin especificar;Fallecidos;9;
                
                     
                
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
                
                
                

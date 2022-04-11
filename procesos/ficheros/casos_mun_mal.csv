@@ -1,68 +1,60 @@
-Lugar de residencia;Medida;Valor;
-Málaga;Población media anual;1695651;
-Málaga;Confirmados PDIA;276339;
-Málaga;Confirmados PDIA 14 días;4047;
-Málaga;Tasa PDIA 14 días;238,66939600188954;
-Málaga;Confirmados PDIA 7 días;1532;
-Málaga;Tasa PDIA 7 dias;90,34878049787368;
-Málaga;Total Confirmados ;278330;
-Málaga;Curados;267411;
-Málaga;Fallecidos;2364;
-Axarquía;Población media anual;172068;
-Axarquía;Confirmados PDIA;27153;
-Axarquía;Confirmados PDIA 14 días;604;
-Axarquía;Tasa PDIA 14 días;351,02401376200106;
-Axarquía;Confirmados PDIA 7 días;229;
-Axarquía;Tasa PDIA 7 dias;133,08691912499708;
-Axarquía;Total Confirmados ;27244;
-Axarquía;Curados;26075;
+Territorio;Medida;Valor;
+Málaga;Confirmados PDIA;273161;
+Málaga;Confirmados PDIA 14 días;869;
+Málaga;Tasa PDIA 14 días;0;
+Málaga;Confirmados PDIA 7 días;0;
+Málaga;Tasa PDIA 7 dias;0;
+Málaga;Total Confirmados ;275150;
+Málaga;Curados;267367;
+Málaga;Fallecidos;2353;
+Axarquía;Confirmados PDIA;26678;
+Axarquía;Confirmados PDIA 14 días;129;
+Axarquía;Tasa PDIA 14 días;0;
+Axarquía;Confirmados PDIA 7 días;0;
+Axarquía;Tasa PDIA 7 dias;0;
+Axarquía;Total Confirmados ;26769;
+Axarquía;Curados;26073;
 Axarquía;Fallecidos;203;
-Alcaucín;Población media anual;2366;
-Alcaucín;Confirmados PDIA;312;
-Alcaucín;Confirmados PDIA 14 días;3;
-Alcaucín;Tasa PDIA 14 días;126,79628064243448;
-Alcaucín;Confirmados PDIA 7 días;1;
-Alcaucín;Tasa PDIA 7 dias;42,265426880811496;
-Alcaucín;Total Confirmados ;312;
+Alcaucín;Confirmados PDIA;311;
+Alcaucín;Confirmados PDIA 14 días;2;
+Alcaucín;Tasa PDIA 14 días;0;
+Alcaucín;Confirmados PDIA 7 días;0;
+Alcaucín;Tasa PDIA 7 dias;0;
+Alcaucín;Total Confirmados ;311;
 Alcaucín;Curados;304;
 Alcaucín;Fallecidos;3;
-Alfarnate;Población media anual;1057;
-Alfarnate;Confirmados PDIA;172;
-Alfarnate;Confirmados PDIA 14 días;1;
-Alfarnate;Tasa PDIA 14 días;94,6073793755913;
-Alfarnate;Confirmados PDIA 7 días;1;
-Alfarnate;Tasa PDIA 7 dias;94,6073793755913;
-Alfarnate;Total Confirmados ;172;
+Alfarnate;Confirmados PDIA;171;
+Alfarnate;Confirmados PDIA 14 días;0;
+Alfarnate;Tasa PDIA 14 días;0;
+Alfarnate;Confirmados PDIA 7 días;0;
+Alfarnate;Tasa PDIA 7 dias;0;
+Alfarnate;Total Confirmados ;171;
 Alfarnate;Curados;165;
 Alfarnate;Fallecidos;3;
-Alfarnatejo;Población media anual;358;
 Alfarnatejo;Confirmados PDIA;53;
 Alfarnatejo;Confirmados PDIA 14 días;1;
-Alfarnatejo;Tasa PDIA 14 días;279,3296089385475;
+Alfarnatejo;Tasa PDIA 14 días;0;
 Alfarnatejo;Confirmados PDIA 7 días;0;
 Alfarnatejo;Tasa PDIA 7 dias;0;
 Alfarnatejo;Total Confirmados ;53;
 Alfarnatejo;Curados;51;
 Alfarnatejo;Fallecidos;1;
-Algarrobo;Población media anual;6551;
-Algarrobo;Confirmados PDIA;1082;
-Algarrobo;Confirmados PDIA 14 días;15;
-Algarrobo;Tasa PDIA 14 días;228,97267592733934;
-Algarrobo;Confirmados PDIA 7 días;7;
-Algarrobo;Tasa PDIA 7 dias;106,85391543275836;
-Algarrobo;Total Confirmados ;1087;
+Algarrobo;Confirmados PDIA;1072;
+Algarrobo;Confirmados PDIA 14 días;5;
+Algarrobo;Tasa PDIA 14 días;0;
+Algarrobo;Confirmados PDIA 7 días;0;
+Algarrobo;Tasa PDIA 7 dias;0;
+Algarrobo;Total Confirmados ;1077;
 Algarrobo;Curados;1048;
 Algarrobo;Fallecidos;4;
-Almáchar;Población media anual;1843;
 Almáchar;Confirmados PDIA;279;
 Almáchar;Confirmados PDIA 14 días;1;
-Almáchar;Tasa PDIA 14 días;54,25935973955507;
+Almáchar;Tasa PDIA 14 días;0;
 Almáchar;Confirmados PDIA 7 días;0;
 Almáchar;Tasa PDIA 7 dias;0;
 Almáchar;Total Confirmados ;279;
 Almáchar;Curados;271;
 Almáchar;Fallecidos;5;
-Árchez;Población media anual;398;
 Árchez;Confirmados PDIA;34;
 Árchez;Confirmados PDIA 14 días;0;
 Árchez;Tasa PDIA 14 días;0;
@@ -71,34 +63,30 @@ Almáchar;Fallecidos;5;
 Árchez;Total Confirmados ;34;
 Árchez;Curados;34;
 Árchez;Fallecidos;0;
-Arenas;Población media anual;1181;
-Arenas;Confirmados PDIA;130;
-Arenas;Confirmados PDIA 14 días;4;
-Arenas;Tasa PDIA 14 días;338,69602032176124;
-Arenas;Confirmados PDIA 7 días;2;
-Arenas;Tasa PDIA 7 dias;169,34801016088062;
-Arenas;Total Confirmados ;130;
+Arenas;Confirmados PDIA;127;
+Arenas;Confirmados PDIA 14 días;1;
+Arenas;Tasa PDIA 14 días;0;
+Arenas;Confirmados PDIA 7 días;0;
+Arenas;Tasa PDIA 7 dias;0;
+Arenas;Total Confirmados ;127;
 Arenas;Curados;124;
 Arenas;Fallecidos;1;
-Benamargosa;Población media anual;1535;
-Benamargosa;Confirmados PDIA;185;
-Benamargosa;Confirmados PDIA 14 días;11;
-Benamargosa;Tasa PDIA 14 días;716,6123778501628;
-Benamargosa;Confirmados PDIA 7 días;6;
-Benamargosa;Tasa PDIA 7 dias;390,87947882736154;
-Benamargosa;Total Confirmados ;186;
+Benamargosa;Confirmados PDIA;176;
+Benamargosa;Confirmados PDIA 14 días;2;
+Benamargosa;Tasa PDIA 14 días;0;
+Benamargosa;Confirmados PDIA 7 días;0;
+Benamargosa;Tasa PDIA 7 dias;0;
+Benamargosa;Total Confirmados ;177;
 Benamargosa;Curados;173;
 Benamargosa;Fallecidos;0;
-Benamocarra;Población media anual;3030;
-Benamocarra;Confirmados PDIA;421;
-Benamocarra;Confirmados PDIA 14 días;4;
-Benamocarra;Tasa PDIA 14 días;132,01320132013203;
-Benamocarra;Confirmados PDIA 7 días;2;
-Benamocarra;Tasa PDIA 7 dias;66,00660066006601;
-Benamocarra;Total Confirmados ;423;
+Benamocarra;Confirmados PDIA;418;
+Benamocarra;Confirmados PDIA 14 días;1;
+Benamocarra;Tasa PDIA 14 días;0;
+Benamocarra;Confirmados PDIA 7 días;0;
+Benamocarra;Tasa PDIA 7 dias;0;
+Benamocarra;Total Confirmados ;420;
 Benamocarra;Curados;413;
 Benamocarra;Fallecidos;2;
-Borge (El);Población media anual;906;
 Borge (El);Confirmados PDIA;140;
 Borge (El);Confirmados PDIA 14 días;0;
 Borge (El);Tasa PDIA 14 días;0;
@@ -107,16 +95,14 @@ Borge (El);Tasa PDIA 7 dias;0;
 Borge (El);Total Confirmados ;140;
 Borge (El);Curados;135;
 Borge (El);Fallecidos;1;
-Canillas de Aceituno;Población media anual;1704;
-Canillas de Aceituno;Confirmados PDIA;122;
-Canillas de Aceituno;Confirmados PDIA 14 días;3;
-Canillas de Aceituno;Tasa PDIA 14 días;176,05633802816902;
-Canillas de Aceituno;Confirmados PDIA 7 días;3;
-Canillas de Aceituno;Tasa PDIA 7 dias;176,05633802816902;
-Canillas de Aceituno;Total Confirmados ;122;
+Canillas de Aceituno;Confirmados PDIA;119;
+Canillas de Aceituno;Confirmados PDIA 14 días;0;
+Canillas de Aceituno;Tasa PDIA 14 días;0;
+Canillas de Aceituno;Confirmados PDIA 7 días;0;
+Canillas de Aceituno;Tasa PDIA 7 dias;0;
+Canillas de Aceituno;Total Confirmados ;119;
 Canillas de Aceituno;Curados;119;
 Canillas de Aceituno;Fallecidos;0;
-Canillas de Albaida;Población media anual;811;
 Canillas de Albaida;Confirmados PDIA;55;
 Canillas de Albaida;Confirmados PDIA 14 días;0;
 Canillas de Albaida;Tasa PDIA 14 días;0;
@@ -125,97 +111,86 @@ Canillas de Albaida;Tasa PDIA 7 dias;0;
 Canillas de Albaida;Total Confirmados ;55;
 Canillas de Albaida;Curados;54;
 Canillas de Albaida;Fallecidos;1;
-Casabermeja;Población media anual;3712;
-Casabermeja;Confirmados PDIA;715;
-Casabermeja;Confirmados PDIA 14 días;43;
-Casabermeja;Tasa PDIA 14 días;1158,405172413793;
-Casabermeja;Confirmados PDIA 7 días;11;
-Casabermeja;Tasa PDIA 7 dias;296,33620689655174;
-Casabermeja;Total Confirmados ;718;
+Casabermeja;Confirmados PDIA;673;
+Casabermeja;Confirmados PDIA 14 días;1;
+Casabermeja;Tasa PDIA 14 días;0;
+Casabermeja;Confirmados PDIA 7 días;0;
+Casabermeja;Tasa PDIA 7 dias;0;
+Casabermeja;Total Confirmados ;676;
 Casabermeja;Curados;660;
 Casabermeja;Fallecidos;2;
-Colmenar;Población media anual;3450;
-Colmenar;Confirmados PDIA;545;
-Colmenar;Confirmados PDIA 14 días;7;
-Colmenar;Tasa PDIA 14 días;202,8985507246377;
-Colmenar;Confirmados PDIA 7 días;1;
-Colmenar;Tasa PDIA 7 dias;28,985507246376812;
-Colmenar;Total Confirmados ;548;
+Colmenar;Confirmados PDIA;540;
+Colmenar;Confirmados PDIA 14 días;2;
+Colmenar;Tasa PDIA 14 días;0;
+Colmenar;Confirmados PDIA 7 días;0;
+Colmenar;Tasa PDIA 7 dias;0;
+Colmenar;Total Confirmados ;543;
 Colmenar;Curados;519;
 Colmenar;Fallecidos;6;
-Comares;Población media anual;1349;
-Comares;Confirmados PDIA;94;
-Comares;Confirmados PDIA 14 días;4;
-Comares;Tasa PDIA 14 días;296,5159377316531;
-Comares;Confirmados PDIA 7 días;1;
-Comares;Tasa PDIA 7 dias;74,12898443291327;
-Comares;Total Confirmados ;94;
+Comares;Confirmados PDIA;91;
+Comares;Confirmados PDIA 14 días;1;
+Comares;Tasa PDIA 14 días;0;
+Comares;Confirmados PDIA 7 días;0;
+Comares;Tasa PDIA 7 dias;0;
+Comares;Total Confirmados ;91;
 Comares;Curados;89;
 Comares;Fallecidos;0;
-Cómpeta;Población media anual;3866;
-Cómpeta;Confirmados PDIA;367;
-Cómpeta;Confirmados PDIA 14 días;9;
-Cómpeta;Tasa PDIA 14 días;232,79875840662183;
-Cómpeta;Confirmados PDIA 7 días;1;
-Cómpeta;Tasa PDIA 7 dias;25,866528711846872;
-Cómpeta;Total Confirmados ;367;
+Cómpeta;Confirmados PDIA;360;
+Cómpeta;Confirmados PDIA 14 días;2;
+Cómpeta;Tasa PDIA 14 días;0;
+Cómpeta;Confirmados PDIA 7 días;0;
+Cómpeta;Tasa PDIA 7 dias;0;
+Cómpeta;Total Confirmados ;360;
 Cómpeta;Curados;350;
 Cómpeta;Fallecidos;2;
-Cútar;Población media anual;602;
-Cútar;Confirmados PDIA;62;
-Cútar;Confirmados PDIA 14 días;3;
-Cútar;Tasa PDIA 14 días;498,33887043189367;
-Cútar;Confirmados PDIA 7 días;2;
-Cútar;Tasa PDIA 7 dias;332,22591362126246;
-Cútar;Total Confirmados ;62;
+Cútar;Confirmados PDIA;59;
+Cútar;Confirmados PDIA 14 días;0;
+Cútar;Tasa PDIA 14 días;0;
+Cútar;Confirmados PDIA 7 días;0;
+Cútar;Tasa PDIA 7 dias;0;
+Cútar;Total Confirmados ;59;
 Cútar;Curados;58;
 Cútar;Fallecidos;1;
-Frigiliana;Población media anual;3198;
-Frigiliana;Confirmados PDIA;353;
-Frigiliana;Confirmados PDIA 14 días;19;
-Frigiliana;Tasa PDIA 14 días;594,1213258286429;
-Frigiliana;Confirmados PDIA 7 días;4;
-Frigiliana;Tasa PDIA 7 dias;125,07817385866166;
-Frigiliana;Total Confirmados ;353;
+Frigiliana;Confirmados PDIA;336;
+Frigiliana;Confirmados PDIA 14 días;2;
+Frigiliana;Tasa PDIA 14 días;0;
+Frigiliana;Confirmados PDIA 7 días;0;
+Frigiliana;Tasa PDIA 7 dias;0;
+Frigiliana;Total Confirmados ;336;
 Frigiliana;Curados;325;
 Frigiliana;Fallecidos;1;
-Iznate;Población media anual;912;
-Iznate;Confirmados PDIA;104;
-Iznate;Confirmados PDIA 14 días;6;
-Iznate;Tasa PDIA 14 días;657,8947368421053;
-Iznate;Confirmados PDIA 7 días;2;
-Iznate;Tasa PDIA 7 dias;219,2982456140351;
-Iznate;Total Confirmados ;104;
+Iznate;Confirmados PDIA;100;
+Iznate;Confirmados PDIA 14 días;2;
+Iznate;Tasa PDIA 14 días;0;
+Iznate;Confirmados PDIA 7 días;0;
+Iznate;Tasa PDIA 7 dias;0;
+Iznate;Total Confirmados ;100;
 Iznate;Curados;97;
 Iznate;Fallecidos;0;
-Nerja;Población media anual;21018;
-Nerja;Confirmados PDIA;2978;
-Nerja;Confirmados PDIA 14 días;61;
-Nerja;Tasa PDIA 14 días;290,22742411266535;
-Nerja;Confirmados PDIA 7 días;27;
-Nerja;Tasa PDIA 7 dias;128,4613188695404;
-Nerja;Total Confirmados ;2983;
+Nerja;Confirmados PDIA;2926;
+Nerja;Confirmados PDIA 14 días;9;
+Nerja;Tasa PDIA 14 días;0;
+Nerja;Confirmados PDIA 7 días;0;
+Nerja;Tasa PDIA 7 dias;0;
+Nerja;Total Confirmados ;2931;
 Nerja;Curados;2861;
 Nerja;Fallecidos;23;
-Periana;Población media anual;3159;
-Periana;Confirmados PDIA;476;
-Periana;Confirmados PDIA 14 días;10;
-Periana;Tasa PDIA 14 días;316,5558721114277;
-Periana;Confirmados PDIA 7 días;6;
-Periana;Tasa PDIA 7 dias;189,9335232668566;
-Periana;Total Confirmados ;476;
+Periana;Confirmados PDIA;466;
+Periana;Confirmados PDIA 14 días;0;
+Periana;Tasa PDIA 14 días;0;
+Periana;Confirmados PDIA 7 días;0;
+Periana;Tasa PDIA 7 dias;0;
+Periana;Total Confirmados ;466;
 Periana;Curados;460;
 Periana;Fallecidos;2;
-Riogordo;Población media anual;2734;
-Riogordo;Confirmados PDIA;368;
-Riogordo;Confirmados PDIA 14 días;11;
-Riogordo;Tasa PDIA 14 días;402,34089246525235;
-Riogordo;Confirmados PDIA 7 días;5;
-Riogordo;Tasa PDIA 7 dias;182,882223847842;
-Riogordo;Total Confirmados ;368;
-Riogordo;Curados;350;
+Riogordo;Confirmados PDIA;359;
+Riogordo;Confirmados PDIA 14 días;2;
+Riogordo;Tasa PDIA 14 días;0;
+Riogordo;Confirmados PDIA 7 días;0;
+Riogordo;Tasa PDIA 7 dias;0;
+Riogordo;Total Confirmados ;359;
+Riogordo;Curados;349;
 Riogordo;Fallecidos;6;
-Salares;Población media anual;173;
 Salares;Confirmados PDIA;25;
 Salares;Confirmados PDIA 14 días;0;
 Salares;Tasa PDIA 14 días;0;
@@ -224,16 +199,14 @@ Salares;Tasa PDIA 7 dias;0;
 Salares;Total Confirmados ;25;
 Salares;Curados;23;
 Salares;Fallecidos;1;
-Sayalonga;Población media anual;1614;
-Sayalonga;Confirmados PDIA;176;
-Sayalonga;Confirmados PDIA 14 días;4;
-Sayalonga;Tasa PDIA 14 días;247,83147459727385;
-Sayalonga;Confirmados PDIA 7 días;2;
-Sayalonga;Tasa PDIA 7 dias;123,91573729863693;
-Sayalonga;Total Confirmados ;176;
+Sayalonga;Confirmados PDIA;173;
+Sayalonga;Confirmados PDIA 14 días;1;
+Sayalonga;Tasa PDIA 14 días;0;
+Sayalonga;Confirmados PDIA 7 días;0;
+Sayalonga;Tasa PDIA 7 dias;0;
+Sayalonga;Total Confirmados ;173;
 Sayalonga;Curados;167;
 Sayalonga;Fallecidos;3;
-Sedella;Población media anual;592;
 Sedella;Confirmados PDIA;25;
 Sedella;Confirmados PDIA 14 días;0;
 Sedella;Tasa PDIA 14 días;0;
@@ -242,88 +215,78 @@ Sedella;Tasa PDIA 7 dias;0;
 Sedella;Total Confirmados ;25;
 Sedella;Curados;24;
 Sedella;Fallecidos;0;
-Torrox;Población media anual;18937;
-Torrox;Confirmados PDIA;2204;
-Torrox;Confirmados PDIA 14 días;49;
-Torrox;Tasa PDIA 14 días;258,75270634208164;
-Torrox;Confirmados PDIA 7 días;17;
-Torrox;Tasa PDIA 7 dias;89,77134709827322;
-Torrox;Total Confirmados ;2214;
+Torrox;Confirmados PDIA;2172;
+Torrox;Confirmados PDIA 14 días;17;
+Torrox;Tasa PDIA 14 días;0;
+Torrox;Confirmados PDIA 7 días;0;
+Torrox;Tasa PDIA 7 dias;0;
+Torrox;Total Confirmados ;2182;
 Torrox;Curados;2114;
 Torrox;Fallecidos;9;
-Vélez-Málaga;Población media anual;82967;
-Vélez-Málaga;Confirmados PDIA;15475;
-Vélez-Málaga;Confirmados PDIA 14 días;331;
-Vélez-Málaga;Tasa PDIA 14 días;398,9538009087951;
-Vélez-Málaga;Confirmados PDIA 7 días;128;
-Vélez-Málaga;Tasa PDIA 7 dias;154,27820699796305;
-Vélez-Málaga;Total Confirmados ;15537;
-Vélez-Málaga;Curados;14893;
+Vélez-Málaga;Confirmados PDIA;15220;
+Vélez-Málaga;Confirmados PDIA 14 días;76;
+Vélez-Málaga;Tasa PDIA 14 días;0;
+Vélez-Málaga;Confirmados PDIA 7 días;0;
+Vélez-Málaga;Tasa PDIA 7 dias;0;
+Vélez-Málaga;Total Confirmados ;15282;
+Vélez-Málaga;Curados;14892;
 Vélez-Málaga;Fallecidos;124;
-Viñuela;Población media anual;2045;
-Viñuela;Confirmados PDIA;201;
-Viñuela;Confirmados PDIA 14 días;4;
-Viñuela;Tasa PDIA 14 días;195,59902200488997;
+Viñuela;Confirmados PDIA;198;
+Viñuela;Confirmados PDIA 14 días;1;
+Viñuela;Tasa PDIA 14 días;0;
 Viñuela;Confirmados PDIA 7 días;0;
 Viñuela;Tasa PDIA 7 dias;0;
-Viñuela;Total Confirmados ;201;
+Viñuela;Total Confirmados ;198;
 Viñuela;Curados;194;
 Viñuela;Fallecidos;2;
-Costa del Sol;Población media anual;565035;
-Costa del Sol;Confirmados PDIA;84219;
-Costa del Sol;Confirmados PDIA 14 días;998;
-Costa del Sol;Tasa PDIA 14 días;176,6262266939216;
-Costa del Sol;Confirmados PDIA 7 días;364;
-Costa del Sol;Tasa PDIA 7 dias;64,42078809277301;
-Costa del Sol;Total Confirmados ;84820;
-Costa del Sol;Curados;81581;
-Costa del Sol;Fallecidos;676;
-Benahavís;Población media anual;7829;
-Benahavís;Confirmados PDIA;666;
-Benahavís;Confirmados PDIA 14 días;6;
-Benahavís;Tasa PDIA 14 días;76,63814024779666;
-Benahavís;Confirmados PDIA 7 días;4;
-Benahavís;Tasa PDIA 7 dias;51,0920934985311;
-Benahavís;Total Confirmados ;671;
+Costa del Sol;Confirmados PDIA;83435;
+Costa del Sol;Confirmados PDIA 14 días;214;
+Costa del Sol;Tasa PDIA 14 días;0;
+Costa del Sol;Confirmados PDIA 7 días;0;
+Costa del Sol;Tasa PDIA 7 dias;0;
+Costa del Sol;Total Confirmados ;84036;
+Costa del Sol;Curados;81580;
+Costa del Sol;Fallecidos;672;
+Benahavís;Confirmados PDIA;661;
+Benahavís;Confirmados PDIA 14 días;1;
+Benahavís;Tasa PDIA 14 días;0;
+Benahavís;Confirmados PDIA 7 días;0;
+Benahavís;Tasa PDIA 7 dias;0;
+Benahavís;Total Confirmados ;666;
 Benahavís;Curados;649;
 Benahavís;Fallecidos;5;
-Benalmádena;Población media anual;70204;
-Benalmádena;Confirmados PDIA;10494;
-Benalmádena;Confirmados PDIA 14 días;137;
-Benalmádena;Tasa PDIA 14 días;195,14557575066948;
-Benalmádena;Confirmados PDIA 7 días;64;
-Benalmádena;Tasa PDIA 7 dias;91,16289670104267;
-Benalmádena;Total Confirmados ;10573;
+Benalmádena;Confirmados PDIA;10385;
+Benalmádena;Confirmados PDIA 14 días;28;
+Benalmádena;Tasa PDIA 14 días;0;
+Benalmádena;Confirmados PDIA 7 días;0;
+Benalmádena;Tasa PDIA 7 dias;0;
+Benalmádena;Total Confirmados ;10464;
 Benalmádena;Curados;10135;
 Benalmádena;Fallecidos;82;
-Casares;Población media anual;7342;
-Casares;Confirmados PDIA;720;
-Casares;Confirmados PDIA 14 días;8;
-Casares;Tasa PDIA 14 días;108,9621356578589;
-Casares;Confirmados PDIA 7 días;2;
-Casares;Tasa PDIA 7 dias;27,240533914464724;
-Casares;Total Confirmados ;725;
+Casares;Confirmados PDIA;716;
+Casares;Confirmados PDIA 14 días;4;
+Casares;Tasa PDIA 14 días;0;
+Casares;Confirmados PDIA 7 días;0;
+Casares;Tasa PDIA 7 dias;0;
+Casares;Total Confirmados ;721;
 Casares;Curados;693;
 Casares;Fallecidos;13;
-Estepona;Población media anual;71925;
-Estepona;Confirmados PDIA;11064;
-Estepona;Confirmados PDIA 14 días;174;
-Estepona;Tasa PDIA 14 días;241,9186652763295;
-Estepona;Confirmados PDIA 7 días;55;
-Estepona;Tasa PDIA 7 dias;76,46854362182829;
-Estepona;Total Confirmados ;11137;
+Estepona;Confirmados PDIA;10923;
+Estepona;Confirmados PDIA 14 días;33;
+Estepona;Tasa PDIA 14 días;0;
+Estepona;Confirmados PDIA 7 días;0;
+Estepona;Tasa PDIA 7 dias;0;
+Estepona;Total Confirmados ;10996;
 Estepona;Curados;10719;
 Estepona;Fallecidos;71;
-Fuengirola;Población media anual;82585;
-Fuengirola;Confirmados PDIA;10654;
-Fuengirola;Confirmados PDIA 14 días;174;
-Fuengirola;Tasa PDIA 14 días;210,69201428830903;
-Fuengirola;Confirmados PDIA 7 días;50;
-Fuengirola;Tasa PDIA 7 dias;60,54368226675546;
-Fuengirola;Total Confirmados ;10698;
+Fuengirola;Confirmados PDIA;10521;
+Fuengirola;Confirmados PDIA 14 días;41;
+Fuengirola;Tasa PDIA 14 días;0;
+Fuengirola;Confirmados PDIA 7 días;0;
+Fuengirola;Tasa PDIA 7 dias;0;
+Fuengirola;Total Confirmados ;10565;
 Fuengirola;Curados;10236;
 Fuengirola;Fallecidos;83;
-Istán;Población media anual;1520;
 Istán;Confirmados PDIA;208;
 Istán;Confirmados PDIA 14 días;0;
 Istán;Tasa PDIA 14 días;0;
@@ -332,250 +295,238 @@ Istán;Tasa PDIA 7 dias;0;
 Istán;Total Confirmados ;208;
 Istán;Curados;198;
 Istán;Fallecidos;4;
-Manilva;Población media anual;16849;
-Manilva;Confirmados PDIA;2205;
-Manilva;Confirmados PDIA 14 días;16;
-Manilva;Tasa PDIA 14 días;94,96112528933467;
-Manilva;Confirmados PDIA 7 días;6;
-Manilva;Tasa PDIA 7 dias;35,6104219835005;
-Manilva;Total Confirmados ;2208;
+Manilva;Confirmados PDIA;2194;
+Manilva;Confirmados PDIA 14 días;5;
+Manilva;Tasa PDIA 14 días;0;
+Manilva;Confirmados PDIA 7 días;0;
+Manilva;Tasa PDIA 7 dias;0;
+Manilva;Total Confirmados ;2197;
 Manilva;Curados;2134;
-Manilva;Fallecidos;27;
-Marbella;Población media anual;147958;
-Marbella;Confirmados PDIA;26865;
-Marbella;Confirmados PDIA 14 días;202;
-Marbella;Tasa PDIA 14 días;136,52523013287555;
-Marbella;Confirmados PDIA 7 días;73;
-Marbella;Tasa PDIA 7 dias;49,33832574108869;
-Marbella;Total Confirmados ;27153;
+Manilva;Fallecidos;26;
+Marbella;Confirmados PDIA;26702;
+Marbella;Confirmados PDIA 14 días;39;
+Marbella;Tasa PDIA 14 días;0;
+Marbella;Confirmados PDIA 7 días;0;
+Marbella;Tasa PDIA 7 dias;0;
+Marbella;Total Confirmados ;26990;
 Marbella;Curados;26207;
-Marbella;Fallecidos;273;
-Mijas;Población media anual;86744;
-Mijas;Confirmados PDIA;11519;
-Mijas;Confirmados PDIA 14 días;161;
-Mijas;Tasa PDIA 14 días;185,60361523563589;
-Mijas;Confirmados PDIA 7 días;59;
-Mijas;Tasa PDIA 7 dias;68,01623167020198;
-Mijas;Total Confirmados ;11561;
+Marbella;Fallecidos;272;
+Mijas;Confirmados PDIA;11393;
+Mijas;Confirmados PDIA 14 días;35;
+Mijas;Tasa PDIA 14 días;0;
+Mijas;Confirmados PDIA 7 días;0;
+Mijas;Tasa PDIA 7 dias;0;
+Mijas;Total Confirmados ;11435;
 Mijas;Curados;11111;
-Mijas;Fallecidos;67;
-Ojén;Población media anual;4023;
-Ojén;Confirmados PDIA;503;
-Ojén;Confirmados PDIA 14 días;1;
-Ojén;Tasa PDIA 14 días;24,85707183693761;
-Ojén;Confirmados PDIA 7 días;1;
-Ojén;Tasa PDIA 7 dias;24,85707183693761;
-Ojén;Total Confirmados ;507;
+Mijas;Fallecidos;66;
+Ojén;Confirmados PDIA;502;
+Ojén;Confirmados PDIA 14 días;0;
+Ojén;Tasa PDIA 14 días;0;
+Ojén;Confirmados PDIA 7 días;0;
+Ojén;Tasa PDIA 7 dias;0;
+Ojén;Total Confirmados ;506;
 Ojén;Curados;488;
 Ojén;Fallecidos;3;
-Torremolinos;Población media anual;68056;
-Torremolinos;Confirmados PDIA;9321;
-Torremolinos;Confirmados PDIA 14 días;119;
-Torremolinos;Tasa PDIA 14 días;174,85600094040203;
-Torremolinos;Confirmados PDIA 7 días;50;
-Torremolinos;Tasa PDIA 7 dias;73,46890795815212;
-Torremolinos;Total Confirmados ;9379;
-Torremolinos;Curados;9011;
-Torremolinos;Fallecidos;48;
-La Vega;Población media anual;110339;
-La Vega;Confirmados PDIA;16472;
-La Vega;Confirmados PDIA 14 días;326;
-La Vega;Tasa PDIA 14 días;295,4531036170348;
-La Vega;Confirmados PDIA 7 días;162;
-La Vega;Tasa PDIA 7 dias;146,82025394466146;
-La Vega;Total Confirmados ;16594;
+Torremolinos;Confirmados PDIA;;
+Torremolinos;Confirmados PDIA 14 días;;
+Torremolinos;Tasa PDIA 14 días;0;
+Torremolinos;Confirmados PDIA 7 días;;
+Torremolinos;Tasa PDIA 7 dias;0;
+Torremolinos;Total Confirmados ;;
+Torremolinos;Curados;;
+Torremolinos;Fallecidos;;
+Torremolinos;Confirmados PDIA;9230;
+Torremolinos;Confirmados PDIA 14 días;28;
+Torremolinos;Tasa PDIA 14 días;0;
+Torremolinos;Confirmados PDIA 7 días;0;
+Torremolinos;Tasa PDIA 7 dias;0;
+Torremolinos;Total Confirmados ;9288;
+Torremolinos;Curados;9010;
+Torremolinos;Fallecidos;47;
+La Vega;Confirmados PDIA;16211;
+La Vega;Confirmados PDIA 14 días;65;
+La Vega;Tasa PDIA 14 días;0;
+La Vega;Confirmados PDIA 7 días;0;
+La Vega;Tasa PDIA 7 dias;0;
+La Vega;Total Confirmados ;16332;
 La Vega;Curados;15910;
 La Vega;Fallecidos;148;
-Alameda;Población media anual;5453;
-Alameda;Confirmados PDIA;1049;
-Alameda;Confirmados PDIA 14 días;7;
-Alameda;Tasa PDIA 14 días;128,36970474967907;
-Alameda;Confirmados PDIA 7 días;2;
-Alameda;Tasa PDIA 7 dias;36,677058499908306;
-Alameda;Total Confirmados ;1050;
+Alameda;Confirmados PDIA;1042;
+Alameda;Confirmados PDIA 14 días;0;
+Alameda;Tasa PDIA 14 días;0;
+Alameda;Confirmados PDIA 7 días;0;
+Alameda;Tasa PDIA 7 dias;0;
+Alameda;Total Confirmados ;1043;
 Alameda;Curados;1021;
 Alameda;Fallecidos;6;
-Almargen;Población media anual;1944;
-Almargen;Confirmados PDIA;430;
-Almargen;Confirmados PDIA 14 días;8;
-Almargen;Tasa PDIA 14 días;411,52263374485597;
-Almargen;Confirmados PDIA 7 días;4;
-Almargen;Tasa PDIA 7 dias;205,76131687242798;
-Almargen;Total Confirmados ;433;
+Almargen;Confirmados PDIA;422;
+Almargen;Confirmados PDIA 14 días;0;
+Almargen;Tasa PDIA 14 días;0;
+Almargen;Confirmados PDIA 7 días;0;
+Almargen;Tasa PDIA 7 dias;0;
+Almargen;Total Confirmados ;425;
 Almargen;Curados;416;
 Almargen;Fallecidos;4;
-Antequera;Población media anual;41348;
-Antequera;Confirmados PDIA;6215;
-Antequera;Confirmados PDIA 14 días;169;
-Antequera;Tasa PDIA 14 días;408,72593595820837;
-Antequera;Confirmados PDIA 7 días;96;
-Antequera;Tasa PDIA 7 dias;232,17567959756215;
-Antequera;Total Confirmados ;6270;
+Antequera;Confirmados PDIA;6076;
+Antequera;Confirmados PDIA 14 días;30;
+Antequera;Tasa PDIA 14 días;0;
+Antequera;Confirmados PDIA 7 días;0;
+Antequera;Tasa PDIA 7 dias;0;
+Antequera;Total Confirmados ;6130;
 Antequera;Curados;5980;
 Antequera;Fallecidos;40;
-Archidona;Población media anual;8114;
-Archidona;Confirmados PDIA;1052;
-Archidona;Confirmados PDIA 14 días;10;
-Archidona;Tasa PDIA 14 días;123,24377618930244;
-Archidona;Confirmados PDIA 7 días;7;
-Archidona;Tasa PDIA 7 dias;86,27064333251171;
-Archidona;Total Confirmados ;1062;
+Archidona;Confirmados PDIA;1045;
+Archidona;Confirmados PDIA 14 días;3;
+Archidona;Tasa PDIA 14 días;0;
+Archidona;Confirmados PDIA 7 días;0;
+Archidona;Tasa PDIA 7 dias;0;
+Archidona;Total Confirmados ;1055;
 Archidona;Curados;1021;
 Archidona;Fallecidos;17;
-Campillos;Población media anual;8301;
-Campillos;Confirmados PDIA;1321;
-Campillos;Confirmados PDIA 14 días;32;
-Campillos;Tasa PDIA 14 días;385,49572340681846;
-Campillos;Confirmados PDIA 7 días;12;
-Campillos;Tasa PDIA 7 dias;144,5608962775569;
-Campillos;Total Confirmados ;1327;
+Campillos;Confirmados PDIA;1298;
+Campillos;Confirmados PDIA 14 días;9;
+Campillos;Tasa PDIA 14 días;0;
+Campillos;Confirmados PDIA 7 días;0;
+Campillos;Tasa PDIA 7 dias;0;
+Campillos;Total Confirmados ;1304;
 Campillos;Curados;1273;
 Campillos;Fallecidos;6;
-Cañete la Real;Población media anual;1633;
-Cañete la Real;Confirmados PDIA;343;
-Cañete la Real;Confirmados PDIA 14 días;6;
-Cañete la Real;Tasa PDIA 14 días;367,4219228413962;
+Cañete la Real;Confirmados PDIA;339;
+Cañete la Real;Confirmados PDIA 14 días;2;
+Cañete la Real;Tasa PDIA 14 días;0;
 Cañete la Real;Confirmados PDIA 7 días;0;
 Cañete la Real;Tasa PDIA 7 dias;0;
-Cañete la Real;Total Confirmados ;345;
+Cañete la Real;Total Confirmados ;341;
 Cañete la Real;Curados;326;
 Cañete la Real;Fallecidos;9;
-Cuevas Bajas;Población media anual;1355;
-Cuevas Bajas;Confirmados PDIA;110;
-Cuevas Bajas;Confirmados PDIA 14 días;4;
-Cuevas Bajas;Tasa PDIA 14 días;295,2029520295203;
-Cuevas Bajas;Confirmados PDIA 7 días;1;
-Cuevas Bajas;Tasa PDIA 7 dias;73,80073800738008;
-Cuevas Bajas;Total Confirmados ;114;
+Cuevas Bajas;Confirmados PDIA;106;
+Cuevas Bajas;Confirmados PDIA 14 días;0;
+Cuevas Bajas;Tasa PDIA 14 días;0;
+Cuevas Bajas;Confirmados PDIA 7 días;0;
+Cuevas Bajas;Tasa PDIA 7 dias;0;
+Cuevas Bajas;Total Confirmados ;110;
 Cuevas Bajas;Curados;107;
 Cuevas Bajas;Fallecidos;1;
-Cuevas de San Marcos;Población media anual;3614;
-Cuevas de San Marcos;Confirmados PDIA;620;
-Cuevas de San Marcos;Confirmados PDIA 14 días;2;
-Cuevas de San Marcos;Tasa PDIA 14 días;55,340343110127286;
+Cuevas de San Marcos;Confirmados PDIA;618;
+Cuevas de San Marcos;Confirmados PDIA 14 días;0;
+Cuevas de San Marcos;Tasa PDIA 14 días;0;
 Cuevas de San Marcos;Confirmados PDIA 7 días;0;
 Cuevas de San Marcos;Tasa PDIA 7 dias;0;
-Cuevas de San Marcos;Total Confirmados ;621;
+Cuevas de San Marcos;Total Confirmados ;619;
 Cuevas de San Marcos;Curados;594;
 Cuevas de San Marcos;Fallecidos;19;
-Fuente de Piedra;Población media anual;2770;
-Fuente de Piedra;Confirmados PDIA;470;
-Fuente de Piedra;Confirmados PDIA 14 días;2;
-Fuente de Piedra;Tasa PDIA 14 días;72,20216606498195;
+Fuente de Piedra;Confirmados PDIA;468;
+Fuente de Piedra;Confirmados PDIA 14 días;0;
+Fuente de Piedra;Tasa PDIA 14 días;0;
 Fuente de Piedra;Confirmados PDIA 7 días;0;
 Fuente de Piedra;Tasa PDIA 7 dias;0;
-Fuente de Piedra;Total Confirmados ;471;
+Fuente de Piedra;Total Confirmados ;469;
 Fuente de Piedra;Curados;453;
 Fuente de Piedra;Fallecidos;7;
-Humilladero;Población media anual;3293;
-Humilladero;Confirmados PDIA;424;
-Humilladero;Confirmados PDIA 14 días;7;
-Humilladero;Tasa PDIA 14 días;212,57212268448222;
-Humilladero;Confirmados PDIA 7 días;5;
-Humilladero;Tasa PDIA 7 dias;151,83723048891588;
-Humilladero;Total Confirmados ;428;
+Humilladero;Confirmados PDIA;418;
+Humilladero;Confirmados PDIA 14 días;1;
+Humilladero;Tasa PDIA 14 días;0;
+Humilladero;Confirmados PDIA 7 días;0;
+Humilladero;Tasa PDIA 7 dias;0;
+Humilladero;Total Confirmados ;422;
 Humilladero;Curados;413;
 Humilladero;Fallecidos;2;
-Mollina;Población media anual;5341;
-Mollina;Confirmados PDIA;576;
-Mollina;Confirmados PDIA 14 días;8;
-Mollina;Tasa PDIA 14 días;149,78468451600824;
-Mollina;Confirmados PDIA 7 días;4;
-Mollina;Tasa PDIA 7 dias;74,89234225800412;
-Mollina;Total Confirmados ;577;
+Mollina;Confirmados PDIA;568;
+Mollina;Confirmados PDIA 14 días;0;
+Mollina;Tasa PDIA 14 días;0;
+Mollina;Confirmados PDIA 7 días;0;
+Mollina;Tasa PDIA 7 dias;0;
+Mollina;Total Confirmados ;569;
 Mollina;Curados;557;
 Mollina;Fallecidos;3;
-Sierra de Yeguas;Población media anual;3386;
-Sierra de Yeguas;Confirmados PDIA;566;
-Sierra de Yeguas;Confirmados PDIA 14 días;9;
-Sierra de Yeguas;Tasa PDIA 14 días;265,80035440047254;
-Sierra de Yeguas;Confirmados PDIA 7 días;2;
-Sierra de Yeguas;Tasa PDIA 7 dias;59,06674542232723;
-Sierra de Yeguas;Total Confirmados ;568;
+Sierra de Yeguas;Confirmados PDIA;562;
+Sierra de Yeguas;Confirmados PDIA 14 días;5;
+Sierra de Yeguas;Tasa PDIA 14 días;0;
+Sierra de Yeguas;Confirmados PDIA 7 días;0;
+Sierra de Yeguas;Tasa PDIA 7 dias;0;
+Sierra de Yeguas;Total Confirmados ;564;
 Sierra de Yeguas;Curados;551;
 Sierra de Yeguas;Fallecidos;5;
-Teba;Población media anual;3727;
-Teba;Confirmados PDIA;670;
-Teba;Confirmados PDIA 14 días;8;
-Teba;Tasa PDIA 14 días;214,64985242822647;
-Teba;Confirmados PDIA 7 días;4;
-Teba;Tasa PDIA 7 dias;107,32492621411323;
-Teba;Total Confirmados ;677;
+Teba;Confirmados PDIA;664;
+Teba;Confirmados PDIA 14 días;2;
+Teba;Tasa PDIA 14 días;0;
+Teba;Confirmados PDIA 7 días;0;
+Teba;Tasa PDIA 7 dias;0;
+Teba;Total Confirmados ;671;
 Teba;Curados;655;
 Teba;Fallecidos;9;
-Valle de Abdalajís;Población media anual;2483;
-Valle de Abdalajís;Confirmados PDIA;254;
-Valle de Abdalajís;Confirmados PDIA 14 días;3;
-Valle de Abdalajís;Tasa PDIA 14 días;120,82158679017317;
-Valle de Abdalajís;Confirmados PDIA 7 días;1;
-Valle de Abdalajís;Tasa PDIA 7 dias;40,27386226339106;
-Valle de Abdalajís;Total Confirmados ;261;
+Valle de Abdalajís;Confirmados PDIA;252;
+Valle de Abdalajís;Confirmados PDIA 14 días;1;
+Valle de Abdalajís;Tasa PDIA 14 días;0;
+Valle de Abdalajís;Confirmados PDIA 7 días;0;
+Valle de Abdalajís;Tasa PDIA 7 dias;0;
+Valle de Abdalajís;Total Confirmados ;259;
 Valle de Abdalajís;Curados;253;
 Valle de Abdalajís;Fallecidos;2;
-Villanueva de Algaidas;Población media anual;4129;
-Villanueva de Algaidas;Confirmados PDIA;443;
-Villanueva de Algaidas;Confirmados PDIA 14 días;4;
-Villanueva de Algaidas;Tasa PDIA 14 días;96,87575684185033;
-Villanueva de Algaidas;Confirmados PDIA 7 días;1;
-Villanueva de Algaidas;Tasa PDIA 7 dias;24,218939210462583;
-Villanueva de Algaidas;Total Confirmados ;446;
+Villanueva de Algaidas;Confirmados PDIA;441;
+Villanueva de Algaidas;Confirmados PDIA 14 días;2;
+Villanueva de Algaidas;Tasa PDIA 14 días;0;
+Villanueva de Algaidas;Confirmados PDIA 7 días;0;
+Villanueva de Algaidas;Tasa PDIA 7 dias;0;
+Villanueva de Algaidas;Total Confirmados ;444;
 Villanueva de Algaidas;Curados;436;
 Villanueva de Algaidas;Fallecidos;2;
-Villanueva de la Concepción;Población media anual;3277;
-Villanueva de la Concepción;Confirmados PDIA;488;
-Villanueva de la Concepción;Confirmados PDIA 14 días;17;
-Villanueva de la Concepción;Tasa PDIA 14 días;518,7671650900213;
-Villanueva de la Concepción;Confirmados PDIA 7 días;7;
-Villanueva de la Concepción;Tasa PDIA 7 dias;213,61000915471467;
-Villanueva de la Concepción;Total Confirmados ;494;
+Villanueva de la Concepción;Confirmados PDIA;473;
+Villanueva de la Concepción;Confirmados PDIA 14 días;2;
+Villanueva de la Concepción;Tasa PDIA 14 días;0;
+Villanueva de la Concepción;Confirmados PDIA 7 días;0;
+Villanueva de la Concepción;Tasa PDIA 7 dias;0;
+Villanueva de la Concepción;Total Confirmados ;479;
 Villanueva de la Concepción;Curados;466;
 Villanueva de la Concepción;Fallecidos;3;
-Villanueva de Tapia;Población media anual;1437;
-Villanueva de Tapia;Confirmados PDIA;142;
-Villanueva de Tapia;Confirmados PDIA 14 días;2;
-Villanueva de Tapia;Tasa PDIA 14 días;139,17884481558804;
-Villanueva de Tapia;Confirmados PDIA 7 días;1;
-Villanueva de Tapia;Tasa PDIA 7 dias;69,58942240779402;
-Villanueva de Tapia;Total Confirmados ;144;
+Villanueva de Tapia;Confirmados PDIA;140;
+Villanueva de Tapia;Confirmados PDIA 14 días;0;
+Villanueva de Tapia;Tasa PDIA 14 días;0;
+Villanueva de Tapia;Confirmados PDIA 7 días;0;
+Villanueva de Tapia;Tasa PDIA 7 dias;0;
+Villanueva de Tapia;Total Confirmados ;142;
 Villanueva de Tapia;Curados;138;
 Villanueva de Tapia;Fallecidos;2;
-Villanueva del Rosario;Población media anual;3374;
-Villanueva del Rosario;Confirmados PDIA;471;
-Villanueva del Rosario;Confirmados PDIA 14 días;13;
-Villanueva del Rosario;Tasa PDIA 14 días;385,2993479549496;
-Villanueva del Rosario;Confirmados PDIA 7 días;4;
-Villanueva del Rosario;Tasa PDIA 7 dias;118,55364552459989;
-Villanueva del Rosario;Total Confirmados ;473;
+Villanueva del Rosario;Confirmados PDIA;465;
+Villanueva del Rosario;Confirmados PDIA 14 días;7;
+Villanueva del Rosario;Tasa PDIA 14 días;0;
+Villanueva del Rosario;Confirmados PDIA 7 días;0;
+Villanueva del Rosario;Tasa PDIA 7 dias;0;
+Villanueva del Rosario;Total Confirmados ;467;
 Villanueva del Rosario;Curados;448;
 Villanueva del Rosario;Fallecidos;3;
-Villanueva del Trabuco;Población media anual;5360;
-Villanueva del Trabuco;Confirmados PDIA;828;
-Villanueva del Trabuco;Confirmados PDIA 14 días;15;
-Villanueva del Trabuco;Tasa PDIA 14 días;279,85074626865674;
-Villanueva del Trabuco;Confirmados PDIA 7 días;11;
-Villanueva del Trabuco;Tasa PDIA 7 dias;205,22388059701493;
-Villanueva del Trabuco;Total Confirmados ;833;
+Villanueva del Trabuco;Confirmados PDIA;814;
+Villanueva del Trabuco;Confirmados PDIA 14 días;1;
+Villanueva del Trabuco;Tasa PDIA 14 días;0;
+Villanueva del Trabuco;Confirmados PDIA 7 días;0;
+Villanueva del Trabuco;Tasa PDIA 7 dias;0;
+Villanueva del Trabuco;Total Confirmados ;819;
 Villanueva del Trabuco;Curados;802;
 Villanueva del Trabuco;Fallecidos;8;
-Málaga (distrito);Población media anual;633547;
-Málaga (distrito);Confirmados PDIA;112568;
-Málaga (distrito);Confirmados PDIA 14 días;1706;
-Málaga (distrito);Tasa PDIA 14 días;269,277575302227;
-Málaga (distrito);Confirmados PDIA 7 días;629;
-Málaga (distrito);Tasa PDIA 7 dias;99,28229476266165;
-Málaga (distrito);Total Confirmados ;113523;
-Málaga (distrito);Curados;108874;
-Málaga (distrito);Fallecidos;961;
-Almogía;Población media anual;3859;
-Almogía;Confirmados PDIA;280;
-Almogía;Confirmados PDIA 14 días;11;
-Almogía;Tasa PDIA 14 días;285,04793988079814;
-Almogía;Confirmados PDIA 7 días;4;
-Almogía;Tasa PDIA 7 dias;103,65379632029023;
-Almogía;Total Confirmados ;285;
-Almogía;Curados;266;
+Málaga (distrito);Confirmados PDIA;111241;
+Málaga (distrito);Confirmados PDIA 14 días;379;
+Málaga (distrito);Tasa PDIA 14 días;0;
+Málaga (distrito);Confirmados PDIA 7 días;0;
+Málaga (distrito);Tasa PDIA 7 dias;0;
+Málaga (distrito);Total Confirmados ;112195;
+Málaga (distrito);Curados;108866;
+Málaga (distrito);Fallecidos;956;
+Almogía;Confirmados PDIA;270;
+Almogía;Confirmados PDIA 14 días;1;
+Almogía;Tasa PDIA 14 días;0;
+Almogía;Confirmados PDIA 7 días;0;
+Almogía;Tasa PDIA 7 dias;0;
+Almogía;Total Confirmados ;275;
+Almogía;Curados;265;
 Almogía;Fallecidos;5;
-Macharaviaya;Población media anual;524;
+Benagalbón;Confirmados PDIA;;
+Benagalbón;Confirmados PDIA 14 días;;
+Benagalbón;Tasa PDIA 14 días;0;
+Benagalbón;Confirmados PDIA 7 días;;
+Benagalbón;Tasa PDIA 7 dias;0;
+Benagalbón;Total Confirmados ;;
+Benagalbón;Curados;;
+Benagalbón;Fallecidos;;
 Macharaviaya;Confirmados PDIA;32;
 Macharaviaya;Confirmados PDIA 14 días;0;
 Macharaviaya;Tasa PDIA 14 días;0;
@@ -584,61 +535,54 @@ Macharaviaya;Tasa PDIA 7 dias;0;
 Macharaviaya;Total Confirmados ;32;
 Macharaviaya;Curados;32;
 Macharaviaya;Fallecidos;0;
-Málaga (capital);Población media anual;577405;
-Málaga (capital);Confirmados PDIA;105041;
-Málaga (capital);Confirmados PDIA 14 días;1597;
-Málaga (capital);Tasa PDIA 14 días;276,58229492297437;
-Málaga (capital);Confirmados PDIA 7 días;589;
-Málaga (capital);Tasa PDIA 7 dias;102,00812254829799;
-Málaga (capital);Total Confirmados ;105929;
-Málaga (capital);Curados;101568;
-Málaga (capital);Fallecidos;900;
-Moclinejo;Población media anual;1244;
-Moclinejo;Confirmados PDIA;190;
-Moclinejo;Confirmados PDIA 14 días;2;
-Moclinejo;Tasa PDIA 14 días;160,77170418006432;
-Moclinejo;Confirmados PDIA 7 días;1;
-Moclinejo;Tasa PDIA 7 dias;80,38585209003216;
-Moclinejo;Total Confirmados ;190;
+Málaga (capital);Confirmados PDIA;103790;
+Málaga (capital);Confirmados PDIA 14 días;346;
+Málaga (capital);Tasa PDIA 14 días;0;
+Málaga (capital);Confirmados PDIA 7 días;0;
+Málaga (capital);Tasa PDIA 7 dias;0;
+Málaga (capital);Total Confirmados ;104678;
+Málaga (capital);Curados;101562;
+Málaga (capital);Fallecidos;895;
+Moclinejo;Confirmados PDIA;188;
+Moclinejo;Confirmados PDIA 14 días;0;
+Moclinejo;Tasa PDIA 14 días;0;
+Moclinejo;Confirmados PDIA 7 días;0;
+Moclinejo;Tasa PDIA 7 dias;0;
+Moclinejo;Total Confirmados ;188;
 Moclinejo;Curados;182;
 Moclinejo;Fallecidos;3;
-Rincón de la Victoria;Población media anual;49790;
-Rincón de la Victoria;Confirmados PDIA;6965;
-Rincón de la Victoria;Confirmados PDIA 14 días;91;
-Rincón de la Victoria;Tasa PDIA 14 días;182,76762402088772;
-Rincón de la Victoria;Confirmados PDIA 7 días;33;
-Rincón de la Victoria;Tasa PDIA 7 dias;66,27836915043181;
-Rincón de la Victoria;Total Confirmados ;7027;
-Rincón de la Victoria;Curados;6773;
+Rincón de la Victoria;Confirmados PDIA;6904;
+Rincón de la Victoria;Confirmados PDIA 14 días;30;
+Rincón de la Victoria;Tasa PDIA 14 días;0;
+Rincón de la Victoria;Confirmados PDIA 7 días;0;
+Rincón de la Victoria;Tasa PDIA 7 dias;0;
+Rincón de la Victoria;Total Confirmados ;6965;
+Rincón de la Victoria;Curados;6772;
 Rincón de la Victoria;Fallecidos;52;
-Totalán;Población media anual;725;
-Totalán;Confirmados PDIA;60;
-Totalán;Confirmados PDIA 14 días;5;
-Totalán;Tasa PDIA 14 días;689,6551724137931;
-Totalán;Confirmados PDIA 7 días;2;
-Totalán;Tasa PDIA 7 dias;275,86206896551727;
-Totalán;Total Confirmados ;60;
+Totalán;Confirmados PDIA;57;
+Totalán;Confirmados PDIA 14 días;2;
+Totalán;Tasa PDIA 14 días;0;
+Totalán;Confirmados PDIA 7 días;0;
+Totalán;Tasa PDIA 7 dias;0;
+Totalán;Total Confirmados ;57;
 Totalán;Curados;53;
 Totalán;Fallecidos;1;
-Serranía;Población media anual;54964;
-Serranía;Confirmados PDIA;10322;
-Serranía;Confirmados PDIA 14 días;150;
-Serranía;Tasa PDIA 14 días;272,9059020449749;
-Serranía;Confirmados PDIA 7 días;61;
-Serranía;Tasa PDIA 7 dias;110,98173349828978;
-Serranía;Total Confirmados ;10409;
-Serranía;Curados;10158;
-Serranía;Fallecidos;155;
-Algatocín;Población media anual;825;
-Algatocín;Confirmados PDIA;150;
-Algatocín;Confirmados PDIA 14 días;5;
-Algatocín;Tasa PDIA 14 días;606,060606060606;
-Algatocín;Confirmados PDIA 7 días;1;
-Algatocín;Tasa PDIA 7 dias;121,21212121212122;
-Algatocín;Total Confirmados ;151;
+Serranía;Confirmados PDIA;10206;
+Serranía;Confirmados PDIA 14 días;34;
+Serranía;Tasa PDIA 14 días;0;
+Serranía;Confirmados PDIA 7 días;0;
+Serranía;Tasa PDIA 7 dias;0;
+Serranía;Total Confirmados ;10293;
+Serranía;Curados;10126;
+Serranía;Fallecidos;154;
+Algatocín;Confirmados PDIA;146;
+Algatocín;Confirmados PDIA 14 días;1;
+Algatocín;Tasa PDIA 14 días;0;
+Algatocín;Confirmados PDIA 7 días;0;
+Algatocín;Tasa PDIA 7 dias;0;
+Algatocín;Total Confirmados ;147;
 Algatocín;Curados;143;
 Algatocín;Fallecidos;3;
-Alpandeire;Población media anual;261;
 Alpandeire;Confirmados PDIA;21;
 Alpandeire;Confirmados PDIA 14 días;0;
 Alpandeire;Tasa PDIA 14 días;0;
@@ -647,16 +591,14 @@ Alpandeire;Tasa PDIA 7 dias;0;
 Alpandeire;Total Confirmados ;21;
 Alpandeire;Curados;20;
 Alpandeire;Fallecidos;1;
-Arriate;Población media anual;4112;
-Arriate;Confirmados PDIA;771;
-Arriate;Confirmados PDIA 14 días;48;
-Arriate;Tasa PDIA 14 días;1167,3151750972763;
-Arriate;Confirmados PDIA 7 días;23;
-Arriate;Tasa PDIA 7 dias;559,3385214007782;
-Arriate;Total Confirmados ;774;
-Arriate;Curados;729;
+Arriate;Confirmados PDIA;730;
+Arriate;Confirmados PDIA 14 días;7;
+Arriate;Tasa PDIA 14 días;0;
+Arriate;Confirmados PDIA 7 días;0;
+Arriate;Tasa PDIA 7 dias;0;
+Arriate;Total Confirmados ;733;
+Arriate;Curados;721;
 Arriate;Fallecidos;10;
-Atajate;Población media anual;179;
 Atajate;Confirmados PDIA;5;
 Atajate;Confirmados PDIA 14 días;0;
 Atajate;Tasa PDIA 14 días;0;
@@ -665,7 +607,6 @@ Atajate;Tasa PDIA 7 dias;0;
 Atajate;Total Confirmados ;5;
 Atajate;Curados;5;
 Atajate;Fallecidos;0;
-Benadalid;Población media anual;236;
 Benadalid;Confirmados PDIA;16;
 Benadalid;Confirmados PDIA 14 días;0;
 Benadalid;Tasa PDIA 14 días;0;
@@ -674,16 +615,14 @@ Benadalid;Tasa PDIA 7 dias;0;
 Benadalid;Total Confirmados ;16;
 Benadalid;Curados;16;
 Benadalid;Fallecidos;0;
-Benalauría;Población media anual;436;
-Benalauría;Confirmados PDIA;39;
-Benalauría;Confirmados PDIA 14 días;1;
-Benalauría;Tasa PDIA 14 días;229,3577981651376;
+Benalauría;Confirmados PDIA;38;
+Benalauría;Confirmados PDIA 14 días;0;
+Benalauría;Tasa PDIA 14 días;0;
 Benalauría;Confirmados PDIA 7 días;0;
 Benalauría;Tasa PDIA 7 dias;0;
-Benalauría;Total Confirmados ;40;
+Benalauría;Total Confirmados ;39;
 Benalauría;Curados;38;
 Benalauría;Fallecidos;1;
-Benaoján;Población media anual;1470;
 Benaoján;Confirmados PDIA;282;
 Benaoján;Confirmados PDIA 14 días;0;
 Benaoján;Tasa PDIA 14 días;0;
@@ -692,25 +631,22 @@ Benaoján;Tasa PDIA 7 dias;0;
 Benaoján;Total Confirmados ;283;
 Benaoján;Curados;281;
 Benaoján;Fallecidos;2;
-Benarrabá;Población media anual;438;
-Benarrabá;Confirmados PDIA;51;
-Benarrabá;Confirmados PDIA 14 días;2;
-Benarrabá;Tasa PDIA 14 días;456,62100456621005;
+Benarrabá;Confirmados PDIA;49;
+Benarrabá;Confirmados PDIA 14 días;0;
+Benarrabá;Tasa PDIA 14 días;0;
 Benarrabá;Confirmados PDIA 7 días;0;
 Benarrabá;Tasa PDIA 7 dias;0;
-Benarrabá;Total Confirmados ;51;
-Benarrabá;Curados;50;
+Benarrabá;Total Confirmados ;49;
+Benarrabá;Curados;48;
 Benarrabá;Fallecidos;1;
-Burgo (El);Población media anual;1805;
-Burgo (El);Confirmados PDIA;194;
-Burgo (El);Confirmados PDIA 14 días;11;
-Burgo (El);Tasa PDIA 14 días;609,4182825484764;
-Burgo (El);Confirmados PDIA 7 días;2;
-Burgo (El);Tasa PDIA 7 dias;110,80332409972299;
-Burgo (El);Total Confirmados ;194;
-Burgo (El);Curados;191;
+Burgo (El);Confirmados PDIA;184;
+Burgo (El);Confirmados PDIA 14 días;1;
+Burgo (El);Tasa PDIA 14 días;0;
+Burgo (El);Confirmados PDIA 7 días;0;
+Burgo (El);Tasa PDIA 7 dias;0;
+Burgo (El);Total Confirmados ;184;
+Burgo (El);Curados;184;
 Burgo (El);Fallecidos;0;
-Cartajima;Población media anual;259;
 Cartajima;Confirmados PDIA;19;
 Cartajima;Confirmados PDIA 14 días;0;
 Cartajima;Tasa PDIA 14 días;0;
@@ -719,25 +655,22 @@ Cartajima;Tasa PDIA 7 dias;0;
 Cartajima;Total Confirmados ;19;
 Cartajima;Curados;19;
 Cartajima;Fallecidos;0;
-Cortes de la Frontera;Población media anual;3034;
-Cortes de la Frontera;Confirmados PDIA;422;
-Cortes de la Frontera;Confirmados PDIA 14 días;6;
-Cortes de la Frontera;Tasa PDIA 14 días;197,7587343441002;
-Cortes de la Frontera;Confirmados PDIA 7 días;2;
-Cortes de la Frontera;Tasa PDIA 7 dias;65,91957811470007;
-Cortes de la Frontera;Total Confirmados ;423;
-Cortes de la Frontera;Curados;416;
+Cortes de la Frontera;Confirmados PDIA;418;
+Cortes de la Frontera;Confirmados PDIA 14 días;2;
+Cortes de la Frontera;Tasa PDIA 14 días;0;
+Cortes de la Frontera;Confirmados PDIA 7 días;0;
+Cortes de la Frontera;Tasa PDIA 7 dias;0;
+Cortes de la Frontera;Total Confirmados ;419;
+Cortes de la Frontera;Curados;414;
 Cortes de la Frontera;Fallecidos;5;
-Cuevas del Becerro;Población media anual;1601;
-Cuevas del Becerro;Confirmados PDIA;528;
-Cuevas del Becerro;Confirmados PDIA 14 días;5;
-Cuevas del Becerro;Tasa PDIA 14 días;312,3048094940662;
-Cuevas del Becerro;Confirmados PDIA 7 días;3;
-Cuevas del Becerro;Tasa PDIA 7 dias;187,38288569643973;
-Cuevas del Becerro;Total Confirmados ;528;
+Cuevas del Becerro;Confirmados PDIA;524;
+Cuevas del Becerro;Confirmados PDIA 14 días;1;
+Cuevas del Becerro;Tasa PDIA 14 días;0;
+Cuevas del Becerro;Confirmados PDIA 7 días;0;
+Cuevas del Becerro;Tasa PDIA 7 dias;0;
+Cuevas del Becerro;Total Confirmados ;524;
 Cuevas del Becerro;Curados;520;
 Cuevas del Becerro;Fallecidos;4;
-Faraján;Población media anual;250;
 Faraján;Confirmados PDIA;59;
 Faraján;Confirmados PDIA 14 días;0;
 Faraján;Tasa PDIA 14 días;0;
@@ -746,43 +679,38 @@ Faraján;Tasa PDIA 7 dias;0;
 Faraján;Total Confirmados ;59;
 Faraján;Curados;57;
 Faraján;Fallecidos;1;
-Gaucín;Población media anual;1595;
-Gaucín;Confirmados PDIA;241;
-Gaucín;Confirmados PDIA 14 días;2;
-Gaucín;Tasa PDIA 14 días;125,39184952978056;
-Gaucín;Confirmados PDIA 7 días;1;
-Gaucín;Tasa PDIA 7 dias;62,69592476489028;
-Gaucín;Total Confirmados ;242;
+Gaucín;Confirmados PDIA;240;
+Gaucín;Confirmados PDIA 14 días;1;
+Gaucín;Tasa PDIA 14 días;0;
+Gaucín;Confirmados PDIA 7 días;0;
+Gaucín;Tasa PDIA 7 dias;0;
+Gaucín;Total Confirmados ;241;
 Gaucín;Curados;236;
 Gaucín;Fallecidos;4;
-Genalguacil;Población media anual;391;
-Genalguacil;Confirmados PDIA;29;
-Genalguacil;Confirmados PDIA 14 días;1;
-Genalguacil;Tasa PDIA 14 días;255,7544757033248;
-Genalguacil;Confirmados PDIA 7 días;1;
-Genalguacil;Tasa PDIA 7 dias;255,7544757033248;
-Genalguacil;Total Confirmados ;30;
+Genalguacil;Confirmados PDIA;28;
+Genalguacil;Confirmados PDIA 14 días;0;
+Genalguacil;Tasa PDIA 14 días;0;
+Genalguacil;Confirmados PDIA 7 días;0;
+Genalguacil;Tasa PDIA 7 dias;0;
+Genalguacil;Total Confirmados ;29;
 Genalguacil;Curados;29;
 Genalguacil;Fallecidos;0;
-Igualeja;Población media anual;740;
-Igualeja;Confirmados PDIA;75;
-Igualeja;Confirmados PDIA 14 días;2;
-Igualeja;Tasa PDIA 14 días;270,27027027027026;
+Igualeja;Confirmados PDIA;73;
+Igualeja;Confirmados PDIA 14 días;0;
+Igualeja;Tasa PDIA 14 días;0;
 Igualeja;Confirmados PDIA 7 días;0;
 Igualeja;Tasa PDIA 7 dias;0;
-Igualeja;Total Confirmados ;75;
-Igualeja;Curados;71;
+Igualeja;Total Confirmados ;73;
+Igualeja;Curados;70;
 Igualeja;Fallecidos;3;
-Jimera de Líbar;Población media anual;388;
-Jimera de Líbar;Confirmados PDIA;38;
-Jimera de Líbar;Confirmados PDIA 14 días;1;
-Jimera de Líbar;Tasa PDIA 14 días;257,7319587628866;
-Jimera de Líbar;Confirmados PDIA 7 días;1;
-Jimera de Líbar;Tasa PDIA 7 dias;257,7319587628866;
-Jimera de Líbar;Total Confirmados ;38;
+Jimera de Líbar;Confirmados PDIA;37;
+Jimera de Líbar;Confirmados PDIA 14 días;0;
+Jimera de Líbar;Tasa PDIA 14 días;0;
+Jimera de Líbar;Confirmados PDIA 7 días;0;
+Jimera de Líbar;Tasa PDIA 7 dias;0;
+Jimera de Líbar;Total Confirmados ;37;
 Jimera de Líbar;Curados;37;
-Jimera de Líbar;Fallecidos;1;
-Jubrique;Población media anual;553;
+Jimera de Líbar;Fallecidos;0;
 Jubrique;Confirmados PDIA;52;
 Jubrique;Confirmados PDIA 14 días;0;
 Jubrique;Tasa PDIA 14 días;0;
@@ -791,25 +719,22 @@ Jubrique;Tasa PDIA 7 dias;0;
 Jubrique;Total Confirmados ;52;
 Jubrique;Curados;51;
 Jubrique;Fallecidos;1;
-Júzcar;Población media anual;235;
 Júzcar;Confirmados PDIA;19;
 Júzcar;Confirmados PDIA 14 días;3;
-Júzcar;Tasa PDIA 14 días;1276,595744680851;
+Júzcar;Tasa PDIA 14 días;0;
 Júzcar;Confirmados PDIA 7 días;0;
 Júzcar;Tasa PDIA 7 dias;0;
 Júzcar;Total Confirmados ;19;
 Júzcar;Curados;17;
 Júzcar;Fallecidos;0;
-Montecorto;Población media anual;572;
-Montecorto;Confirmados PDIA;55;
-Montecorto;Confirmados PDIA 14 días;1;
-Montecorto;Tasa PDIA 14 días;174,82517482517483;
-Montecorto;Confirmados PDIA 7 días;1;
-Montecorto;Tasa PDIA 7 dias;174,82517482517483;
-Montecorto;Total Confirmados ;55;
+Montecorto;Confirmados PDIA;54;
+Montecorto;Confirmados PDIA 14 días;0;
+Montecorto;Tasa PDIA 14 días;0;
+Montecorto;Confirmados PDIA 7 días;0;
+Montecorto;Tasa PDIA 7 dias;0;
+Montecorto;Total Confirmados ;54;
 Montecorto;Curados;52;
 Montecorto;Fallecidos;2;
-Montejaque;Población media anual;938;
 Montejaque;Confirmados PDIA;153;
 Montejaque;Confirmados PDIA 14 días;0;
 Montejaque;Tasa PDIA 14 días;0;
@@ -818,7 +743,6 @@ Montejaque;Tasa PDIA 7 dias;0;
 Montejaque;Total Confirmados ;154;
 Montejaque;Curados;149;
 Montejaque;Fallecidos;5;
-Parauta;Población media anual;251;
 Parauta;Confirmados PDIA;12;
 Parauta;Confirmados PDIA 14 días;0;
 Parauta;Tasa PDIA 14 días;0;
@@ -827,7 +751,6 @@ Parauta;Tasa PDIA 7 dias;0;
 Parauta;Total Confirmados ;12;
 Parauta;Curados;12;
 Parauta;Fallecidos;0;
-Pujerra;Población media anual;298;
 Pujerra;Confirmados PDIA;8;
 Pujerra;Confirmados PDIA 14 días;0;
 Pujerra;Tasa PDIA 14 días;0;
@@ -836,16 +759,14 @@ Pujerra;Tasa PDIA 7 dias;0;
 Pujerra;Total Confirmados ;8;
 Pujerra;Curados;8;
 Pujerra;Fallecidos;0;
-Ronda;Población media anual;33624;
-Ronda;Confirmados PDIA;6979;
-Ronda;Confirmados PDIA 14 días;62;
-Ronda;Tasa PDIA 14 días;184,39210088032357;
-Ronda;Confirmados PDIA 7 días;26;
-Ronda;Tasa PDIA 7 dias;77,32571972400666;
-Ronda;Total Confirmados ;7056;
-Ronda;Curados;6907;
+Ronda;Confirmados PDIA;6935;
+Ronda;Confirmados PDIA 14 días;18;
+Ronda;Tasa PDIA 14 días;0;
+Ronda;Confirmados PDIA 7 días;0;
+Ronda;Tasa PDIA 7 dias;0;
+Ronda;Total Confirmados ;7012;
+Ronda;Curados;6895;
 Ronda;Fallecidos;111;
-Serrato;Población media anual;473;
 Serrato;Confirmados PDIA;104;
 Serrato;Confirmados PDIA 14 días;0;
 Serrato;Tasa PDIA 14 días;0;
@@ -854,61 +775,54 @@ Serrato;Tasa PDIA 7 dias;0;
 Serrato;Total Confirmados ;104;
 Serrato;Curados;104;
 Serrato;Fallecidos;0;
-Valle del Guadalhorce;Población media anual;159698;
-Valle del Guadalhorce;Confirmados PDIA;24795;
-Valle del Guadalhorce;Confirmados PDIA 14 días;258;
-Valle del Guadalhorce;Tasa PDIA 14 días;161,55493493969868;
-Valle del Guadalhorce;Confirmados PDIA 7 días;84;
-Valle del Guadalhorce;Tasa PDIA 7 dias;52,59928114315771;
-Valle del Guadalhorce;Total Confirmados ;24928;
-Valle del Guadalhorce;Curados;24027;
-Valle del Guadalhorce;Fallecidos;209;
-Alhaurín de la Torre;Población media anual;41868;
-Alhaurín de la Torre;Confirmados PDIA;7481;
-Alhaurín de la Torre;Confirmados PDIA 14 días;71;
-Alhaurín de la Torre;Tasa PDIA 14 días;169,58058660552211;
-Alhaurín de la Torre;Confirmados PDIA 7 días;26;
-Alhaurín de la Torre;Tasa PDIA 7 dias;62,09993312314894;
-Alhaurín de la Torre;Total Confirmados ;7527;
+Valle del Guadalhorce;Confirmados PDIA;24585;
+Valle del Guadalhorce;Confirmados PDIA 14 días;48;
+Valle del Guadalhorce;Tasa PDIA 14 días;0;
+Valle del Guadalhorce;Confirmados PDIA 7 días;0;
+Valle del Guadalhorce;Tasa PDIA 7 dias;0;
+Valle del Guadalhorce;Total Confirmados ;24718;
+Valle del Guadalhorce;Curados;24026;
+Valle del Guadalhorce;Fallecidos;208;
+Alhaurín de la Torre;Confirmados PDIA;7428;
+Alhaurín de la Torre;Confirmados PDIA 14 días;18;
+Alhaurín de la Torre;Tasa PDIA 14 días;0;
+Alhaurín de la Torre;Confirmados PDIA 7 días;0;
+Alhaurín de la Torre;Tasa PDIA 7 dias;0;
+Alhaurín de la Torre;Total Confirmados ;7474;
 Alhaurín de la Torre;Curados;7268;
 Alhaurín de la Torre;Fallecidos;52;
-Alhaurín el Grande;Población media anual;26095;
-Alhaurín el Grande;Confirmados PDIA;4197;
-Alhaurín el Grande;Confirmados PDIA 14 días;51;
-Alhaurín el Grande;Tasa PDIA 14 días;195,43973941368077;
-Alhaurín el Grande;Confirmados PDIA 7 días;12;
-Alhaurín el Grande;Tasa PDIA 7 dias;45,98582103851312;
-Alhaurín el Grande;Total Confirmados ;4224;
+Alhaurín el Grande;Confirmados PDIA;4154;
+Alhaurín el Grande;Confirmados PDIA 14 días;8;
+Alhaurín el Grande;Tasa PDIA 14 días;0;
+Alhaurín el Grande;Confirmados PDIA 7 días;0;
+Alhaurín el Grande;Tasa PDIA 7 dias;0;
+Alhaurín el Grande;Total Confirmados ;4181;
 Alhaurín el Grande;Curados;4074;
 Alhaurín el Grande;Fallecidos;27;
-Álora;Población media anual;13336;
-Álora;Confirmados PDIA;2021;
-Álora;Confirmados PDIA 14 días;19;
-Álora;Tasa PDIA 14 días;142,47150569886023;
-Álora;Confirmados PDIA 7 días;11;
-Álora;Tasa PDIA 7 dias;82,48350329934013;
-Álora;Total Confirmados ;2036;
+Álora;Confirmados PDIA;2002;
+Álora;Confirmados PDIA 14 días;0;
+Álora;Tasa PDIA 14 días;0;
+Álora;Confirmados PDIA 7 días;0;
+Álora;Tasa PDIA 7 dias;0;
+Álora;Total Confirmados ;2017;
 Álora;Curados;1953;
 Álora;Fallecidos;24;
-Alozaina;Población media anual;2090;
-Alozaina;Confirmados PDIA;252;
-Alozaina;Confirmados PDIA 14 días;4;
-Alozaina;Tasa PDIA 14 días;191,38755980861245;
-Alozaina;Confirmados PDIA 7 días;2;
-Alozaina;Tasa PDIA 7 dias;95,69377990430623;
-Alozaina;Total Confirmados ;255;
+Alozaina;Confirmados PDIA;249;
+Alozaina;Confirmados PDIA 14 días;1;
+Alozaina;Tasa PDIA 14 días;0;
+Alozaina;Confirmados PDIA 7 días;0;
+Alozaina;Tasa PDIA 7 dias;0;
+Alozaina;Total Confirmados ;252;
 Alozaina;Curados;240;
 Alozaina;Fallecidos;5;
-Ardales;Población media anual;2518;
-Ardales;Confirmados PDIA;308;
-Ardales;Confirmados PDIA 14 días;7;
-Ardales;Tasa PDIA 14 días;277,99841143764894;
+Ardales;Confirmados PDIA;305;
+Ardales;Confirmados PDIA 14 días;4;
+Ardales;Tasa PDIA 14 días;0;
 Ardales;Confirmados PDIA 7 días;0;
 Ardales;Tasa PDIA 7 dias;0;
-Ardales;Total Confirmados ;308;
+Ardales;Total Confirmados ;305;
 Ardales;Curados;292;
 Ardales;Fallecidos;1;
-Carratraca;Población media anual;719;
 Carratraca;Confirmados PDIA;70;
 Carratraca;Confirmados PDIA 14 días;0;
 Carratraca;Tasa PDIA 14 días;0;
@@ -917,85 +831,100 @@ Carratraca;Tasa PDIA 7 dias;0;
 Carratraca;Total Confirmados ;70;
 Carratraca;Curados;69;
 Carratraca;Fallecidos;0;
-Cártama;Población media anual;27436;
-Cártama;Confirmados PDIA;3584;
-Cártama;Confirmados PDIA 14 días;32;
-Cártama;Tasa PDIA 14 días;116,63507799970841;
-Cártama;Confirmados PDIA 7 días;10;
-Cártama;Tasa PDIA 7 dias;36,44846187490888;
-Cártama;Total Confirmados ;3597;
+Cártama;Confirmados PDIA;3556;
+Cártama;Confirmados PDIA 14 días;4;
+Cártama;Tasa PDIA 14 días;0;
+Cártama;Confirmados PDIA 7 días;0;
+Cártama;Tasa PDIA 7 dias;0;
+Cártama;Total Confirmados ;3569;
 Cártama;Curados;3478;
-Cártama;Fallecidos;22;
-Casarabonela;Población media anual;2532;
-Casarabonela;Confirmados PDIA;306;
-Casarabonela;Confirmados PDIA 14 días;6;
-Casarabonela;Tasa PDIA 14 días;236,96682464454977;
-Casarabonela;Confirmados PDIA 7 días;1;
-Casarabonela;Tasa PDIA 7 dias;39,494470774091624;
-Casarabonela;Total Confirmados ;307;
+Cártama;Fallecidos;21;
+Casarabonela;Confirmados PDIA;302;
+Casarabonela;Confirmados PDIA 14 días;2;
+Casarabonela;Tasa PDIA 14 días;0;
+Casarabonela;Confirmados PDIA 7 días;0;
+Casarabonela;Tasa PDIA 7 dias;0;
+Casarabonela;Total Confirmados ;303;
 Casarabonela;Curados;285;
 Casarabonela;Fallecidos;4;
-Coín;Población media anual;23375;
-Coín;Confirmados PDIA;3935;
-Coín;Confirmados PDIA 14 días;40;
-Coín;Tasa PDIA 14 días;171,12299465240642;
-Coín;Confirmados PDIA 7 días;15;
-Coín;Tasa PDIA 7 dias;64,1711229946524;
-Coín;Total Confirmados ;3955;
-Coín;Curados;3815;
+Coín;Confirmados PDIA;3900;
+Coín;Confirmados PDIA 14 días;5;
+Coín;Tasa PDIA 14 días;0;
+Coín;Confirmados PDIA 7 días;0;
+Coín;Tasa PDIA 7 dias;0;
+Coín;Total Confirmados ;3920;
+Coín;Curados;3814;
 Coín;Fallecidos;32;
-Guaro;Población media anual;2326;
-Guaro;Confirmados PDIA;303;
-Guaro;Confirmados PDIA 14 días;2;
-Guaro;Tasa PDIA 14 días;85,98452278589853;
+Guaro;Confirmados PDIA;301;
+Guaro;Confirmados PDIA 14 días;0;
+Guaro;Tasa PDIA 14 días;0;
 Guaro;Confirmados PDIA 7 días;0;
 Guaro;Tasa PDIA 7 dias;0;
-Guaro;Total Confirmados ;306;
+Guaro;Total Confirmados ;304;
 Guaro;Curados;275;
 Guaro;Fallecidos;22;
-Monda;Población media anual;2762;
-Monda;Confirmados PDIA;380;
-Monda;Confirmados PDIA 14 días;3;
-Monda;Tasa PDIA 14 días;108,61694424330196;
-Monda;Confirmados PDIA 7 días;1;
-Monda;Tasa PDIA 7 dias;36,205648081100655;
-Monda;Total Confirmados ;381;
+Monda;Confirmados PDIA;377;
+Monda;Confirmados PDIA 14 días;0;
+Monda;Tasa PDIA 14 días;0;
+Monda;Confirmados PDIA 7 días;0;
+Monda;Tasa PDIA 7 dias;0;
+Monda;Total Confirmados ;378;
 Monda;Curados;371;
 Monda;Fallecidos;4;
-Pizarra;Población media anual;9572;
-Pizarra;Confirmados PDIA;1342;
-Pizarra;Confirmados PDIA 14 días;20;
-Pizarra;Tasa PDIA 14 días;208,94274968658587;
-Pizarra;Confirmados PDIA 7 días;4;
-Pizarra;Tasa PDIA 7 dias;41,78854993731718;
-Pizarra;Total Confirmados ;1346;
+Pizarra;Confirmados PDIA;1327;
+Pizarra;Confirmados PDIA 14 días;5;
+Pizarra;Tasa PDIA 14 días;0;
+Pizarra;Confirmados PDIA 7 días;0;
+Pizarra;Tasa PDIA 7 dias;0;
+Pizarra;Total Confirmados ;1331;
 Pizarra;Curados;1309;
 Pizarra;Fallecidos;5;
-Tolox;Población media anual;2203;
-Tolox;Confirmados PDIA;234;
-Tolox;Confirmados PDIA 14 días;2;
-Tolox;Tasa PDIA 14 días;90,78529278256923;
-Tolox;Confirmados PDIA 7 días;1;
-Tolox;Tasa PDIA 7 dias;45,392646391284615;
-Tolox;Total Confirmados ;234;
+Tolox;Confirmados PDIA;233;
+Tolox;Confirmados PDIA 14 días;1;
+Tolox;Tasa PDIA 14 días;0;
+Tolox;Confirmados PDIA 7 días;0;
+Tolox;Tasa PDIA 7 dias;0;
+Tolox;Total Confirmados ;233;
 Tolox;Curados;226;
 Tolox;Fallecidos;3;
-Yunquera;Población media anual;2866;
-Yunquera;Confirmados PDIA;382;
-Yunquera;Confirmados PDIA 14 días;1;
-Yunquera;Tasa PDIA 14 días;34,89183531053733;
-Yunquera;Confirmados PDIA 7 días;1;
-Yunquera;Tasa PDIA 7 dias;34,89183531053733;
-Yunquera;Total Confirmados ;382;
+Yunquera;Confirmados PDIA;381;
+Yunquera;Confirmados PDIA 14 días;0;
+Yunquera;Tasa PDIA 14 días;0;
+Yunquera;Confirmados PDIA 7 días;0;
+Yunquera;Tasa PDIA 7 dias;0;
+Yunquera;Total Confirmados ;381;
 Yunquera;Curados;372;
 Yunquera;Fallecidos;8;
-Municipio de Málaga sin especificar;Población media anual;;
-Municipio de Málaga sin especificar;Confirmados PDIA;810;
-Municipio de Málaga sin especificar;Confirmados PDIA 14 días;5;
-Municipio de Málaga sin especificar;Tasa PDIA 14 días;-;
-Municipio de Málaga sin especificar;Confirmados PDIA 7 días;3;
-Municipio de Málaga sin especificar;Tasa PDIA 7 dias;-;
-Municipio de Málaga sin especificar;Total Confirmados ;812;
+Churriana;Confirmados PDIA;;
+Churriana;Confirmados PDIA 14 días;;
+Churriana;Tasa PDIA 14 días;0;
+Churriana;Confirmados PDIA 7 días;;
+Churriana;Tasa PDIA 7 dias;0;
+Churriana;Total Confirmados ;;
+Churriana;Curados;;
+Churriana;Fallecidos;;
+Olías;Confirmados PDIA;;
+Olías;Confirmados PDIA 14 días;;
+Olías;Tasa PDIA 14 días;0;
+Olías;Confirmados PDIA 7 días;;
+Olías;Tasa PDIA 7 dias;0;
+Olías;Total Confirmados ;;
+Olías;Curados;;
+Olías;Fallecidos;;
+Peñarrubia;Confirmados PDIA;;
+Peñarrubia;Confirmados PDIA 14 días;;
+Peñarrubia;Tasa PDIA 14 días;0;
+Peñarrubia;Confirmados PDIA 7 días;;
+Peñarrubia;Tasa PDIA 7 dias;0;
+Peñarrubia;Total Confirmados ;;
+Peñarrubia;Curados;;
+Peñarrubia;Fallecidos;;
+Municipio de Málaga sin especificar;Confirmados PDIA;805;
+Municipio de Málaga sin especificar;Confirmados PDIA 14 días;0;
+Municipio de Málaga sin especificar;Tasa PDIA 14 días;0;
+Municipio de Málaga sin especificar;Confirmados PDIA 7 días;0;
+Municipio de Málaga sin especificar;Tasa PDIA 7 dias;0;
+Municipio de Málaga sin especificar;Total Confirmados ;807;
 Municipio de Málaga sin especificar;Curados;786;
 Municipio de Málaga sin especificar;Fallecidos;12;
 
@@ -1011,12 +940,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1039,7 +966,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1053,12 +979,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1081,12 +1005,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1109,7 +1031,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1123,12 +1044,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1151,12 +1070,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1179,7 +1096,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1193,12 +1109,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1221,12 +1135,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1249,7 +1161,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1263,12 +1174,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1291,12 +1200,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1319,7 +1226,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1333,12 +1239,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1361,12 +1265,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1389,7 +1291,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1403,12 +1304,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1431,12 +1330,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1459,7 +1356,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1473,12 +1369,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1501,7 +1395,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1515,12 +1408,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1543,7 +1434,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1557,12 +1447,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1585,12 +1473,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1613,7 +1499,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1627,12 +1512,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1655,12 +1538,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1683,7 +1564,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1697,12 +1577,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1725,12 +1603,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1753,7 +1629,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1767,12 +1642,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1795,7 +1668,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1809,12 +1681,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1837,7 +1707,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1851,12 +1720,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1879,12 +1746,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1907,7 +1772,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1921,12 +1785,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1949,12 +1811,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -1977,7 +1837,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -1991,12 +1850,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2019,12 +1876,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2047,7 +1902,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -2061,12 +1915,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2089,7 +1941,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -2103,12 +1954,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2131,7 +1980,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -2145,12 +1993,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2173,12 +2019,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2201,7 +2045,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -2215,12 +2058,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2243,12 +2084,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2271,7 +2110,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -2285,12 +2123,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2313,12 +2149,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2341,7 +2175,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -2355,12 +2188,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2383,12 +2214,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2411,7 +2240,6 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
@@ -2425,12 +2253,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2453,12 +2279,10 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
-               
                
                
                
@@ -2481,13 +2305,24 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
-               
           
           
                
                     
+               
+               
+               
+               
+               
+               
+               
                
                
+          
+          
+               
+                    
+               
                
                
                
@@ -2500,9 +2335,20 @@ Municipio de Málaga sin especificar;Fallecidos;12;
           
                
                     
+               
+               
+               
+               
+               
+               
                
                
                
+          
+          
+               
+                    
+               
                
                
                
@@ -2510,39 +2356,76 @@ Municipio de Málaga sin especificar;Fallecidos;12;
                
                
                
+               
           
           
                
                     
+               
+               
+               
+               
                
                
                
                
                
+          
+          
+               
+                    
+               
                
                
                
                
                
+               
+               
+               
           
           
                
                     
+               
+               
+               
                
                
                
                
                
                
+          
+          
+               
+                    
+               
                
                
                
                
+               
+               
+               
+               
           
           
                
                     
+               
                
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
                
                
                

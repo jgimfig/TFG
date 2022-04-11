@@ -1,437 +1,404 @@
-Lugar de residencia;Medida;Valor;
-Cádiz;Población media anual;1245960;
-Cádiz;Confirmados PDIA;194075;
-Cádiz;Confirmados PDIA 14 días;2570;
-Cádiz;Tasa PDIA 14 días;206,26665382516293;
-Cádiz;Confirmados PDIA 7 días;915;
-Cádiz;Tasa PDIA 7 dias;73,43734951362805;
-Cádiz;Total Confirmados ;194473;
-Cádiz;Curados;187491;
-Cádiz;Fallecidos;1798;
-Campo de Gibraltar Oeste;Población media anual;165431;
-Campo de Gibraltar Oeste;Confirmados PDIA;27744;
-Campo de Gibraltar Oeste;Confirmados PDIA 14 días;378;
-Campo de Gibraltar Oeste;Tasa PDIA 14 días;228,49405492320062;
-Campo de Gibraltar Oeste;Confirmados PDIA 7 días;110;
-Campo de Gibraltar Oeste;Tasa PDIA 7 dias;66,49297894590494;
-Campo de Gibraltar Oeste;Total Confirmados ;27821;
+Territorio;Medida;Valor;
+Cádiz;Confirmados PDIA;192084;
+Cádiz;Confirmados PDIA 14 días;579;
+Cádiz;Tasa PDIA 14 días;0;
+Cádiz;Confirmados PDIA 7 días;0;
+Cádiz;Tasa PDIA 7 dias;0;
+Cádiz;Total Confirmados ;192482;
+Cádiz;Curados;187486;
+Cádiz;Fallecidos;1797;
+Campo de Gibraltar Oeste;Confirmados PDIA;27479;
+Campo de Gibraltar Oeste;Confirmados PDIA 14 días;113;
+Campo de Gibraltar Oeste;Tasa PDIA 14 días;0;
+Campo de Gibraltar Oeste;Confirmados PDIA 7 días;0;
+Campo de Gibraltar Oeste;Tasa PDIA 7 dias;0;
+Campo de Gibraltar Oeste;Total Confirmados ;27556;
 Campo de Gibraltar Oeste;Curados;26794;
 Campo de Gibraltar Oeste;Fallecidos;412;
-Algeciras;Población media anual;122982;
-Algeciras;Confirmados PDIA;20899;
-Algeciras;Confirmados PDIA 14 días;299;
-Algeciras;Tasa PDIA 14 días;243,12501016408905;
-Algeciras;Confirmados PDIA 7 días;82;
-Algeciras;Tasa PDIA 7 dias;66,67642419215821;
-Algeciras;Total Confirmados ;20957;
+Algeciras;Confirmados PDIA;20692;
+Algeciras;Confirmados PDIA 14 días;92;
+Algeciras;Tasa PDIA 14 días;0;
+Algeciras;Confirmados PDIA 7 días;0;
+Algeciras;Tasa PDIA 7 dias;0;
+Algeciras;Total Confirmados ;20750;
 Algeciras;Curados;20216;
 Algeciras;Fallecidos;291;
-Barrios (Los);Población media anual;23983;
-Barrios (Los);Confirmados PDIA;4037;
-Barrios (Los);Confirmados PDIA 14 días;51;
-Barrios (Los);Tasa PDIA 14 días;212,65062752783223;
-Barrios (Los);Confirmados PDIA 7 días;19;
-Barrios (Los);Tasa PDIA 7 dias;79,22278280448651;
-Barrios (Los);Total Confirmados ;4049;
+Barrios (Los);Confirmados PDIA;3999;
+Barrios (Los);Confirmados PDIA 14 días;13;
+Barrios (Los);Tasa PDIA 14 días;0;
+Barrios (Los);Confirmados PDIA 7 días;0;
+Barrios (Los);Tasa PDIA 7 dias;0;
+Barrios (Los);Total Confirmados ;4011;
 Barrios (Los);Curados;3868;
 Barrios (Los);Fallecidos;88;
-Tarifa;Población media anual;18466;
-Tarifa;Confirmados PDIA;2808;
-Tarifa;Confirmados PDIA 14 días;28;
-Tarifa;Tasa PDIA 14 días;151,6300227445034;
-Tarifa;Confirmados PDIA 7 días;9;
-Tarifa;Tasa PDIA 7 dias;48,738221596447524;
-Tarifa;Total Confirmados ;2815;
+Tarifa;Confirmados PDIA;2788;
+Tarifa;Confirmados PDIA 14 días;8;
+Tarifa;Tasa PDIA 14 días;0;
+Tarifa;Confirmados PDIA 7 días;0;
+Tarifa;Tasa PDIA 7 dias;0;
+Tarifa;Total Confirmados ;2795;
 Tarifa;Curados;2710;
 Tarifa;Fallecidos;33;
-Campo de Gibraltar Este;Población media anual;108099;
-Campo de Gibraltar Este;Confirmados PDIA;20359;
-Campo de Gibraltar Este;Confirmados PDIA 14 días;273;
-Campo de Gibraltar Este;Tasa PDIA 14 días;252,54627702383925;
-Campo de Gibraltar Este;Confirmados PDIA 7 días;108;
-Campo de Gibraltar Este;Tasa PDIA 7 dias;99,90841728415619;
-Campo de Gibraltar Este;Total Confirmados ;20383;
+Campo de Gibraltar Este;Confirmados PDIA;20143;
+Campo de Gibraltar Este;Confirmados PDIA 14 días;57;
+Campo de Gibraltar Este;Tasa PDIA 14 días;0;
+Campo de Gibraltar Este;Confirmados PDIA 7 días;0;
+Campo de Gibraltar Este;Tasa PDIA 7 dias;0;
+Campo de Gibraltar Este;Total Confirmados ;20167;
 Campo de Gibraltar Este;Curados;19798;
 Campo de Gibraltar Este;Fallecidos;193;
-Castellar de la Frontera;Población media anual;3070;
-Castellar de la Frontera;Confirmados PDIA;715;
-Castellar de la Frontera;Confirmados PDIA 14 días;10;
-Castellar de la Frontera;Tasa PDIA 14 días;325,7328990228013;
-Castellar de la Frontera;Confirmados PDIA 7 días;2;
-Castellar de la Frontera;Tasa PDIA 7 dias;65,14657980456026;
-Castellar de la Frontera;Total Confirmados ;715;
+Castellar de la Frontera;Confirmados PDIA;706;
+Castellar de la Frontera;Confirmados PDIA 14 días;1;
+Castellar de la Frontera;Tasa PDIA 14 días;0;
+Castellar de la Frontera;Confirmados PDIA 7 días;0;
+Castellar de la Frontera;Tasa PDIA 7 dias;0;
+Castellar de la Frontera;Total Confirmados ;706;
 Castellar de la Frontera;Curados;698;
 Castellar de la Frontera;Fallecidos;4;
-Jimena de la Frontera;Población media anual;6665;
-Jimena de la Frontera;Confirmados PDIA;1199;
-Jimena de la Frontera;Confirmados PDIA 14 días;14;
-Jimena de la Frontera;Tasa PDIA 14 días;210,05251312828207;
-Jimena de la Frontera;Confirmados PDIA 7 días;5;
-Jimena de la Frontera;Tasa PDIA 7 dias;75,01875468867217;
-Jimena de la Frontera;Total Confirmados ;1202;
+Jimena de la Frontera;Confirmados PDIA;1191;
+Jimena de la Frontera;Confirmados PDIA 14 días;6;
+Jimena de la Frontera;Tasa PDIA 14 días;0;
+Jimena de la Frontera;Confirmados PDIA 7 días;0;
+Jimena de la Frontera;Tasa PDIA 7 dias;0;
+Jimena de la Frontera;Total Confirmados ;1194;
 Jimena de la Frontera;Curados;1169;
 Jimena de la Frontera;Fallecidos;11;
-San Martín del Tesorillo;Población media anual;2821;
-San Martín del Tesorillo;Confirmados PDIA;387;
-San Martín del Tesorillo;Confirmados PDIA 14 días;4;
-San Martín del Tesorillo;Tasa PDIA 14 días;141,79369018078697;
+San Martín del Tesorillo;Confirmados PDIA;384;
+San Martín del Tesorillo;Confirmados PDIA 14 días;1;
+San Martín del Tesorillo;Tasa PDIA 14 días;0;
 San Martín del Tesorillo;Confirmados PDIA 7 días;0;
 San Martín del Tesorillo;Tasa PDIA 7 dias;0;
-San Martín del Tesorillo;Total Confirmados ;387;
+San Martín del Tesorillo;Total Confirmados ;384;
 San Martín del Tesorillo;Curados;379;
 San Martín del Tesorillo;Fallecidos;3;
-Línea de la Concepción (La);Población media anual;63365;
-Línea de la Concepción (La);Confirmados PDIA;12399;
-Línea de la Concepción (La);Confirmados PDIA 14 días;174;
-Línea de la Concepción (La);Tasa PDIA 14 días;274,5995423340961;
-Línea de la Concepción (La);Confirmados PDIA 7 días;76;
-Línea de la Concepción (La);Tasa PDIA 7 dias;119,9400299850075;
-Línea de la Concepción (La);Total Confirmados ;12413;
+Línea de la Concepción (La);Confirmados PDIA;12257;
+Línea de la Concepción (La);Confirmados PDIA 14 días;32;
+Línea de la Concepción (La);Tasa PDIA 14 días;0;
+Línea de la Concepción (La);Confirmados PDIA 7 días;0;
+Línea de la Concepción (La);Tasa PDIA 7 dias;0;
+Línea de la Concepción (La);Total Confirmados ;12271;
 Línea de la Concepción (La);Curados;12049;
 Línea de la Concepción (La);Fallecidos;123;
-San Roque;Población media anual;32178;
-San Roque;Confirmados PDIA;5659;
-San Roque;Confirmados PDIA 14 días;71;
-San Roque;Tasa PDIA 14 días;220,6476474609982;
-San Roque;Confirmados PDIA 7 días;25;
-San Roque;Tasa PDIA 7 dias;77,69283361302753;
-San Roque;Total Confirmados ;5666;
+San Roque;Confirmados PDIA;5605;
+San Roque;Confirmados PDIA 14 días;17;
+San Roque;Tasa PDIA 14 días;0;
+San Roque;Confirmados PDIA 7 días;0;
+San Roque;Tasa PDIA 7 dias;0;
+San Roque;Total Confirmados ;5612;
 San Roque;Curados;5503;
 San Roque;Fallecidos;52;
-Bahía de Cádiz-La Janda;Población media anual;514311;
-Bahía de Cádiz-La Janda;Confirmados PDIA;72898;
-Bahía de Cádiz-La Janda;Confirmados PDIA 14 días;1096;
-Bahía de Cádiz-La Janda;Tasa PDIA 14 días;213,10063366328933;
-Bahía de Cádiz-La Janda;Confirmados PDIA 7 días;415;
-Bahía de Cádiz-La Janda;Tasa PDIA 7 dias;80,69047716265061;
-Bahía de Cádiz-La Janda;Total Confirmados ;73065;
+Bahía de Cádiz-La Janda;Confirmados PDIA;72009;
+Bahía de Cádiz-La Janda;Confirmados PDIA 14 días;207;
+Bahía de Cádiz-La Janda;Tasa PDIA 14 días;0;
+Bahía de Cádiz-La Janda;Confirmados PDIA 7 días;0;
+Bahía de Cádiz-La Janda;Tasa PDIA 7 dias;0;
+Bahía de Cádiz-La Janda;Total Confirmados ;72176;
 Bahía de Cádiz-La Janda;Curados;70054;
 Bahía de Cádiz-La Janda;Fallecidos;436;
-Alcalá de los Gazules;Población media anual;5245;
-Alcalá de los Gazules;Confirmados PDIA;679;
-Alcalá de los Gazules;Confirmados PDIA 14 días;6;
-Alcalá de los Gazules;Tasa PDIA 14 días;114,39466158245949;
-Alcalá de los Gazules;Confirmados PDIA 7 días;1;
-Alcalá de los Gazules;Tasa PDIA 7 dias;19,065776930409914;
-Alcalá de los Gazules;Total Confirmados ;679;
+Alcalá de los Gazules;Confirmados PDIA;676;
+Alcalá de los Gazules;Confirmados PDIA 14 días;3;
+Alcalá de los Gazules;Tasa PDIA 14 días;0;
+Alcalá de los Gazules;Confirmados PDIA 7 días;0;
+Alcalá de los Gazules;Tasa PDIA 7 dias;0;
+Alcalá de los Gazules;Total Confirmados ;676;
 Alcalá de los Gazules;Curados;656;
 Alcalá de los Gazules;Fallecidos;3;
-Barbate;Población media anual;22761;
-Barbate;Confirmados PDIA;3495;
-Barbate;Confirmados PDIA 14 días;60;
-Barbate;Tasa PDIA 14 días;263,60880453407145;
-Barbate;Confirmados PDIA 7 días;21;
-Barbate;Tasa PDIA 7 dias;92,263081586925;
-Barbate;Total Confirmados ;3497;
+Barbate de Franco;Confirmados PDIA;;
+Barbate de Franco;Confirmados PDIA 14 días;;
+Barbate de Franco;Tasa PDIA 14 días;0;
+Barbate de Franco;Confirmados PDIA 7 días;;
+Barbate de Franco;Tasa PDIA 7 dias;0;
+Barbate de Franco;Total Confirmados ;;
+Barbate de Franco;Curados;;
+Barbate de Franco;Fallecidos;;
+Barbate;Confirmados PDIA;3445;
+Barbate;Confirmados PDIA 14 días;10;
+Barbate;Tasa PDIA 14 días;0;
+Barbate;Confirmados PDIA 7 días;0;
+Barbate;Tasa PDIA 7 dias;0;
+Barbate;Total Confirmados ;3447;
 Barbate;Curados;3338;
 Barbate;Fallecidos;27;
-Benalup-Casas Viejas;Población media anual;7020;
 Benalup-Casas Viejas;Confirmados PDIA;1191;
 Benalup-Casas Viejas;Confirmados PDIA 14 días;1;
-Benalup-Casas Viejas;Tasa PDIA 14 días;14,245014245014245;
+Benalup-Casas Viejas;Tasa PDIA 14 días;0;
 Benalup-Casas Viejas;Confirmados PDIA 7 días;0;
 Benalup-Casas Viejas;Tasa PDIA 7 dias;0;
 Benalup-Casas Viejas;Total Confirmados ;1198;
 Benalup-Casas Viejas;Curados;1169;
 Benalup-Casas Viejas;Fallecidos;7;
-Cádiz (capital);Población media anual;114244;
-Cádiz (capital);Confirmados PDIA;16841;
-Cádiz (capital);Confirmados PDIA 14 días;360;
-Cádiz (capital);Tasa PDIA 14 días;315,11501698119815;
-Cádiz (capital);Confirmados PDIA 7 días;150;
-Cádiz (capital);Tasa PDIA 7 dias;131,2979237421659;
-Cádiz (capital);Total Confirmados ;16899;
+Benalup;Confirmados PDIA;;
+Benalup;Confirmados PDIA 14 días;;
+Benalup;Tasa PDIA 14 días;0;
+Benalup;Confirmados PDIA 7 días;;
+Benalup;Tasa PDIA 7 dias;0;
+Benalup;Total Confirmados ;;
+Benalup;Curados;;
+Benalup;Fallecidos;;
+Cádiz (capital);Confirmados PDIA;16541;
+Cádiz (capital);Confirmados PDIA 14 días;60;
+Cádiz (capital);Tasa PDIA 14 días;0;
+Cádiz (capital);Confirmados PDIA 7 días;0;
+Cádiz (capital);Tasa PDIA 7 dias;0;
+Cádiz (capital);Total Confirmados ;16599;
 Cádiz (capital);Curados;16056;
 Cádiz (capital);Fallecidos;99;
-Chiclana de la Frontera;Población media anual;86306;
-Chiclana de la Frontera;Confirmados PDIA;11555;
-Chiclana de la Frontera;Confirmados PDIA 14 días;194;
-Chiclana de la Frontera;Tasa PDIA 14 días;224,7815910828911;
-Chiclana de la Frontera;Confirmados PDIA 7 días;67;
-Chiclana de la Frontera;Tasa PDIA 7 dias;77,63075568326651;
-Chiclana de la Frontera;Total Confirmados ;11574;
+Chiclana de la Frontera;Confirmados PDIA;11396;
+Chiclana de la Frontera;Confirmados PDIA 14 días;35;
+Chiclana de la Frontera;Tasa PDIA 14 días;0;
+Chiclana de la Frontera;Confirmados PDIA 7 días;0;
+Chiclana de la Frontera;Tasa PDIA 7 dias;0;
+Chiclana de la Frontera;Total Confirmados ;11415;
 Chiclana de la Frontera;Curados;11052;
 Chiclana de la Frontera;Fallecidos;83;
-Conil de la Frontera;Población media anual;23182;
-Conil de la Frontera;Confirmados PDIA;3588;
-Conil de la Frontera;Confirmados PDIA 14 días;41;
-Conil de la Frontera;Tasa PDIA 14 días;176,86135795013374;
-Conil de la Frontera;Confirmados PDIA 7 días;16;
-Conil de la Frontera;Tasa PDIA 7 dias;69,01906651712535;
-Conil de la Frontera;Total Confirmados ;3588;
+Conil de la Frontera;Confirmados PDIA;3555;
+Conil de la Frontera;Confirmados PDIA 14 días;8;
+Conil de la Frontera;Tasa PDIA 14 días;0;
+Conil de la Frontera;Confirmados PDIA 7 días;0;
+Conil de la Frontera;Tasa PDIA 7 dias;0;
+Conil de la Frontera;Total Confirmados ;3555;
 Conil de la Frontera;Curados;3485;
 Conil de la Frontera;Fallecidos;13;
-Medina Sidonia;Población media anual;11813;
-Medina Sidonia;Confirmados PDIA;1341;
-Medina Sidonia;Confirmados PDIA 14 días;13;
-Medina Sidonia;Tasa PDIA 14 días;110,04825192584441;
-Medina Sidonia;Confirmados PDIA 7 días;7;
-Medina Sidonia;Tasa PDIA 7 dias;59,256751036993144;
-Medina Sidonia;Total Confirmados ;1342;
+Medina Sidonia;Confirmados PDIA;1330;
+Medina Sidonia;Confirmados PDIA 14 días;2;
+Medina Sidonia;Tasa PDIA 14 días;0;
+Medina Sidonia;Confirmados PDIA 7 días;0;
+Medina Sidonia;Tasa PDIA 7 dias;0;
+Medina Sidonia;Total Confirmados ;1331;
 Medina Sidonia;Curados;1287;
 Medina Sidonia;Fallecidos;1;
-Paterna de Rivera;Población media anual;5470;
-Paterna de Rivera;Confirmados PDIA;826;
-Paterna de Rivera;Confirmados PDIA 14 días;3;
-Paterna de Rivera;Tasa PDIA 14 días;54,844606946983546;
-Paterna de Rivera;Confirmados PDIA 7 días;1;
-Paterna de Rivera;Tasa PDIA 7 dias;18,281535648994517;
-Paterna de Rivera;Total Confirmados ;826;
+Paterna de Rivera;Confirmados PDIA;825;
+Paterna de Rivera;Confirmados PDIA 14 días;2;
+Paterna de Rivera;Tasa PDIA 14 días;0;
+Paterna de Rivera;Confirmados PDIA 7 días;0;
+Paterna de Rivera;Tasa PDIA 7 dias;0;
+Paterna de Rivera;Total Confirmados ;825;
 Paterna de Rivera;Curados;801;
 Paterna de Rivera;Fallecidos;9;
-Puerto de Santa María (El);Población media anual;89060;
-Puerto de Santa María (El);Confirmados PDIA;12297;
-Puerto de Santa María (El);Confirmados PDIA 14 días;160;
-Puerto de Santa María (El);Tasa PDIA 14 días;179,6541657309679;
-Puerto de Santa María (El);Confirmados PDIA 7 días;61;
-Puerto de Santa María (El);Tasa PDIA 7 dias;68,4931506849315;
-Puerto de Santa María (El);Total Confirmados ;12320;
+Puerto de Santa María (El);Confirmados PDIA;12177;
+Puerto de Santa María (El);Confirmados PDIA 14 días;40;
+Puerto de Santa María (El);Tasa PDIA 14 días;0;
+Puerto de Santa María (El);Confirmados PDIA 7 días;0;
+Puerto de Santa María (El);Tasa PDIA 7 dias;0;
+Puerto de Santa María (El);Total Confirmados ;12200;
 Puerto de Santa María (El);Curados;11898;
 Puerto de Santa María (El);Fallecidos;45;
-Puerto Real;Población media anual;41771;
-Puerto Real;Confirmados PDIA;5306;
-Puerto Real;Confirmados PDIA 14 días;85;
-Puerto Real;Tasa PDIA 14 días;203,49045988843935;
-Puerto Real;Confirmados PDIA 7 días;20;
-Puerto Real;Tasa PDIA 7 dias;47,88010820904455;
-Puerto Real;Total Confirmados ;5314;
+Puerto Real;Confirmados PDIA;5239;
+Puerto Real;Confirmados PDIA 14 días;18;
+Puerto Real;Tasa PDIA 14 días;0;
+Puerto Real;Confirmados PDIA 7 días;0;
+Puerto Real;Tasa PDIA 7 dias;0;
+Puerto Real;Total Confirmados ;5247;
 Puerto Real;Curados;5081;
 Puerto Real;Fallecidos;27;
-San Fernando;Población media anual;94867;
-San Fernando;Confirmados PDIA;13846;
-San Fernando;Confirmados PDIA 14 días;141;
-San Fernando;Tasa PDIA 14 días;148,62913341836466;
-San Fernando;Confirmados PDIA 7 días;58;
-San Fernando;Tasa PDIA 7 dias;61,13822509407908;
-San Fernando;Total Confirmados ;13893;
+San Fernando;Confirmados PDIA;13730;
+San Fernando;Confirmados PDIA 14 días;25;
+San Fernando;Tasa PDIA 14 días;0;
+San Fernando;Confirmados PDIA 7 días;0;
+San Fernando;Tasa PDIA 7 dias;0;
+San Fernando;Total Confirmados ;13777;
 San Fernando;Curados;13376;
 San Fernando;Fallecidos;112;
-Vejer de la Frontera;Población media anual;12572;
-Vejer de la Frontera;Confirmados PDIA;1933;
-Vejer de la Frontera;Confirmados PDIA 14 días;32;
-Vejer de la Frontera;Tasa PDIA 14 días;254,5338848234171;
-Vejer de la Frontera;Confirmados PDIA 7 días;13;
-Vejer de la Frontera;Tasa PDIA 7 dias;103,40439070951321;
-Vejer de la Frontera;Total Confirmados ;1935;
+Vejer de la Frontera;Confirmados PDIA;1904;
+Vejer de la Frontera;Confirmados PDIA 14 días;3;
+Vejer de la Frontera;Tasa PDIA 14 días;0;
+Vejer de la Frontera;Confirmados PDIA 7 días;0;
+Vejer de la Frontera;Tasa PDIA 7 dias;0;
+Vejer de la Frontera;Total Confirmados ;1906;
 Vejer de la Frontera;Curados;1855;
 Vejer de la Frontera;Fallecidos;10;
-Jerez-Costa Noroeste;Población media anual;342476;
-Jerez-Costa Noroeste;Confirmados PDIA;52009;
-Jerez-Costa Noroeste;Confirmados PDIA 14 días;568;
-Jerez-Costa Noroeste;Tasa PDIA 14 días;165,8510377369509;
-Jerez-Costa Noroeste;Confirmados PDIA 7 días;197;
-Jerez-Costa Noroeste;Tasa PDIA 7 dias;57,52227893341431;
-Jerez-Costa Noroeste;Total Confirmados ;52085;
-Jerez-Costa Noroeste;Curados;50525;
-Jerez-Costa Noroeste;Fallecidos;524;
-Chipiona;Población media anual;19368;
-Chipiona;Confirmados PDIA;2606;
-Chipiona;Confirmados PDIA 14 días;50;
-Chipiona;Tasa PDIA 14 días;258,15778603882694;
-Chipiona;Confirmados PDIA 7 días;18;
-Chipiona;Tasa PDIA 7 dias;92,93680297397769;
-Chipiona;Total Confirmados ;2611;
+Jerez-Costa Noroeste;Confirmados PDIA;51584;
+Jerez-Costa Noroeste;Confirmados PDIA 14 días;143;
+Jerez-Costa Noroeste;Tasa PDIA 14 días;0;
+Jerez-Costa Noroeste;Confirmados PDIA 7 días;0;
+Jerez-Costa Noroeste;Tasa PDIA 7 dias;0;
+Jerez-Costa Noroeste;Total Confirmados ;51660;
+Jerez-Costa Noroeste;Curados;50522;
+Jerez-Costa Noroeste;Fallecidos;523;
+Chipiona;Confirmados PDIA;2569;
+Chipiona;Confirmados PDIA 14 días;13;
+Chipiona;Tasa PDIA 14 días;0;
+Chipiona;Confirmados PDIA 7 días;0;
+Chipiona;Tasa PDIA 7 dias;0;
+Chipiona;Total Confirmados ;2574;
 Chipiona;Curados;2521;
-Chipiona;Fallecidos;12;
-Jerez de la Frontera;Población media anual;212801;
-Jerez de la Frontera;Confirmados PDIA;34401;
-Jerez de la Frontera;Confirmados PDIA 14 días;341;
-Jerez de la Frontera;Tasa PDIA 14 días;160,24360787778252;
-Jerez de la Frontera;Confirmados PDIA 7 días;102;
-Jerez de la Frontera;Tasa PDIA 7 dias;47,93210558221061;
-Jerez de la Frontera;Total Confirmados ;34455;
-Jerez de la Frontera;Curados;33409;
+Chipiona;Fallecidos;11;
+Jerez de la Frontera;Confirmados PDIA;34163;
+Jerez de la Frontera;Confirmados PDIA 14 días;103;
+Jerez de la Frontera;Tasa PDIA 14 días;0;
+Jerez de la Frontera;Confirmados PDIA 7 días;0;
+Jerez de la Frontera;Tasa PDIA 7 dias;0;
+Jerez de la Frontera;Total Confirmados ;34217;
+Jerez de la Frontera;Curados;33406;
 Jerez de la Frontera;Fallecidos;407;
-Rota;Población media anual;29326;
-Rota;Confirmados PDIA;3391;
-Rota;Confirmados PDIA 14 días;45;
-Rota;Tasa PDIA 14 días;153,44745277228398;
-Rota;Confirmados PDIA 7 días;15;
-Rota;Tasa PDIA 7 dias;51,14915092409466;
-Rota;Total Confirmados ;3395;
+Rota;Confirmados PDIA;3352;
+Rota;Confirmados PDIA 14 días;6;
+Rota;Tasa PDIA 14 días;0;
+Rota;Confirmados PDIA 7 días;0;
+Rota;Tasa PDIA 7 dias;0;
+Rota;Total Confirmados ;3356;
 Rota;Curados;3288;
 Rota;Fallecidos;15;
-San José del Valle;Población media anual;4432;
-San José del Valle;Confirmados PDIA;722;
-San José del Valle;Confirmados PDIA 14 días;6;
-San José del Valle;Tasa PDIA 14 días;135,37906137184115;
-San José del Valle;Confirmados PDIA 7 días;3;
-San José del Valle;Tasa PDIA 7 dias;67,68953068592057;
-San José del Valle;Total Confirmados ;723;
+San José del Valle;Confirmados PDIA;718;
+San José del Valle;Confirmados PDIA 14 días;2;
+San José del Valle;Tasa PDIA 14 días;0;
+San José del Valle;Confirmados PDIA 7 días;0;
+San José del Valle;Tasa PDIA 7 dias;0;
+San José del Valle;Total Confirmados ;719;
 San José del Valle;Curados;702;
 San José del Valle;Fallecidos;10;
-Sanlúcar de Barrameda;Población media anual;69507;
-Sanlúcar de Barrameda;Confirmados PDIA;9736;
-Sanlúcar de Barrameda;Confirmados PDIA 14 días;115;
-Sanlúcar de Barrameda;Tasa PDIA 14 días;165,4509617736343;
-Sanlúcar de Barrameda;Confirmados PDIA 7 días;52;
-Sanlúcar de Barrameda;Tasa PDIA 7 dias;74,81260880199116;
-Sanlúcar de Barrameda;Total Confirmados ;9740;
+Sanlúcar de Barrameda;Confirmados PDIA;9638;
+Sanlúcar de Barrameda;Confirmados PDIA 14 días;17;
+Sanlúcar de Barrameda;Tasa PDIA 14 días;0;
+Sanlúcar de Barrameda;Confirmados PDIA 7 días;0;
+Sanlúcar de Barrameda;Tasa PDIA 7 dias;0;
+Sanlúcar de Barrameda;Total Confirmados ;9642;
 Sanlúcar de Barrameda;Curados;9467;
 Sanlúcar de Barrameda;Fallecidos;72;
-Trebujena;Población media anual;7042;
-Trebujena;Confirmados PDIA;1153;
-Trebujena;Confirmados PDIA 14 días;11;
-Trebujena;Tasa PDIA 14 días;156,20562340244248;
-Trebujena;Confirmados PDIA 7 días;7;
-Trebujena;Tasa PDIA 7 dias;99,40357852882704;
-Trebujena;Total Confirmados ;1161;
+Trebujena;Confirmados PDIA;1144;
+Trebujena;Confirmados PDIA 14 días;2;
+Trebujena;Tasa PDIA 14 días;0;
+Trebujena;Confirmados PDIA 7 días;0;
+Trebujena;Tasa PDIA 7 dias;0;
+Trebujena;Total Confirmados ;1152;
 Trebujena;Curados;1138;
 Trebujena;Fallecidos;8;
-Sierra de Cádiz;Población media anual;115643;
-Sierra de Cádiz;Confirmados PDIA;19164;
-Sierra de Cádiz;Confirmados PDIA 14 días;250;
-Sierra de Cádiz;Tasa PDIA 14 días;216,18256184983093;
-Sierra de Cádiz;Confirmados PDIA 7 días;81;
-Sierra de Cádiz;Tasa PDIA 7 dias;70,04315003934522;
-Sierra de Cádiz;Total Confirmados ;19214;
-Sierra de Cádiz;Curados;18477;
+Sierra de Cádiz;Confirmados PDIA;18972;
+Sierra de Cádiz;Confirmados PDIA 14 días;58;
+Sierra de Cádiz;Tasa PDIA 14 días;0;
+Sierra de Cádiz;Confirmados PDIA 7 días;0;
+Sierra de Cádiz;Tasa PDIA 7 dias;0;
+Sierra de Cádiz;Total Confirmados ;19022;
+Sierra de Cádiz;Curados;18475;
 Sierra de Cádiz;Fallecidos;205;
-Alcalá del Valle;Población media anual;5031;
-Alcalá del Valle;Confirmados PDIA;1241;
-Alcalá del Valle;Confirmados PDIA 14 días;16;
-Alcalá del Valle;Tasa PDIA 14 días;318,0282250049692;
-Alcalá del Valle;Confirmados PDIA 7 días;4;
-Alcalá del Valle;Tasa PDIA 7 dias;79,5070562512423;
-Alcalá del Valle;Total Confirmados ;1250;
+Alcalá del Valle;Confirmados PDIA;1233;
+Alcalá del Valle;Confirmados PDIA 14 días;8;
+Alcalá del Valle;Tasa PDIA 14 días;0;
+Alcalá del Valle;Confirmados PDIA 7 días;0;
+Alcalá del Valle;Tasa PDIA 7 dias;0;
+Alcalá del Valle;Total Confirmados ;1242;
 Alcalá del Valle;Curados;1188;
 Alcalá del Valle;Fallecidos;28;
-Algar;Población media anual;1442;
-Algar;Confirmados PDIA;216;
-Algar;Confirmados PDIA 14 días;6;
-Algar;Tasa PDIA 14 días;416,08876560332874;
-Algar;Confirmados PDIA 7 días;1;
-Algar;Tasa PDIA 7 dias;69,34812760055479;
-Algar;Total Confirmados ;216;
-Algar;Curados;207;
+Algar;Confirmados PDIA;211;
+Algar;Confirmados PDIA 14 días;1;
+Algar;Tasa PDIA 14 días;0;
+Algar;Confirmados PDIA 7 días;0;
+Algar;Tasa PDIA 7 dias;0;
+Algar;Total Confirmados ;211;
+Algar;Curados;206;
 Algar;Fallecidos;1;
-Algodonales;Población media anual;5526;
-Algodonales;Confirmados PDIA;946;
-Algodonales;Confirmados PDIA 14 días;7;
-Algodonales;Tasa PDIA 14 días;126,67390517553385;
-Algodonales;Confirmados PDIA 7 días;3;
-Algodonales;Tasa PDIA 7 dias;54,28881650380022;
-Algodonales;Total Confirmados ;946;
+Algodonales;Confirmados PDIA;940;
+Algodonales;Confirmados PDIA 14 días;1;
+Algodonales;Tasa PDIA 14 días;0;
+Algodonales;Confirmados PDIA 7 días;0;
+Algodonales;Tasa PDIA 7 dias;0;
+Algodonales;Total Confirmados ;940;
 Algodonales;Curados;910;
 Algodonales;Fallecidos;10;
-Arcos de la Frontera;Población media anual;30902;
-Arcos de la Frontera;Confirmados PDIA;4786;
-Arcos de la Frontera;Confirmados PDIA 14 días;53;
-Arcos de la Frontera;Tasa PDIA 14 días;171,50993463206265;
-Arcos de la Frontera;Confirmados PDIA 7 días;24;
-Arcos de la Frontera;Tasa PDIA 7 dias;77,66487605980195;
-Arcos de la Frontera;Total Confirmados ;4793;
+Arcos de la Frontera;Confirmados PDIA;4742;
+Arcos de la Frontera;Confirmados PDIA 14 días;9;
+Arcos de la Frontera;Tasa PDIA 14 días;0;
+Arcos de la Frontera;Confirmados PDIA 7 días;0;
+Arcos de la Frontera;Tasa PDIA 7 dias;0;
+Arcos de la Frontera;Total Confirmados ;4749;
 Arcos de la Frontera;Curados;4650;
 Arcos de la Frontera;Fallecidos;49;
-Benaocaz;Población media anual;695;
-Benaocaz;Confirmados PDIA;62;
-Benaocaz;Confirmados PDIA 14 días;1;
-Benaocaz;Tasa PDIA 14 días;143,88489208633092;
+Benaocaz;Confirmados PDIA;61;
+Benaocaz;Confirmados PDIA 14 días;0;
+Benaocaz;Tasa PDIA 14 días;0;
 Benaocaz;Confirmados PDIA 7 días;0;
 Benaocaz;Tasa PDIA 7 dias;0;
-Benaocaz;Total Confirmados ;62;
+Benaocaz;Total Confirmados ;61;
 Benaocaz;Curados;61;
 Benaocaz;Fallecidos;0;
-Bornos;Población media anual;7655;
-Bornos;Confirmados PDIA;1325;
-Bornos;Confirmados PDIA 14 días;9;
-Bornos;Tasa PDIA 14 días;117,57021554539517;
-Bornos;Confirmados PDIA 7 días;2;
-Bornos;Tasa PDIA 7 dias;26,126714565643372;
-Bornos;Total Confirmados ;1327;
+Bornos;Confirmados PDIA;1319;
+Bornos;Confirmados PDIA 14 días;3;
+Bornos;Tasa PDIA 14 días;0;
+Bornos;Confirmados PDIA 7 días;0;
+Bornos;Tasa PDIA 7 dias;0;
+Bornos;Total Confirmados ;1321;
 Bornos;Curados;1281;
 Bornos;Fallecidos;8;
-Bosque (El);Población media anual;2223;
-Bosque (El);Confirmados PDIA;366;
-Bosque (El);Confirmados PDIA 14 días;7;
-Bosque (El);Tasa PDIA 14 días;314,8897885739991;
-Bosque (El);Confirmados PDIA 7 días;1;
-Bosque (El);Tasa PDIA 7 dias;44,9842555105713;
-Bosque (El);Total Confirmados ;366;
+Bosque (El);Confirmados PDIA;359;
+Bosque (El);Confirmados PDIA 14 días;0;
+Bosque (El);Tasa PDIA 14 días;0;
+Bosque (El);Confirmados PDIA 7 días;0;
+Bosque (El);Tasa PDIA 7 dias;0;
+Bosque (El);Total Confirmados ;359;
 Bosque (El);Curados;349;
 Bosque (El);Fallecidos;3;
-Espera;Población media anual;3845;
-Espera;Confirmados PDIA;592;
-Espera;Confirmados PDIA 14 días;5;
-Espera;Tasa PDIA 14 días;130,03901170351105;
-Espera;Confirmados PDIA 7 días;4;
-Espera;Tasa PDIA 7 dias;104,03120936280884;
-Espera;Total Confirmados ;592;
+Espera;Confirmados PDIA;587;
+Espera;Confirmados PDIA 14 días;0;
+Espera;Tasa PDIA 14 días;0;
+Espera;Confirmados PDIA 7 días;0;
+Espera;Tasa PDIA 7 dias;0;
+Espera;Total Confirmados ;587;
 Espera;Curados;572;
 Espera;Fallecidos;5;
-Gastor (El);Población media anual;1709;
-Gastor (El);Confirmados PDIA;268;
-Gastor (El);Confirmados PDIA 14 días;6;
-Gastor (El);Tasa PDIA 14 días;351,0825043885313;
+Gastor (El);Confirmados PDIA;263;
+Gastor (El);Confirmados PDIA 14 días;1;
+Gastor (El);Tasa PDIA 14 días;0;
 Gastor (El);Confirmados PDIA 7 días;0;
 Gastor (El);Tasa PDIA 7 dias;0;
-Gastor (El);Total Confirmados ;268;
+Gastor (El);Total Confirmados ;263;
 Gastor (El);Curados;255;
 Gastor (El);Fallecidos;6;
-Grazalema;Población media anual;2030;
-Grazalema;Confirmados PDIA;309;
-Grazalema;Confirmados PDIA 14 días;2;
-Grazalema;Tasa PDIA 14 días;98,52216748768473;
+Grazalema;Confirmados PDIA;308;
+Grazalema;Confirmados PDIA 14 días;1;
+Grazalema;Tasa PDIA 14 días;0;
 Grazalema;Confirmados PDIA 7 días;0;
 Grazalema;Tasa PDIA 7 dias;0;
-Grazalema;Total Confirmados ;309;
+Grazalema;Total Confirmados ;308;
 Grazalema;Curados;298;
 Grazalema;Fallecidos;5;
-Olvera;Población media anual;8016;
-Olvera;Confirmados PDIA;1382;
-Olvera;Confirmados PDIA 14 días;17;
-Olvera;Tasa PDIA 14 días;212,0758483033932;
-Olvera;Confirmados PDIA 7 días;3;
-Olvera;Tasa PDIA 7 dias;37,4251497005988;
-Olvera;Total Confirmados ;1385;
+Olvera;Confirmados PDIA;1370;
+Olvera;Confirmados PDIA 14 días;5;
+Olvera;Tasa PDIA 14 días;0;
+Olvera;Confirmados PDIA 7 días;0;
+Olvera;Tasa PDIA 7 dias;0;
+Olvera;Total Confirmados ;1373;
 Olvera;Curados;1334;
 Olvera;Fallecidos;15;
-Prado del Rey;Población media anual;5655;
-Prado del Rey;Confirmados PDIA;800;
-Prado del Rey;Confirmados PDIA 14 días;10;
-Prado del Rey;Tasa PDIA 14 días;176,8346595932803;
-Prado del Rey;Confirmados PDIA 7 días;2;
-Prado del Rey;Tasa PDIA 7 dias;35,36693191865606;
-Prado del Rey;Total Confirmados ;800;
+Prado del Rey;Confirmados PDIA;794;
+Prado del Rey;Confirmados PDIA 14 días;4;
+Prado del Rey;Tasa PDIA 14 días;0;
+Prado del Rey;Confirmados PDIA 7 días;0;
+Prado del Rey;Tasa PDIA 7 dias;0;
+Prado del Rey;Total Confirmados ;794;
 Prado del Rey;Curados;764;
 Prado del Rey;Fallecidos;7;
-Puerto Serrano;Población media anual;6954;
-Puerto Serrano;Confirmados PDIA;1259;
-Puerto Serrano;Confirmados PDIA 14 días;9;
-Puerto Serrano;Tasa PDIA 14 días;129,42191544434857;
-Puerto Serrano;Confirmados PDIA 7 días;3;
-Puerto Serrano;Tasa PDIA 7 dias;43,14063848144953;
-Puerto Serrano;Total Confirmados ;1260;
+Puerto Serrano;Confirmados PDIA;1252;
+Puerto Serrano;Confirmados PDIA 14 días;2;
+Puerto Serrano;Tasa PDIA 14 días;0;
+Puerto Serrano;Confirmados PDIA 7 días;0;
+Puerto Serrano;Tasa PDIA 7 dias;0;
+Puerto Serrano;Total Confirmados ;1253;
 Puerto Serrano;Curados;1208;
 Puerto Serrano;Fallecidos;11;
-Setenil de las Bodegas;Población media anual;2698;
-Setenil de las Bodegas;Confirmados PDIA;507;
-Setenil de las Bodegas;Confirmados PDIA 14 días;5;
-Setenil de las Bodegas;Tasa PDIA 14 días;185,32246108228318;
-Setenil de las Bodegas;Confirmados PDIA 7 días;2;
-Setenil de las Bodegas;Tasa PDIA 7 dias;74,12898443291327;
-Setenil de las Bodegas;Total Confirmados ;508;
-Setenil de las Bodegas;Curados;487;
+Setenil de las Bodegas;Confirmados PDIA;503;
+Setenil de las Bodegas;Confirmados PDIA 14 días;1;
+Setenil de las Bodegas;Tasa PDIA 14 días;0;
+Setenil de las Bodegas;Confirmados PDIA 7 días;0;
+Setenil de las Bodegas;Tasa PDIA 7 dias;0;
+Setenil de las Bodegas;Total Confirmados ;504;
+Setenil de las Bodegas;Curados;486;
 Setenil de las Bodegas;Fallecidos;13;
-Torre Alháquime;Población media anual;800;
-Torre Alháquime;Confirmados PDIA;168;
-Torre Alháquime;Confirmados PDIA 14 días;2;
-Torre Alháquime;Tasa PDIA 14 días;250;
+Torre Alháquime;Confirmados PDIA;166;
+Torre Alháquime;Confirmados PDIA 14 días;0;
+Torre Alháquime;Tasa PDIA 14 días;0;
 Torre Alháquime;Confirmados PDIA 7 días;0;
 Torre Alháquime;Tasa PDIA 7 dias;0;
-Torre Alháquime;Total Confirmados ;168;
+Torre Alháquime;Total Confirmados ;166;
 Torre Alháquime;Curados;165;
 Torre Alháquime;Fallecidos;0;
-Ubrique;Población media anual;16482;
-Ubrique;Confirmados PDIA;2534;
-Ubrique;Confirmados PDIA 14 días;76;
-Ubrique;Tasa PDIA 14 días;461,1090887028273;
-Ubrique;Confirmados PDIA 7 días;22;
-Ubrique;Tasa PDIA 7 dias;133,4789467297658;
-Ubrique;Total Confirmados ;2552;
+Ubrique;Confirmados PDIA;2477;
+Ubrique;Confirmados PDIA 14 días;19;
+Ubrique;Tasa PDIA 14 días;0;
+Ubrique;Confirmados PDIA 7 días;0;
+Ubrique;Tasa PDIA 7 dias;0;
+Ubrique;Total Confirmados ;2495;
 Ubrique;Curados;2408;
 Ubrique;Fallecidos;21;
-Villaluenga del Rosario;Población media anual;464;
 Villaluenga del Rosario;Confirmados PDIA;57;
 Villaluenga del Rosario;Confirmados PDIA 14 días;0;
 Villaluenga del Rosario;Tasa PDIA 14 días;0;
@@ -440,31 +407,28 @@ Villaluenga del Rosario;Tasa PDIA 7 dias;0;
 Villaluenga del Rosario;Total Confirmados ;58;
 Villaluenga del Rosario;Curados;57;
 Villaluenga del Rosario;Fallecidos;0;
-Villamartín;Población media anual;12125;
-Villamartín;Confirmados PDIA;2254;
-Villamartín;Confirmados PDIA 14 días;11;
-Villamartín;Tasa PDIA 14 días;90,72164948453609;
-Villamartín;Confirmados PDIA 7 días;4;
-Villamartín;Tasa PDIA 7 dias;32,98969072164948;
-Villamartín;Total Confirmados ;2262;
+Villamartín;Confirmados PDIA;2245;
+Villamartín;Confirmados PDIA 14 días;2;
+Villamartín;Tasa PDIA 14 días;0;
+Villamartín;Confirmados PDIA 7 días;0;
+Villamartín;Tasa PDIA 7 dias;0;
+Villamartín;Total Confirmados ;2253;
 Villamartín;Curados;2202;
 Villamartín;Fallecidos;22;
-Zahara;Población media anual;1391;
-Zahara;Confirmados PDIA;92;
-Zahara;Confirmados PDIA 14 días;8;
-Zahara;Tasa PDIA 14 días;575,1258087706685;
-Zahara;Confirmados PDIA 7 días;6;
-Zahara;Tasa PDIA 7 dias;431,34435657800145;
-Zahara;Total Confirmados ;92;
+Zahara;Confirmados PDIA;85;
+Zahara;Confirmados PDIA 14 días;1;
+Zahara;Tasa PDIA 14 días;0;
+Zahara;Confirmados PDIA 7 días;0;
+Zahara;Tasa PDIA 7 dias;0;
+Zahara;Total Confirmados ;85;
 Zahara;Curados;81;
 Zahara;Fallecidos;1;
-Municipio de Cádiz sin especificar;Población media anual;;
-Municipio de Cádiz sin especificar;Confirmados PDIA;1901;
-Municipio de Cádiz sin especificar;Confirmados PDIA 14 días;5;
-Municipio de Cádiz sin especificar;Tasa PDIA 14 días;-;
-Municipio de Cádiz sin especificar;Confirmados PDIA 7 días;4;
-Municipio de Cádiz sin especificar;Tasa PDIA 7 dias;-;
-Municipio de Cádiz sin especificar;Total Confirmados ;1905;
+Municipio de Cádiz sin especificar;Confirmados PDIA;1897;
+Municipio de Cádiz sin especificar;Confirmados PDIA 14 días;1;
+Municipio de Cádiz sin especificar;Tasa PDIA 14 días;0;
+Municipio de Cádiz sin especificar;Confirmados PDIA 7 días;0;
+Municipio de Cádiz sin especificar;Tasa PDIA 7 dias;0;
+Municipio de Cádiz sin especificar;Total Confirmados ;1901;
 Municipio de Cádiz sin especificar;Curados;1843;
 Municipio de Cádiz sin especificar;Fallecidos;28;
 
@@ -480,26 +444,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -522,26 +470,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -564,26 +496,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -606,26 +522,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -648,26 +548,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -690,26 +574,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -732,26 +600,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -774,26 +626,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -816,26 +652,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -858,26 +678,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -900,26 +704,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -942,26 +730,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -984,26 +756,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -1026,26 +782,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -1068,26 +808,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -1110,26 +834,10 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
-               
           
           
                
                     
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
                
                
                
@@ -1152,6 +860,18 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
                
           
           
@@ -1166,6 +886,18 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
                
           
           
@@ -1180,12 +912,218 @@ Municipio de Cádiz sin especificar;Fallecidos;28;
                
                
                
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
                
           
           
                
                     
                
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
+               
+               
+               
+               
+               
+               
+               
+               
+               
+          
+          
+               
+                    
                
                
                
