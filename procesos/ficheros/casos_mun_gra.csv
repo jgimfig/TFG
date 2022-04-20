@@ -431,14 +431,6 @@ Benalúa;Tasa PDIA 7 dias;0;
 Benalúa;Total Confirmados ;610;
 Benalúa;Curados;584;
 Benalúa;Fallecidos;17;
-Benalúa de Guadix;Confirmados PDIA;;
-Benalúa de Guadix;Confirmados PDIA 14 días;;
-Benalúa de Guadix;Tasa PDIA 14 días;0;
-Benalúa de Guadix;Confirmados PDIA 7 días;;
-Benalúa de Guadix;Tasa PDIA 7 dias;0;
-Benalúa de Guadix;Total Confirmados ;;
-Benalúa de Guadix;Curados;;
-Benalúa de Guadix;Fallecidos;;
 Benamaurel;Confirmados PDIA;354;
 Benamaurel;Confirmados PDIA 14 días;0;
 Benamaurel;Tasa PDIA 14 días;0;
@@ -455,14 +447,6 @@ Calahorra (La);Tasa PDIA 7 dias;0;
 Calahorra (La);Total Confirmados ;160;
 Calahorra (La);Curados;157;
 Calahorra (La);Fallecidos;2;
-Calahora (La);Confirmados PDIA;;
-Calahora (La);Confirmados PDIA 14 días;;
-Calahora (La);Tasa PDIA 14 días;0;
-Calahora (La);Confirmados PDIA 7 días;;
-Calahora (La);Tasa PDIA 7 dias;0;
-Calahora (La);Total Confirmados ;;
-Calahora (La);Curados;;
-Calahora (La);Fallecidos;;
 Caniles;Confirmados PDIA;525;
 Caniles;Confirmados PDIA 14 días;0;
 Caniles;Tasa PDIA 14 días;0;
@@ -527,14 +511,6 @@ Cúllar;Tasa PDIA 7 dias;0;
 Cúllar;Total Confirmados ;555;
 Cúllar;Curados;540;
 Cúllar;Fallecidos;4;
-Cúllar-Baza;Confirmados PDIA;;
-Cúllar-Baza;Confirmados PDIA 14 días;;
-Cúllar-Baza;Tasa PDIA 14 días;0;
-Cúllar-Baza;Confirmados PDIA 7 días;;
-Cúllar-Baza;Tasa PDIA 7 dias;0;
-Cúllar-Baza;Total Confirmados ;;
-Cúllar-Baza;Curados;;
-Cúllar-Baza;Fallecidos;;
 Darro;Confirmados PDIA;325;
 Darro;Confirmados PDIA 14 días;0;
 Darro;Tasa PDIA 14 días;0;
@@ -807,46 +783,6 @@ Metropolitano de Granada;Tasa PDIA 7 dias;0;
 Metropolitano de Granada;Total Confirmados ;83923;
 Metropolitano de Granada;Curados;81735;
 Metropolitano de Granada;Fallecidos;1037;
-Acequias;Confirmados PDIA;;
-Acequias;Confirmados PDIA 14 días;;
-Acequias;Tasa PDIA 14 días;0;
-Acequias;Confirmados PDIA 7 días;;
-Acequias;Tasa PDIA 7 dias;0;
-Acequias;Total Confirmados ;;
-Acequias;Curados;;
-Acequias;Fallecidos;;
-Alcázar y Bargis;Confirmados PDIA;;
-Alcázar y Bargis;Confirmados PDIA 14 días;;
-Alcázar y Bargis;Tasa PDIA 14 días;0;
-Alcázar y Bargis;Confirmados PDIA 7 días;;
-Alcázar y Bargis;Tasa PDIA 7 dias;0;
-Alcázar y Bargis;Total Confirmados ;;
-Alcázar y Bargis;Curados;;
-Alcázar y Bargis;Fallecidos;;
-Alcázar y Fregenite;Confirmados PDIA;;
-Alcázar y Fregenite;Confirmados PDIA 14 días;;
-Alcázar y Fregenite;Tasa PDIA 14 días;0;
-Alcázar y Fregenite;Confirmados PDIA 7 días;;
-Alcázar y Fregenite;Tasa PDIA 7 dias;0;
-Alcázar y Fregenite;Total Confirmados ;;
-Alcázar y Fregenite;Curados;;
-Alcázar y Fregenite;Fallecidos;;
-Alcudia de Guadix;Confirmados PDIA;;
-Alcudia de Guadix;Confirmados PDIA 14 días;;
-Alcudia de Guadix;Tasa PDIA 14 días;0;
-Alcudia de Guadix;Confirmados PDIA 7 días;;
-Alcudia de Guadix;Tasa PDIA 7 dias;0;
-Alcudia de Guadix;Total Confirmados ;;
-Alcudia de Guadix;Curados;;
-Alcudia de Guadix;Fallecidos;;
-Ambroz;Confirmados PDIA;;
-Ambroz;Confirmados PDIA 14 días;;
-Ambroz;Tasa PDIA 14 días;0;
-Ambroz;Confirmados PDIA 7 días;;
-Ambroz;Tasa PDIA 7 dias;0;
-Ambroz;Total Confirmados ;;
-Ambroz;Curados;;
-Ambroz;Fallecidos;;
 Agrón;Confirmados PDIA;50;
 Agrón;Confirmados PDIA 14 días;0;
 Agrón;Tasa PDIA 14 días;0;
@@ -927,22 +863,6 @@ Atarfe;Tasa PDIA 7 dias;0;
 Atarfe;Total Confirmados ;3681;
 Atarfe;Curados;3571;
 Atarfe;Fallecidos;58;
-Bayacas;Confirmados PDIA;;
-Bayacas;Confirmados PDIA 14 días;;
-Bayacas;Tasa PDIA 14 días;0;
-Bayacas;Confirmados PDIA 7 días;;
-Bayacas;Tasa PDIA 7 dias;0;
-Bayacas;Total Confirmados ;;
-Bayacas;Curados;;
-Bayacas;Fallecidos;;
-Belicena;Confirmados PDIA;;
-Belicena;Confirmados PDIA 14 días;;
-Belicena;Tasa PDIA 14 días;0;
-Belicena;Confirmados PDIA 7 días;;
-Belicena;Tasa PDIA 7 dias;0;
-Belicena;Total Confirmados ;;
-Belicena;Curados;;
-Belicena;Fallecidos;;
 Benalúa de las Villas;Confirmados PDIA;138;
 Benalúa de las Villas;Confirmados PDIA 14 días;0;
 Benalúa de las Villas;Tasa PDIA 14 días;0;
@@ -951,14 +871,6 @@ Benalúa de las Villas;Tasa PDIA 7 dias;0;
 Benalúa de las Villas;Total Confirmados ;139;
 Benalúa de las Villas;Curados;137;
 Benalúa de las Villas;Fallecidos;1;
-Béznar;Confirmados PDIA;;
-Béznar;Confirmados PDIA 14 días;;
-Béznar;Tasa PDIA 14 días;0;
-Béznar;Confirmados PDIA 7 días;;
-Béznar;Tasa PDIA 7 dias;0;
-Béznar;Total Confirmados ;;
-Béznar;Curados;;
-Béznar;Fallecidos;;
 Cacín;Confirmados PDIA;46;
 Cacín;Confirmados PDIA 14 días;0;
 Cacín;Tasa PDIA 14 días;0;
@@ -991,14 +903,6 @@ Campotéjar;Tasa PDIA 7 dias;0;
 Campotéjar;Total Confirmados ;194;
 Campotéjar;Curados;184;
 Campotéjar;Fallecidos;7;
-Caparacena;Confirmados PDIA;;
-Caparacena;Confirmados PDIA 14 días;;
-Caparacena;Tasa PDIA 14 días;0;
-Caparacena;Confirmados PDIA 7 días;;
-Caparacena;Tasa PDIA 7 dias;0;
-Caparacena;Total Confirmados ;;
-Caparacena;Curados;;
-Caparacena;Fallecidos;;
 Cenes de la Vega;Confirmados PDIA;1527;
 Cenes de la Vega;Confirmados PDIA 14 días;0;
 Cenes de la Vega;Tasa PDIA 14 días;0;
@@ -1007,14 +911,6 @@ Cenes de la Vega;Tasa PDIA 7 dias;0;
 Cenes de la Vega;Total Confirmados ;1533;
 Cenes de la Vega;Curados;1511;
 Cenes de la Vega;Fallecidos;13;
-Charches;Confirmados PDIA;;
-Charches;Confirmados PDIA 14 días;;
-Charches;Tasa PDIA 14 días;0;
-Charches;Confirmados PDIA 7 días;;
-Charches;Tasa PDIA 7 dias;0;
-Charches;Total Confirmados ;;
-Charches;Curados;;
-Charches;Fallecidos;;
 Chauchina;Confirmados PDIA;1347;
 Chauchina;Confirmados PDIA 14 días;0;
 Chauchina;Tasa PDIA 14 días;0;
@@ -1023,22 +919,6 @@ Chauchina;Tasa PDIA 7 dias;0;
 Chauchina;Total Confirmados ;1348;
 Chauchina;Curados;1315;
 Chauchina;Fallecidos;15;
-Cherín;Confirmados PDIA;;
-Cherín;Confirmados PDIA 14 días;;
-Cherín;Tasa PDIA 14 días;0;
-Cherín;Confirmados PDIA 7 días;;
-Cherín;Tasa PDIA 7 dias;0;
-Cherín;Total Confirmados ;;
-Cherín;Curados;;
-Cherín;Fallecidos;;
-Chite y Talará;Confirmados PDIA;;
-Chite y Talará;Confirmados PDIA 14 días;;
-Chite y Talará;Tasa PDIA 14 días;0;
-Chite y Talará;Confirmados PDIA 7 días;;
-Chite y Talará;Tasa PDIA 7 dias;0;
-Chite y Talará;Total Confirmados ;;
-Chite y Talará;Curados;;
-Chite y Talará;Fallecidos;;
 Chimeneas;Confirmados PDIA;216;
 Chimeneas;Confirmados PDIA 14 días;0;
 Chimeneas;Tasa PDIA 14 días;0;
@@ -1047,14 +927,6 @@ Chimeneas;Tasa PDIA 7 dias;0;
 Chimeneas;Total Confirmados ;216;
 Chimeneas;Curados;209;
 Chimeneas;Fallecidos;2;
-Churriana;Confirmados PDIA;;
-Churriana;Confirmados PDIA 14 días;;
-Churriana;Tasa PDIA 14 días;0;
-Churriana;Confirmados PDIA 7 días;;
-Churriana;Tasa PDIA 7 dias;0;
-Churriana;Total Confirmados ;;
-Churriana;Curados;;
-Churriana;Fallecidos;;
 Churriana de la Vega;Confirmados PDIA;3365;
 Churriana de la Vega;Confirmados PDIA 14 días;0;
 Churriana de la Vega;Tasa PDIA 14 días;0;
@@ -1079,22 +951,6 @@ Cogollos de la Vega;Tasa PDIA 7 dias;0;
 Cogollos de la Vega;Total Confirmados ;422;
 Cogollos de la Vega;Curados;402;
 Cogollos de la Vega;Fallecidos;8;
-Cojáyar;Confirmados PDIA;;
-Cojáyar;Confirmados PDIA 14 días;;
-Cojáyar;Tasa PDIA 14 días;0;
-Cojáyar;Confirmados PDIA 7 días;;
-Cojáyar;Tasa PDIA 7 dias;0;
-Cojáyar;Total Confirmados ;;
-Cojáyar;Curados;;
-Cojáyar;Fallecidos;;
-Cónchar;Confirmados PDIA;;
-Cónchar;Confirmados PDIA 14 días;;
-Cónchar;Tasa PDIA 14 días;0;
-Cónchar;Confirmados PDIA 7 días;;
-Cónchar;Tasa PDIA 7 dias;0;
-Cónchar;Total Confirmados ;;
-Cónchar;Curados;;
-Cónchar;Fallecidos;;
 Colomera;Confirmados PDIA;298;
 Colomera;Confirmados PDIA 14 días;0;
 Colomera;Tasa PDIA 14 días;0;
@@ -1103,14 +959,6 @@ Colomera;Tasa PDIA 7 dias;0;
 Colomera;Total Confirmados ;298;
 Colomera;Curados;291;
 Colomera;Fallecidos;2;
-Cozvíjar;Confirmados PDIA;;
-Cozvíjar;Confirmados PDIA 14 días;;
-Cozvíjar;Tasa PDIA 14 días;0;
-Cozvíjar;Confirmados PDIA 7 días;;
-Cozvíjar;Tasa PDIA 7 dias;0;
-Cozvíjar;Total Confirmados ;;
-Cozvíjar;Curados;;
-Cozvíjar;Fallecidos;;
 Cúllar Vega;Confirmados PDIA;1421;
 Cúllar Vega;Confirmados PDIA 14 días;0;
 Cúllar Vega;Tasa PDIA 14 días;0;
@@ -1119,14 +967,6 @@ Cúllar Vega;Tasa PDIA 7 dias;0;
 Cúllar Vega;Total Confirmados ;1424;
 Cúllar Vega;Curados;1396;
 Cúllar Vega;Fallecidos;14;
-Dehesas Viejas;Confirmados PDIA;;
-Dehesas Viejas;Confirmados PDIA 14 días;;
-Dehesas Viejas;Tasa PDIA 14 días;0;
-Dehesas Viejas;Confirmados PDIA 7 días;;
-Dehesas Viejas;Tasa PDIA 7 dias;0;
-Dehesas Viejas;Total Confirmados ;;
-Dehesas Viejas;Curados;;
-Dehesas Viejas;Fallecidos;;
 Dehesas Viejas;Confirmados PDIA;84;
 Dehesas Viejas;Confirmados PDIA 14 días;0;
 Dehesas Viejas;Tasa PDIA 14 días;0;
@@ -1183,46 +1023,6 @@ Escúzar;Tasa PDIA 7 dias;0;
 Escúzar;Total Confirmados ;180;
 Escúzar;Curados;176;
 Escúzar;Fallecidos;4;
-Esfiliana;Confirmados PDIA;;
-Esfiliana;Confirmados PDIA 14 días;;
-Esfiliana;Tasa PDIA 14 días;0;
-Esfiliana;Confirmados PDIA 7 días;;
-Esfiliana;Tasa PDIA 7 dias;0;
-Esfiliana;Total Confirmados ;;
-Esfiliana;Curados;;
-Esfiliana;Fallecidos;;
-Ferreirola;Confirmados PDIA;;
-Ferreirola;Confirmados PDIA 14 días;;
-Ferreirola;Tasa PDIA 14 días;0;
-Ferreirola;Confirmados PDIA 7 días;;
-Ferreirola;Tasa PDIA 7 dias;0;
-Ferreirola;Total Confirmados ;;
-Ferreirola;Curados;;
-Ferreirola;Fallecidos;;
-Fornes;Confirmados PDIA;;
-Fornes;Confirmados PDIA 14 días;;
-Fornes;Tasa PDIA 14 días;0;
-Fornes;Confirmados PDIA 7 días;;
-Fornes;Tasa PDIA 7 dias;0;
-Fornes;Total Confirmados ;;
-Fornes;Curados;;
-Fornes;Fallecidos;;
-Fornes;Confirmados PDIA;76;
-Fornes;Confirmados PDIA 14 días;0;
-Fornes;Tasa PDIA 14 días;0;
-Fornes;Confirmados PDIA 7 días;0;
-Fornes;Tasa PDIA 7 dias;0;
-Fornes;Total Confirmados ;76;
-Fornes;Curados;72;
-Fornes;Fallecidos;2;
-Fregenite;Confirmados PDIA;;
-Fregenite;Confirmados PDIA 14 días;;
-Fregenite;Tasa PDIA 14 días;0;
-Fregenite;Confirmados PDIA 7 días;;
-Fregenite;Tasa PDIA 7 dias;0;
-Fregenite;Total Confirmados ;;
-Fregenite;Curados;;
-Fregenite;Fallecidos;;
 Fuente Vaqueros;Confirmados PDIA;1054;
 Fuente Vaqueros;Confirmados PDIA 14 días;0;
 Fuente Vaqueros;Tasa PDIA 14 días;0;
@@ -1239,22 +1039,6 @@ Gabias (Las);Tasa PDIA 7 dias;0;
 Gabias (Las);Total Confirmados ;3975;
 Gabias (Las);Curados;3900;
 Gabias (Las);Fallecidos;31;
-Gabia la Chica;Confirmados PDIA;;
-Gabia la Chica;Confirmados PDIA 14 días;;
-Gabia la Chica;Tasa PDIA 14 días;0;
-Gabia la Chica;Confirmados PDIA 7 días;;
-Gabia la Chica;Tasa PDIA 7 dias;0;
-Gabia la Chica;Total Confirmados ;;
-Gabia la Chica;Curados;;
-Gabia la Chica;Fallecidos;;
-Gabia la Grande;Confirmados PDIA;;
-Gabia la Grande;Confirmados PDIA 14 días;;
-Gabia la Grande;Tasa PDIA 14 días;0;
-Gabia la Grande;Confirmados PDIA 7 días;;
-Gabia la Grande;Tasa PDIA 7 dias;0;
-Gabia la Grande;Total Confirmados ;;
-Gabia la Grande;Curados;;
-Gabia la Grande;Fallecidos;;
 Gobernador;Confirmados PDIA;11;
 Gobernador;Confirmados PDIA 14 días;0;
 Gobernador;Tasa PDIA 14 días;0;
@@ -1279,30 +1063,6 @@ Guadahortuna;Tasa PDIA 7 dias;0;
 Guadahortuna;Total Confirmados ;217;
 Guadahortuna;Curados;210;
 Guadahortuna;Fallecidos;2;
-Guájar Alto;Confirmados PDIA;;
-Guájar Alto;Confirmados PDIA 14 días;;
-Guájar Alto;Tasa PDIA 14 días;0;
-Guájar Alto;Confirmados PDIA 7 días;;
-Guájar Alto;Tasa PDIA 7 dias;0;
-Guájar Alto;Total Confirmados ;;
-Guájar Alto;Curados;;
-Guájar Alto;Fallecidos;;
-Guájar Faragüit;Confirmados PDIA;;
-Guájar Faragüit;Confirmados PDIA 14 días;;
-Guájar Faragüit;Tasa PDIA 14 días;0;
-Guájar Faragüit;Confirmados PDIA 7 días;;
-Guájar Faragüit;Tasa PDIA 7 dias;0;
-Guájar Faragüit;Total Confirmados ;;
-Guájar Faragüit;Curados;;
-Guájar Faragüit;Fallecidos;;
-Guájar Fondón;Confirmados PDIA;;
-Guájar Fondón;Confirmados PDIA 14 días;;
-Guájar Fondón;Tasa PDIA 14 días;0;
-Guájar Fondón;Confirmados PDIA 7 días;;
-Guájar Fondón;Tasa PDIA 7 dias;0;
-Guájar Fondón;Total Confirmados ;;
-Guájar Fondón;Curados;;
-Guájar Fondón;Fallecidos;;
 Güéjar Sierra;Confirmados PDIA;488;
 Güéjar Sierra;Confirmados PDIA 14 días;0;
 Güéjar Sierra;Tasa PDIA 14 días;0;
@@ -1343,14 +1103,6 @@ Huétor Vega;Fallecidos;16;
 Íllora;Total Confirmados ;1967;
 Íllora;Curados;1911;
 Íllora;Fallecidos;30;
-Izbor;Confirmados PDIA;;
-Izbor;Confirmados PDIA 14 días;;
-Izbor;Tasa PDIA 14 días;0;
-Izbor;Confirmados PDIA 7 días;;
-Izbor;Tasa PDIA 7 dias;0;
-Izbor;Total Confirmados ;;
-Izbor;Curados;;
-Izbor;Fallecidos;;
 Iznalloz;Confirmados PDIA;1104;
 Iznalloz;Confirmados PDIA 14 días;0;
 Iznalloz;Tasa PDIA 14 días;0;
@@ -1359,14 +1111,14 @@ Iznalloz;Tasa PDIA 7 dias;0;
 Iznalloz;Total Confirmados ;1108;
 Iznalloz;Curados;1051;
 Iznalloz;Fallecidos;29;
-Játar;Confirmados PDIA;;
-Játar;Confirmados PDIA 14 días;;
-Játar;Tasa PDIA 14 días;0;
-Játar;Confirmados PDIA 7 días;;
-Játar;Tasa PDIA 7 dias;0;
-Játar;Total Confirmados ;;
-Játar;Curados;;
-Játar;Fallecidos;;
+Fornes;Confirmados PDIA;76;
+Fornes;Confirmados PDIA 14 días;0;
+Fornes;Tasa PDIA 14 días;0;
+Fornes;Confirmados PDIA 7 días;0;
+Fornes;Tasa PDIA 7 dias;0;
+Fornes;Total Confirmados ;76;
+Fornes;Curados;72;
+Fornes;Fallecidos;2;
 Játar;Confirmados PDIA;68;
 Játar;Confirmados PDIA 14 días;0;
 Játar;Tasa PDIA 14 días;0;
@@ -1383,22 +1135,6 @@ Jayena;Tasa PDIA 7 dias;0;
 Jayena;Total Confirmados ;180;
 Jayena;Curados;177;
 Jayena;Fallecidos;1;
-Jorairátar;Confirmados PDIA;;
-Jorairátar;Confirmados PDIA 14 días;;
-Jorairátar;Tasa PDIA 14 días;0;
-Jorairátar;Confirmados PDIA 7 días;;
-Jorairátar;Tasa PDIA 7 dias;0;
-Jorairátar;Total Confirmados ;;
-Jorairátar;Curados;;
-Jorairátar;Fallecidos;;
-Laborcillas;Confirmados PDIA;;
-Laborcillas;Confirmados PDIA 14 días;;
-Laborcillas;Tasa PDIA 14 días;0;
-Laborcillas;Confirmados PDIA 7 días;;
-Laborcillas;Tasa PDIA 7 dias;0;
-Laborcillas;Total Confirmados ;;
-Laborcillas;Curados;;
-Laborcillas;Fallecidos;;
 Láchar;Confirmados PDIA;760;
 Láchar;Confirmados PDIA 14 días;0;
 Láchar;Tasa PDIA 14 días;0;
@@ -1407,14 +1143,6 @@ Láchar;Tasa PDIA 7 dias;0;
 Láchar;Total Confirmados ;760;
 Láchar;Curados;733;
 Láchar;Fallecidos;15;
-Laroles;Confirmados PDIA;;
-Laroles;Confirmados PDIA 14 días;;
-Laroles;Tasa PDIA 14 días;0;
-Laroles;Confirmados PDIA 7 días;;
-Laroles;Tasa PDIA 7 dias;0;
-Laroles;Total Confirmados ;;
-Laroles;Curados;;
-Laroles;Fallecidos;;
 Lecrín;Confirmados PDIA;253;
 Lecrín;Confirmados PDIA 14 días;0;
 Lecrín;Tasa PDIA 14 días;0;
@@ -1431,14 +1159,6 @@ Loja;Tasa PDIA 7 dias;0;
 Loja;Total Confirmados ;4365;
 Loja;Curados;4245;
 Loja;Fallecidos;64;
-Malá (La);Confirmados PDIA;;
-Malá (La);Confirmados PDIA 14 días;;
-Malá (La);Tasa PDIA 14 días;0;
-Malá (La);Confirmados PDIA 7 días;;
-Malá (La);Tasa PDIA 7 dias;0;
-Malá (La);Total Confirmados ;;
-Malá (La);Curados;;
-Malá (La);Fallecidos;;
 Malahá (La);Confirmados PDIA;301;
 Malahá (La);Confirmados PDIA 14 días;0;
 Malahá (La);Tasa PDIA 14 días;0;
@@ -1447,14 +1167,6 @@ Malahá (La);Tasa PDIA 7 dias;0;
 Malahá (La);Total Confirmados ;301;
 Malahá (La);Curados;293;
 Malahá (La);Fallecidos;4;
-Mairena;Confirmados PDIA;;
-Mairena;Confirmados PDIA 14 días;;
-Mairena;Tasa PDIA 14 días;0;
-Mairena;Confirmados PDIA 7 días;;
-Mairena;Tasa PDIA 7 dias;0;
-Mairena;Total Confirmados ;;
-Mairena;Curados;;
-Mairena;Fallecidos;;
 Maracena;Confirmados PDIA;4333;
 Maracena;Confirmados PDIA 14 días;0;
 Maracena;Tasa PDIA 14 días;0;
@@ -1463,46 +1175,6 @@ Maracena;Tasa PDIA 7 dias;0;
 Maracena;Total Confirmados ;4358;
 Maracena;Curados;4223;
 Maracena;Fallecidos;50;
-Mecina-Alfahar;Confirmados PDIA;;
-Mecina-Alfahar;Confirmados PDIA 14 días;;
-Mecina-Alfahar;Tasa PDIA 14 días;0;
-Mecina-Alfahar;Confirmados PDIA 7 días;;
-Mecina-Alfahar;Tasa PDIA 7 dias;0;
-Mecina-Alfahar;Total Confirmados ;;
-Mecina-Alfahar;Curados;;
-Mecina-Alfahar;Fallecidos;;
-Mecina-Bombarón;Confirmados PDIA;;
-Mecina-Bombarón;Confirmados PDIA 14 días;;
-Mecina-Bombarón;Tasa PDIA 14 días;0;
-Mecina-Bombarón;Confirmados PDIA 7 días;;
-Mecina-Bombarón;Tasa PDIA 7 dias;0;
-Mecina-Bombarón;Total Confirmados ;;
-Mecina-Bombarón;Curados;;
-Mecina-Bombarón;Fallecidos;;
-Mecina-Fondales;Confirmados PDIA;;
-Mecina-Fondales;Confirmados PDIA 14 días;;
-Mecina-Fondales;Tasa PDIA 14 días;0;
-Mecina-Fondales;Confirmados PDIA 7 días;;
-Mecina-Fondales;Tasa PDIA 7 dias;0;
-Mecina-Fondales;Total Confirmados ;;
-Mecina-Fondales;Curados;;
-Mecina-Fondales;Fallecidos;;
-Mecina-Tedel;Confirmados PDIA;;
-Mecina-Tedel;Confirmados PDIA 14 días;;
-Mecina-Tedel;Tasa PDIA 14 días;0;
-Mecina-Tedel;Confirmados PDIA 7 días;;
-Mecina-Tedel;Tasa PDIA 7 dias;0;
-Mecina-Tedel;Total Confirmados ;;
-Mecina-Tedel;Curados;;
-Mecina-Tedel;Fallecidos;;
-Melegís;Confirmados PDIA;;
-Melegís;Confirmados PDIA 14 días;;
-Melegís;Tasa PDIA 14 días;0;
-Melegís;Confirmados PDIA 7 días;;
-Melegís;Tasa PDIA 7 dias;0;
-Melegís;Total Confirmados ;;
-Melegís;Curados;;
-Melegís;Fallecidos;;
 Moclín;Confirmados PDIA;674;
 Moclín;Confirmados PDIA 14 días;0;
 Moclín;Tasa PDIA 14 días;0;
@@ -1519,14 +1191,6 @@ Monachil;Tasa PDIA 7 dias;0;
 Monachil;Total Confirmados ;1526;
 Monachil;Curados;1502;
 Monachil;Fallecidos;8;
-Mondújar;Confirmados PDIA;;
-Mondújar;Confirmados PDIA 14 días;;
-Mondújar;Tasa PDIA 14 días;0;
-Mondújar;Confirmados PDIA 7 días;;
-Mondújar;Tasa PDIA 7 dias;0;
-Mondújar;Total Confirmados ;;
-Mondújar;Curados;;
-Mondújar;Fallecidos;;
 Montefrío;Confirmados PDIA;936;
 Montefrío;Confirmados PDIA 14 días;0;
 Montefrío;Tasa PDIA 14 días;0;
@@ -1559,38 +1223,6 @@ Moraleda de Zafayona;Tasa PDIA 7 dias;0;
 Moraleda de Zafayona;Total Confirmados ;489;
 Moraleda de Zafayona;Curados;473;
 Moraleda de Zafayona;Fallecidos;9;
-Moreda;Confirmados PDIA;;
-Moreda;Confirmados PDIA 14 días;;
-Moreda;Tasa PDIA 14 días;0;
-Moreda;Confirmados PDIA 7 días;;
-Moreda;Tasa PDIA 7 dias;0;
-Moreda;Total Confirmados ;;
-Moreda;Curados;;
-Moreda;Fallecidos;;
-Murchas;Confirmados PDIA;;
-Murchas;Confirmados PDIA 14 días;;
-Murchas;Tasa PDIA 14 días;0;
-Murchas;Confirmados PDIA 7 días;;
-Murchas;Tasa PDIA 7 dias;0;
-Murchas;Total Confirmados ;;
-Murchas;Curados;;
-Murchas;Fallecidos;;
-Narila;Confirmados PDIA;;
-Narila;Confirmados PDIA 14 días;;
-Narila;Tasa PDIA 14 días;0;
-Narila;Confirmados PDIA 7 días;;
-Narila;Tasa PDIA 7 dias;0;
-Narila;Total Confirmados ;;
-Narila;Curados;;
-Narila;Fallecidos;;
-Nechite;Confirmados PDIA;;
-Nechite;Confirmados PDIA 14 días;;
-Nechite;Tasa PDIA 14 días;0;
-Nechite;Confirmados PDIA 7 días;;
-Nechite;Tasa PDIA 7 dias;0;
-Nechite;Total Confirmados ;;
-Nechite;Curados;;
-Nechite;Fallecidos;;
 Nigüelas;Confirmados PDIA;185;
 Nigüelas;Confirmados PDIA 14 días;0;
 Nigüelas;Tasa PDIA 14 días;0;
@@ -1647,22 +1279,6 @@ Pinar (El);Tasa PDIA 7 dias;0;
 Pinar (El);Total Confirmados ;64;
 Pinar (El);Curados;62;
 Pinar (El);Fallecidos;2;
-Picena;Confirmados PDIA;;
-Picena;Confirmados PDIA 14 días;;
-Picena;Tasa PDIA 14 días;0;
-Picena;Confirmados PDIA 7 días;;
-Picena;Tasa PDIA 7 dias;0;
-Picena;Total Confirmados ;;
-Picena;Curados;;
-Picena;Fallecidos;;
-Pinos del Valle;Confirmados PDIA;;
-Pinos del Valle;Confirmados PDIA 14 días;;
-Pinos del Valle;Tasa PDIA 14 días;0;
-Pinos del Valle;Confirmados PDIA 7 días;;
-Pinos del Valle;Tasa PDIA 7 dias;0;
-Pinos del Valle;Total Confirmados ;;
-Pinos del Valle;Curados;;
-Pinos del Valle;Fallecidos;;
 Pinos Genil;Confirmados PDIA;276;
 Pinos Genil;Confirmados PDIA 14 días;0;
 Pinos Genil;Tasa PDIA 14 días;0;
@@ -1687,14 +1303,6 @@ Píñar;Tasa PDIA 7 dias;0;
 Píñar;Total Confirmados ;130;
 Píñar;Curados;125;
 Píñar;Fallecidos;3;
-Pitres;Confirmados PDIA;;
-Pitres;Confirmados PDIA 14 días;;
-Pitres;Tasa PDIA 14 días;0;
-Pitres;Confirmados PDIA 7 días;;
-Pitres;Tasa PDIA 7 dias;0;
-Pitres;Total Confirmados ;;
-Pitres;Curados;;
-Pitres;Fallecidos;;
 Pulianas;Confirmados PDIA;1160;
 Pulianas;Confirmados PDIA 14 días;0;
 Pulianas;Tasa PDIA 14 días;0;
@@ -1703,30 +1311,6 @@ Pulianas;Tasa PDIA 7 dias;0;
 Pulianas;Total Confirmados ;1160;
 Pulianas;Curados;1138;
 Pulianas;Fallecidos;3;
-Pulianillas;Confirmados PDIA;;
-Pulianillas;Confirmados PDIA 14 días;;
-Pulianillas;Tasa PDIA 14 días;0;
-Pulianillas;Confirmados PDIA 7 días;;
-Pulianillas;Tasa PDIA 7 dias;0;
-Pulianillas;Total Confirmados ;;
-Pulianillas;Curados;;
-Pulianillas;Fallecidos;;
-Pulianillas;Confirmados PDIA;;
-Pulianillas;Confirmados PDIA 14 días;;
-Pulianillas;Tasa PDIA 14 días;0;
-Pulianillas;Confirmados PDIA 7 días;;
-Pulianillas;Tasa PDIA 7 dias;0;
-Pulianillas;Total Confirmados ;;
-Pulianillas;Curados;;
-Pulianillas;Fallecidos;;
-Purchil;Confirmados PDIA;;
-Purchil;Confirmados PDIA 14 días;;
-Purchil;Tasa PDIA 14 días;0;
-Purchil;Confirmados PDIA 7 días;;
-Purchil;Tasa PDIA 7 dias;0;
-Purchil;Total Confirmados ;;
-Purchil;Curados;;
-Purchil;Fallecidos;;
 Quéntar;Confirmados PDIA;176;
 Quéntar;Confirmados PDIA 14 días;0;
 Quéntar;Tasa PDIA 14 días;0;
@@ -1743,14 +1327,6 @@ Salar;Tasa PDIA 7 dias;0;
 Salar;Total Confirmados ;473;
 Salar;Curados;466;
 Salar;Fallecidos;2;
-Saleres;Confirmados PDIA;;
-Saleres;Confirmados PDIA 14 días;;
-Saleres;Tasa PDIA 14 días;0;
-Saleres;Confirmados PDIA 7 días;;
-Saleres;Tasa PDIA 7 dias;0;
-Saleres;Total Confirmados ;;
-Saleres;Curados;;
-Saleres;Fallecidos;;
 Santa Cruz del Comercio;Confirmados PDIA;112;
 Santa Cruz del Comercio;Confirmados PDIA 14 días;0;
 Santa Cruz del Comercio;Tasa PDIA 14 días;0;
@@ -1767,14 +1343,6 @@ Santa Fe;Tasa PDIA 7 dias;0;
 Santa Fe;Total Confirmados ;3204;
 Santa Fe;Curados;3078;
 Santa Fe;Fallecidos;66;
-Restábal;Confirmados PDIA;;
-Restábal;Confirmados PDIA 14 días;;
-Restábal;Tasa PDIA 14 días;0;
-Restábal;Confirmados PDIA 7 días;;
-Restábal;Tasa PDIA 7 dias;0;
-Restábal;Total Confirmados ;;
-Restábal;Curados;;
-Restábal;Fallecidos;;
 Torre-Cardela;Confirmados PDIA;69;
 Torre-Cardela;Confirmados PDIA 14 días;0;
 Torre-Cardela;Tasa PDIA 14 días;0;
@@ -1783,14 +1351,6 @@ Torre-Cardela;Tasa PDIA 7 dias;0;
 Torre-Cardela;Total Confirmados ;69;
 Torre-Cardela;Curados;67;
 Torre-Cardela;Fallecidos;1;
-Trujillos;Confirmados PDIA;;
-Trujillos;Confirmados PDIA 14 días;;
-Trujillos;Tasa PDIA 14 días;0;
-Trujillos;Confirmados PDIA 7 días;;
-Trujillos;Tasa PDIA 7 dias;0;
-Trujillos;Total Confirmados ;;
-Trujillos;Curados;;
-Trujillos;Fallecidos;;
 Valderrubio;Confirmados PDIA;424;
 Valderrubio;Confirmados PDIA 14 días;0;
 Valderrubio;Tasa PDIA 14 días;0;
@@ -1823,14 +1383,6 @@ Ventas de Huelma;Tasa PDIA 7 dias;0;
 Ventas de Huelma;Total Confirmados ;134;
 Ventas de Huelma;Curados;131;
 Ventas de Huelma;Fallecidos;1;
-Ventas de Zafarraya;Confirmados PDIA;;
-Ventas de Zafarraya;Confirmados PDIA 14 días;;
-Ventas de Zafarraya;Tasa PDIA 14 días;0;
-Ventas de Zafarraya;Confirmados PDIA 7 días;;
-Ventas de Zafarraya;Tasa PDIA 7 dias;0;
-Ventas de Zafarraya;Total Confirmados ;;
-Ventas de Zafarraya;Curados;;
-Ventas de Zafarraya;Fallecidos;;
 Villamena;Confirmados PDIA;165;
 Villamena;Confirmados PDIA 14 días;0;
 Villamena;Tasa PDIA 14 días;0;
@@ -1879,22 +1431,6 @@ Zubia (La);Tasa PDIA 7 dias;0;
 Zubia (La);Total Confirmados ;3945;
 Zubia (La);Curados;3863;
 Zubia (La);Fallecidos;41;
-Yátor;Confirmados PDIA;;
-Yátor;Confirmados PDIA 14 días;;
-Yátor;Tasa PDIA 14 días;0;
-Yátor;Confirmados PDIA 7 días;;
-Yátor;Tasa PDIA 7 dias;0;
-Yátor;Total Confirmados ;;
-Yátor;Curados;;
-Yátor;Fallecidos;;
-Yegen;Confirmados PDIA;;
-Yegen;Confirmados PDIA 14 días;;
-Yegen;Tasa PDIA 14 días;0;
-Yegen;Confirmados PDIA 7 días;;
-Yegen;Tasa PDIA 7 dias;0;
-Yegen;Total Confirmados ;;
-Yegen;Curados;;
-Yegen;Fallecidos;;
 Municipio de Granada sin especificar;Confirmados PDIA;827;
 Municipio de Granada sin especificar;Confirmados PDIA 14 días;0;
 Municipio de Granada sin especificar;Tasa PDIA 14 días;0;
@@ -1904,760 +1440,6 @@ Municipio de Granada sin especificar;Total Confirmados ;831;
 Municipio de Granada sin especificar;Curados;770;
 Municipio de Granada sin especificar;Fallecidos;19;
 
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
-          
-               
-                    
-               
-               
-               
-               
-               
-               
-               
-               
-               
-          
           
                
                     
