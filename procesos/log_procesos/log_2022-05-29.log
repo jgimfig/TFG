@@ -1,0 +1,623 @@
+2022/05/29 23:13:38 - Kitchen - Start of run.
+2022/05/29 23:13:50 - Job_casos_por_municipios - Start of job execution
+2022/05/29 23:13:50 - Job_casos_por_municipios - Starting entry [HTTP sev]
+2022/05/29 23:13:50 - HTTP sev - Start of HTTP job entry.
+2022/05/29 23:13:50 - HTTP sev - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=e2f14e4d-faa9-4735-bdc2-7133b9bc0124&type=3&foto=si&ejecutaDesde=&codConsulta=38676&consTipoVisua=JP
+2022/05/29 23:13:50 - HTTP sev - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:13:52 GMT.
+2022/05/29 23:13:50 - HTTP sev - Finished writing 58746 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_sev.csv]
+2022/05/29 23:13:50 - Job_casos_por_municipios - Starting entry [Transformation]
+2022/05/29 23:13:50 - Transformation - Using run configuration [Pentaho local]
+2022/05/29 23:13:50 - Transformation - Running transformation using the Kettle execution engine
+2022/05/29 23:13:50 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:13:52 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : An error occurred intialising this step: 
+2022/05/29 23:13:52 - Salida Tabla.0 - Error occurred while trying to connect to the database
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - Connection failed. Verify all connection parameters and confirm that the appropriate driver is installed.
+2022/05/29 23:13:52 - Salida Tabla.0 - Cannot open server 'tfg-upo' requested by the login. Client with IP address '80.30.111.135' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. ClientConnectionId:dd83fc17-4e43-4fb9-b287-23e079c63794
+2022/05/29 23:13:52 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Error inicializando paso [Salida Tabla]
+2022/05/29 23:13:52 - Casos_por_municipios - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : No se ha podido inicializar el paso [Salida Tabla.0]!
+2022/05/29 23:13:52 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unexpected error rolling back the database connection.
+2022/05/29 23:13:52 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:52 - Salida Tabla.0 - Unable to get database metadata from this database connection
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3132)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:912)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:904)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:625)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1258)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:52 - Salida Tabla.0 - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:52 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3126)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	... 11 more
+2022/05/29 23:13:52 - Transformation - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unable to prepare for execution of the transformation
+2022/05/29 23:13:52 - Transformation - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleException: 
+2022/05/29 23:13:52 - Transformation - No se ha podido inicializar al menos un paso.  No se puede empezar la ejecuci?n!
+2022/05/29 23:13:52 - Transformation - 
+2022/05/29 23:13:52 - Transformation - 
+2022/05/29 23:13:52 - Transformation - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1287)
+2022/05/29 23:13:52 - Transformation - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:52 - Transformation - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:52 - Transformation - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:52 - Transformation - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:52 - Transformation - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:52 - Transformation - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:52 - Transformation - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:52 - Job_casos_por_municipios - Finished job entry [Transformation] (result=[false])
+2022/05/29 23:13:52 - Job_casos_por_municipios - Finished job entry [HTTP sev] (result=[false])
+2022/05/29 23:13:52 - Job_casos_por_municipios - Starting entry [HTTP alm]
+2022/05/29 23:13:52 - HTTP alm - Start of HTTP job entry.
+2022/05/29 23:13:52 - HTTP alm - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=4bee2830-7efc-4ca7-9592-32f66bd15298&type=3&foto=si&ejecutaDesde=&codConsulta=38665&consTipoVisua=JP
+2022/05/29 23:13:52 - HTTP alm - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:13:53 GMT.
+2022/05/29 23:13:52 - HTTP alm - Finished writing 49345 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_alm.csv]
+2022/05/29 23:13:52 - Job_casos_por_municipios - Starting entry [Transformation 2]
+2022/05/29 23:13:52 - Transformation 2 - Using run configuration [Pentaho local]
+2022/05/29 23:13:52 - Transformation 2 - Running transformation using the Kettle execution engine
+2022/05/29 23:13:52 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:13:52 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : An error occurred intialising this step: 
+2022/05/29 23:13:52 - Salida Tabla.0 - Error occurred while trying to connect to the database
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - Connection failed. Verify all connection parameters and confirm that the appropriate driver is installed.
+2022/05/29 23:13:52 - Salida Tabla.0 - Cannot open server 'tfg-upo' requested by the login. Client with IP address '80.30.111.135' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. ClientConnectionId:4b963081-850f-4532-9381-81e6ea404e86
+2022/05/29 23:13:52 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Error inicializando paso [Salida Tabla]
+2022/05/29 23:13:52 - Casos_por_municipios - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : No se ha podido inicializar el paso [Salida Tabla.0]!
+2022/05/29 23:13:52 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unexpected error rolling back the database connection.
+2022/05/29 23:13:52 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:52 - Salida Tabla.0 - Unable to get database metadata from this database connection
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3132)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:912)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:904)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:625)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1258)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:52 - Salida Tabla.0 - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:52 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:52 - Salida Tabla.0 - 
+2022/05/29 23:13:52 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3126)
+2022/05/29 23:13:52 - Salida Tabla.0 - 	... 11 more
+2022/05/29 23:13:52 - Transformation 2 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unable to prepare for execution of the transformation
+2022/05/29 23:13:52 - Transformation 2 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleException: 
+2022/05/29 23:13:52 - Transformation 2 - No se ha podido inicializar al menos un paso.  No se puede empezar la ejecuci?n!
+2022/05/29 23:13:52 - Transformation 2 - 
+2022/05/29 23:13:52 - Transformation 2 - 
+2022/05/29 23:13:52 - Transformation 2 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1287)
+2022/05/29 23:13:52 - Transformation 2 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:52 - Transformation 2 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:52 - Transformation 2 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:52 - Transformation 2 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:52 - Transformation 2 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:52 - Transformation 2 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:52 - Transformation 2 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:52 - Job_casos_por_municipios - Finished job entry [Transformation 2] (result=[false])
+2022/05/29 23:13:52 - Job_casos_por_municipios - Finished job entry [HTTP alm] (result=[false])
+2022/05/29 23:13:52 - Job_casos_por_municipios - Starting entry [HTTP cad]
+2022/05/29 23:13:52 - HTTP cad - Start of HTTP job entry.
+2022/05/29 23:13:52 - HTTP cad - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=5e119dc4-cff6-4f22-b4d3-1ef2e6fe4324&type=3&foto=si&ejecutaDesde=&codConsulta=38637&consTipoVisua=JP
+2022/05/29 23:13:53 - HTTP cad - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:13:53 GMT.
+2022/05/29 23:13:53 - HTTP cad - Finished writing 26523 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_cad.csv]
+2022/05/29 23:13:53 - Job_casos_por_municipios - Starting entry [Transformation 3]
+2022/05/29 23:13:53 - Transformation 3 - Using run configuration [Pentaho local]
+2022/05/29 23:13:53 - Transformation 3 - Running transformation using the Kettle execution engine
+2022/05/29 23:13:53 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:13:53 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : An error occurred intialising this step: 
+2022/05/29 23:13:53 - Salida Tabla.0 - Error occurred while trying to connect to the database
+2022/05/29 23:13:53 - Salida Tabla.0 - 
+2022/05/29 23:13:53 - Salida Tabla.0 - Connection failed. Verify all connection parameters and confirm that the appropriate driver is installed.
+2022/05/29 23:13:53 - Salida Tabla.0 - Cannot open server 'tfg-upo' requested by the login. Client with IP address '80.30.111.135' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. ClientConnectionId:ed0937d9-44ea-4c6e-a55f-cfcc3fc4aee4
+2022/05/29 23:13:53 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Error inicializando paso [Salida Tabla]
+2022/05/29 23:13:53 - Casos_por_municipios - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : No se ha podido inicializar el paso [Salida Tabla.0]!
+2022/05/29 23:13:53 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unexpected error rolling back the database connection.
+2022/05/29 23:13:53 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:53 - Salida Tabla.0 - Unable to get database metadata from this database connection
+2022/05/29 23:13:53 - Salida Tabla.0 - 
+2022/05/29 23:13:53 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:53 - Salida Tabla.0 - 
+2022/05/29 23:13:53 - Salida Tabla.0 - 
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3132)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:912)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:904)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:625)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1258)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:53 - Salida Tabla.0 - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:53 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:53 - Salida Tabla.0 - 
+2022/05/29 23:13:53 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3126)
+2022/05/29 23:13:53 - Salida Tabla.0 - 	... 11 more
+2022/05/29 23:13:53 - Transformation 3 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unable to prepare for execution of the transformation
+2022/05/29 23:13:53 - Transformation 3 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleException: 
+2022/05/29 23:13:53 - Transformation 3 - No se ha podido inicializar al menos un paso.  No se puede empezar la ejecuci?n!
+2022/05/29 23:13:53 - Transformation 3 - 
+2022/05/29 23:13:53 - Transformation 3 - 
+2022/05/29 23:13:53 - Transformation 3 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1287)
+2022/05/29 23:13:53 - Transformation 3 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:53 - Transformation 3 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:53 - Transformation 3 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:53 - Transformation 3 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:53 - Transformation 3 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:53 - Transformation 3 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:53 - Transformation 3 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:53 - Job_casos_por_municipios - Finished job entry [Transformation 3] (result=[false])
+2022/05/29 23:13:53 - Job_casos_por_municipios - Finished job entry [HTTP cad] (result=[false])
+2022/05/29 23:13:53 - Job_casos_por_municipios - Starting entry [HTTP cor]
+2022/05/29 23:13:53 - HTTP cor - Start of HTTP job entry.
+2022/05/29 23:13:53 - HTTP cor - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=2c8742cc-9d60-4a85-908e-be8acb55464e&type=3&foto=si&ejecutaDesde=&codConsulta=38666&consTipoVisua=JP
+2022/05/29 23:13:53 - HTTP cor - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:13:54 GMT.
+2022/05/29 23:13:53 - HTTP cor - Finished writing 40736 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_cor.csv]
+2022/05/29 23:13:53 - Job_casos_por_municipios - Starting entry [Transformation 4]
+2022/05/29 23:13:53 - Transformation 4 - Using run configuration [Pentaho local]
+2022/05/29 23:13:53 - Transformation 4 - Running transformation using the Kettle execution engine
+2022/05/29 23:13:53 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:13:54 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : An error occurred intialising this step: 
+2022/05/29 23:13:54 - Salida Tabla.0 - Error occurred while trying to connect to the database
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - Connection failed. Verify all connection parameters and confirm that the appropriate driver is installed.
+2022/05/29 23:13:54 - Salida Tabla.0 - Cannot open server 'tfg-upo' requested by the login. Client with IP address '80.30.111.135' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. ClientConnectionId:665eeaed-24ca-43a0-b39e-205afa7dbccf
+2022/05/29 23:13:54 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Error inicializando paso [Salida Tabla]
+2022/05/29 23:13:54 - Casos_por_municipios - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : No se ha podido inicializar el paso [Salida Tabla.0]!
+2022/05/29 23:13:54 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unexpected error rolling back the database connection.
+2022/05/29 23:13:54 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:54 - Salida Tabla.0 - Unable to get database metadata from this database connection
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3132)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:912)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:904)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:625)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1258)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:54 - Salida Tabla.0 - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:54 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3126)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	... 11 more
+2022/05/29 23:13:54 - Transformation 4 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unable to prepare for execution of the transformation
+2022/05/29 23:13:54 - Transformation 4 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleException: 
+2022/05/29 23:13:54 - Transformation 4 - No se ha podido inicializar al menos un paso.  No se puede empezar la ejecuci?n!
+2022/05/29 23:13:54 - Transformation 4 - 
+2022/05/29 23:13:54 - Transformation 4 - 
+2022/05/29 23:13:54 - Transformation 4 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1287)
+2022/05/29 23:13:54 - Transformation 4 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:54 - Transformation 4 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:54 - Transformation 4 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:54 - Transformation 4 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:54 - Transformation 4 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:54 - Transformation 4 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:54 - Transformation 4 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:54 - Job_casos_por_municipios - Finished job entry [Transformation 4] (result=[false])
+2022/05/29 23:13:54 - Job_casos_por_municipios - Finished job entry [HTTP cor] (result=[false])
+2022/05/29 23:13:54 - Job_casos_por_municipios - Starting entry [HTTP gra]
+2022/05/29 23:13:54 - HTTP gra - Start of HTTP job entry.
+2022/05/29 23:13:54 - HTTP gra - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=bad97422-dd1a-4da8-b030-8b61a8355fcc&type=3&foto=si&ejecutaDesde=&codConsulta=38667&consTipoVisua=JP
+2022/05/29 23:13:54 - HTTP gra - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:13:54 GMT.
+2022/05/29 23:13:54 - HTTP gra - Finished writing 83774 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_gra.csv]
+2022/05/29 23:13:54 - Job_casos_por_municipios - Starting entry [Transformation 5]
+2022/05/29 23:13:54 - Transformation 5 - Using run configuration [Pentaho local]
+2022/05/29 23:13:54 - Transformation 5 - Running transformation using the Kettle execution engine
+2022/05/29 23:13:54 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:13:54 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : An error occurred intialising this step: 
+2022/05/29 23:13:54 - Salida Tabla.0 - Error occurred while trying to connect to the database
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - Connection failed. Verify all connection parameters and confirm that the appropriate driver is installed.
+2022/05/29 23:13:54 - Salida Tabla.0 - Cannot open server 'tfg-upo' requested by the login. Client with IP address '80.30.111.135' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. ClientConnectionId:1dda22cc-bb0f-4f7d-92e9-40dd2ac8f344
+2022/05/29 23:13:54 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Error inicializando paso [Salida Tabla]
+2022/05/29 23:13:54 - Casos_por_municipios - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : No se ha podido inicializar el paso [Salida Tabla.0]!
+2022/05/29 23:13:54 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unexpected error rolling back the database connection.
+2022/05/29 23:13:54 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:54 - Salida Tabla.0 - Unable to get database metadata from this database connection
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3132)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:912)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:904)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:625)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1258)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:54 - Salida Tabla.0 - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:54 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:54 - Salida Tabla.0 - 
+2022/05/29 23:13:54 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3126)
+2022/05/29 23:13:54 - Salida Tabla.0 - 	... 11 more
+2022/05/29 23:13:54 - Transformation 5 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unable to prepare for execution of the transformation
+2022/05/29 23:13:54 - Transformation 5 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleException: 
+2022/05/29 23:13:54 - Transformation 5 - No se ha podido inicializar al menos un paso.  No se puede empezar la ejecuci?n!
+2022/05/29 23:13:54 - Transformation 5 - 
+2022/05/29 23:13:54 - Transformation 5 - 
+2022/05/29 23:13:54 - Transformation 5 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1287)
+2022/05/29 23:13:54 - Transformation 5 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:54 - Transformation 5 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:54 - Transformation 5 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:54 - Transformation 5 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:54 - Transformation 5 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:54 - Transformation 5 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:54 - Transformation 5 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:54 - Job_casos_por_municipios - Finished job entry [Transformation 5] (result=[false])
+2022/05/29 23:13:54 - Job_casos_por_municipios - Finished job entry [HTTP gra] (result=[false])
+2022/05/29 23:13:54 - Job_casos_por_municipios - Starting entry [HTTP hue]
+2022/05/29 23:13:54 - HTTP hue - Start of HTTP job entry.
+2022/05/29 23:13:54 - HTTP hue - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=104cbea6-efb2-459f-b5d4-5c7d4758afb3&type=3&foto=si&ejecutaDesde=&codConsulta=38668&consTipoVisua=JP
+2022/05/29 23:13:55 - HTTP hue - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:13:56 GMT.
+2022/05/29 23:13:55 - HTTP hue - Finished writing 39468 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_hue.csv]
+2022/05/29 23:13:55 - Job_casos_por_municipios - Starting entry [Transformation 6]
+2022/05/29 23:13:55 - Transformation 6 - Using run configuration [Pentaho local]
+2022/05/29 23:13:55 - Transformation 6 - Running transformation using the Kettle execution engine
+2022/05/29 23:13:55 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:13:55 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : An error occurred intialising this step: 
+2022/05/29 23:13:55 - Salida Tabla.0 - Error occurred while trying to connect to the database
+2022/05/29 23:13:55 - Salida Tabla.0 - 
+2022/05/29 23:13:55 - Salida Tabla.0 - Connection failed. Verify all connection parameters and confirm that the appropriate driver is installed.
+2022/05/29 23:13:55 - Salida Tabla.0 - Cannot open server 'tfg-upo' requested by the login. Client with IP address '80.30.111.135' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. ClientConnectionId:4701df3f-b7f3-4598-95af-f2e9e74ce22a
+2022/05/29 23:13:55 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Error inicializando paso [Salida Tabla]
+2022/05/29 23:13:55 - Casos_por_municipios - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : No se ha podido inicializar el paso [Salida Tabla.0]!
+2022/05/29 23:13:55 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unexpected error rolling back the database connection.
+2022/05/29 23:13:55 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:55 - Salida Tabla.0 - Unable to get database metadata from this database connection
+2022/05/29 23:13:55 - Salida Tabla.0 - 
+2022/05/29 23:13:55 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:55 - Salida Tabla.0 - 
+2022/05/29 23:13:55 - Salida Tabla.0 - 
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3132)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:912)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:904)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:625)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1258)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:55 - Salida Tabla.0 - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:55 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:55 - Salida Tabla.0 - 
+2022/05/29 23:13:55 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3126)
+2022/05/29 23:13:55 - Salida Tabla.0 - 	... 11 more
+2022/05/29 23:13:55 - Transformation 6 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unable to prepare for execution of the transformation
+2022/05/29 23:13:55 - Transformation 6 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleException: 
+2022/05/29 23:13:55 - Transformation 6 - No se ha podido inicializar al menos un paso.  No se puede empezar la ejecuci?n!
+2022/05/29 23:13:55 - Transformation 6 - 
+2022/05/29 23:13:55 - Transformation 6 - 
+2022/05/29 23:13:55 - Transformation 6 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1287)
+2022/05/29 23:13:55 - Transformation 6 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:55 - Transformation 6 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:55 - Transformation 6 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:55 - Transformation 6 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:55 - Transformation 6 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:55 - Transformation 6 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:55 - Transformation 6 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:55 - Job_casos_por_municipios - Finished job entry [Transformation 6] (result=[false])
+2022/05/29 23:13:55 - Job_casos_por_municipios - Finished job entry [HTTP hue] (result=[false])
+2022/05/29 23:13:55 - Job_casos_por_municipios - Starting entry [HTTP jae]
+2022/05/29 23:13:55 - HTTP jae - Start of HTTP job entry.
+2022/05/29 23:13:55 - HTTP jae - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=bdb74d81-b03a-4de7-9185-2c96ccbd6126&type=3&foto=si&ejecutaDesde=&codConsulta=38669&consTipoVisua=JP
+2022/05/29 23:13:55 - HTTP jae - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:13:56 GMT.
+2022/05/29 23:13:55 - HTTP jae - Finished writing 49401 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_jae.csv]
+2022/05/29 23:13:55 - Job_casos_por_municipios - Starting entry [Transformation 7]
+2022/05/29 23:13:55 - Transformation 7 - Using run configuration [Pentaho local]
+2022/05/29 23:13:55 - Transformation 7 - Running transformation using the Kettle execution engine
+2022/05/29 23:13:55 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:13:56 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : An error occurred intialising this step: 
+2022/05/29 23:13:56 - Salida Tabla.0 - Error occurred while trying to connect to the database
+2022/05/29 23:13:56 - Salida Tabla.0 - 
+2022/05/29 23:13:56 - Salida Tabla.0 - Connection failed. Verify all connection parameters and confirm that the appropriate driver is installed.
+2022/05/29 23:13:56 - Salida Tabla.0 - Cannot open server 'tfg-upo' requested by the login. Client with IP address '80.30.111.135' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. ClientConnectionId:602643b0-c3fd-47d8-91af-f8cd96a63211
+2022/05/29 23:13:56 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Error inicializando paso [Salida Tabla]
+2022/05/29 23:13:56 - Casos_por_municipios - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : No se ha podido inicializar el paso [Salida Tabla.0]!
+2022/05/29 23:13:56 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unexpected error rolling back the database connection.
+2022/05/29 23:13:56 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:56 - Salida Tabla.0 - Unable to get database metadata from this database connection
+2022/05/29 23:13:56 - Salida Tabla.0 - 
+2022/05/29 23:13:56 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:56 - Salida Tabla.0 - 
+2022/05/29 23:13:56 - Salida Tabla.0 - 
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3132)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:912)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:904)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:625)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1258)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:56 - Salida Tabla.0 - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:56 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:56 - Salida Tabla.0 - 
+2022/05/29 23:13:56 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3126)
+2022/05/29 23:13:56 - Salida Tabla.0 - 	... 11 more
+2022/05/29 23:13:56 - Transformation 7 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unable to prepare for execution of the transformation
+2022/05/29 23:13:56 - Transformation 7 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleException: 
+2022/05/29 23:13:56 - Transformation 7 - No se ha podido inicializar al menos un paso.  No se puede empezar la ejecuci?n!
+2022/05/29 23:13:56 - Transformation 7 - 
+2022/05/29 23:13:56 - Transformation 7 - 
+2022/05/29 23:13:56 - Transformation 7 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1287)
+2022/05/29 23:13:56 - Transformation 7 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:56 - Transformation 7 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:56 - Transformation 7 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:56 - Transformation 7 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:56 - Transformation 7 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:56 - Transformation 7 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:56 - Transformation 7 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:56 - Job_casos_por_municipios - Finished job entry [Transformation 7] (result=[false])
+2022/05/29 23:13:56 - Job_casos_por_municipios - Finished job entry [HTTP jae] (result=[false])
+2022/05/29 23:13:56 - Job_casos_por_municipios - Starting entry [HTTP mal]
+2022/05/29 23:13:56 - HTTP mal - Start of HTTP job entry.
+2022/05/29 23:13:56 - HTTP mal - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=14bab3d0-916e-4253-8d56-343c325bf719&type=3&foto=si&ejecutaDesde=&codConsulta=38674&consTipoVisua=JP
+2022/05/29 23:13:56 - HTTP mal - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:13:58 GMT.
+2022/05/29 23:13:56 - HTTP mal - Finished writing 52145 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_mal.csv]
+2022/05/29 23:13:56 - Job_casos_por_municipios - Starting entry [Transformation 8]
+2022/05/29 23:13:56 - Transformation 8 - Using run configuration [Pentaho local]
+2022/05/29 23:13:56 - Transformation 8 - Running transformation using the Kettle execution engine
+2022/05/29 23:13:56 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:13:57 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : An error occurred intialising this step: 
+2022/05/29 23:13:57 - Salida Tabla.0 - Error occurred while trying to connect to the database
+2022/05/29 23:13:57 - Salida Tabla.0 - 
+2022/05/29 23:13:57 - Salida Tabla.0 - Connection failed. Verify all connection parameters and confirm that the appropriate driver is installed.
+2022/05/29 23:13:57 - Salida Tabla.0 - Cannot open server 'tfg-upo' requested by the login. Client with IP address '80.30.111.135' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect. ClientConnectionId:db904ab0-63c9-49e1-aace-09b4da1f745e
+2022/05/29 23:13:57 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Error inicializando paso [Salida Tabla]
+2022/05/29 23:13:57 - Casos_por_municipios - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : No se ha podido inicializar el paso [Salida Tabla.0]!
+2022/05/29 23:13:57 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unexpected error rolling back the database connection.
+2022/05/29 23:13:57 - Salida Tabla.0 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:57 - Salida Tabla.0 - Unable to get database metadata from this database connection
+2022/05/29 23:13:57 - Salida Tabla.0 - 
+2022/05/29 23:13:57 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:57 - Salida Tabla.0 - 
+2022/05/29 23:13:57 - Salida Tabla.0 - 
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3132)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:912)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.rollback(Database.java:904)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:625)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1258)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:57 - Salida Tabla.0 - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2022/05/29 23:13:57 - Salida Tabla.0 - Error connecting to database [Covid]
+2022/05/29 23:13:57 - Salida Tabla.0 - 
+2022/05/29 23:13:57 - Salida Tabla.0 - 	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3126)
+2022/05/29 23:13:57 - Salida Tabla.0 - 	... 11 more
+2022/05/29 23:13:57 - Transformation 8 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Unable to prepare for execution of the transformation
+2022/05/29 23:13:57 - Transformation 8 - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : org.pentaho.di.core.exception.KettleException: 
+2022/05/29 23:13:57 - Transformation 8 - No se ha podido inicializar al menos un paso.  No se puede empezar la ejecuci?n!
+2022/05/29 23:13:57 - Transformation 8 - 
+2022/05/29 23:13:57 - Transformation 8 - 
+2022/05/29 23:13:57 - Transformation 8 - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1287)
+2022/05/29 23:13:57 - Transformation 8 - 	at org.pentaho.di.trans.Trans.execute(Trans.java:756)
+2022/05/29 23:13:57 - Transformation 8 - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1191)
+2022/05/29 23:13:57 - Transformation 8 - 	at org.pentaho.di.job.Job.execute(Job.java:693)
+2022/05/29 23:13:57 - Transformation 8 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:57 - Transformation 8 - 	at org.pentaho.di.job.Job.execute(Job.java:834)
+2022/05/29 23:13:57 - Transformation 8 - 	at org.pentaho.di.job.Job.execute(Job.java:503)
+2022/05/29 23:13:57 - Transformation 8 - 	at org.pentaho.di.job.Job.run(Job.java:389)
+2022/05/29 23:13:57 - Job_casos_por_municipios - Finished job entry [Transformation 8] (result=[false])
+2022/05/29 23:13:57 - Job_casos_por_municipios - Finished job entry [HTTP mal] (result=[false])
+2022/05/29 23:13:57 - Job_casos_por_municipios - Job execution finished
+2022/05/29 23:13:57 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2022/05/29 23:13:57 - Kitchen - Finished!
+2022/05/29 23:13:57 - Kitchen - ERROR (version 9.2.0.0-290, build 9.2.0.0-290 from 2021-06-02 06.36.08 by buildguy) : Finished with errors
+2022/05/29 23:13:57 - Kitchen - Start=2022/05/29 23:13:50.205, Stop=2022/05/29 23:13:57.131
+2022/05/29 23:13:57 - Kitchen - Processing ended after 6 seconds.
+2022/05/29 23:15:19 - Kitchen - Start of run.
+2022/05/29 23:15:25 - Job_casos_por_municipios - Start of job execution
+2022/05/29 23:15:25 - Job_casos_por_municipios - Starting entry [HTTP sev]
+2022/05/29 23:15:25 - HTTP sev - Start of HTTP job entry.
+2022/05/29 23:15:25 - HTTP sev - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=e2f14e4d-faa9-4735-bdc2-7133b9bc0124&type=3&foto=si&ejecutaDesde=&codConsulta=38676&consTipoVisua=JP
+2022/05/29 23:15:26 - HTTP sev - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:15:27 GMT.
+2022/05/29 23:15:26 - HTTP sev - Finished writing 58746 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_sev.csv]
+2022/05/29 23:15:26 - Job_casos_por_municipios - Starting entry [Transformation]
+2022/05/29 23:15:26 - Transformation - Using run configuration [Pentaho local]
+2022/05/29 23:15:26 - Transformation - Running transformation using the Kettle execution engine
+2022/05/29 23:15:26 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:15:27 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/05/29 23:15:27 - Información de sistema.0 - Procesamiento finalizado (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/05/29 23:15:27 - CSV file input.0 - Header row skipped in file 'file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_sev.csv'
+2022/05/29 23:15:27 - CSV file input.0 - Procesamiento finalizado (I=2480, O=0, R=0, W=2479, U=0, E=0)
+2022/05/29 23:15:28 - Juntar filas (producto cartesiano).0 - Procesamiento finalizado (I=0, O=0, R=2480, W=2479, U=0, E=0)
+2022/05/29 23:15:28 - Mapeo de valores.0 - Procesamiento finalizado (I=0, O=0, R=2479, W=2479, U=0, E=0)
+2022/05/29 23:15:28 - Selecciona/Renombra valores.0 - Procesamiento finalizado (I=0, O=0, R=2479, W=2479, U=0, E=0)
+2022/05/29 23:15:28 - Salida Tabla.0 - Procesamiento finalizado (I=0, O=2479, R=2479, W=2479, U=0, E=0)
+2022/05/29 23:15:28 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2022/05/29 23:15:28 - Job_casos_por_municipios - Starting entry [Success]
+2022/05/29 23:15:28 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/05/29 23:15:28 - Job_casos_por_municipios - Finished job entry [Transformation] (result=[true])
+2022/05/29 23:15:28 - Job_casos_por_municipios - Finished job entry [HTTP sev] (result=[true])
+2022/05/29 23:15:28 - Job_casos_por_municipios - Starting entry [HTTP alm]
+2022/05/29 23:15:28 - HTTP alm - Start of HTTP job entry.
+2022/05/29 23:15:28 - HTTP alm - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=4bee2830-7efc-4ca7-9592-32f66bd15298&type=3&foto=si&ejecutaDesde=&codConsulta=38665&consTipoVisua=JP
+2022/05/29 23:15:29 - HTTP alm - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:15:30 GMT.
+2022/05/29 23:15:29 - HTTP alm - Finished writing 49345 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_alm.csv]
+2022/05/29 23:15:29 - Job_casos_por_municipios - Starting entry [Transformation 2]
+2022/05/29 23:15:29 - Transformation 2 - Using run configuration [Pentaho local]
+2022/05/29 23:15:29 - Transformation 2 - Running transformation using the Kettle execution engine
+2022/05/29 23:15:29 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:15:30 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/05/29 23:15:30 - Información de sistema.0 - Procesamiento finalizado (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/05/29 23:15:30 - CSV file input.0 - Header row skipped in file 'file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_alm.csv'
+2022/05/29 23:15:30 - CSV file input.0 - Procesamiento finalizado (I=2249, O=0, R=0, W=2248, U=0, E=0)
+2022/05/29 23:15:30 - Juntar filas (producto cartesiano).0 - Procesamiento finalizado (I=0, O=0, R=2249, W=2248, U=0, E=0)
+2022/05/29 23:15:30 - Mapeo de valores.0 - Procesamiento finalizado (I=0, O=0, R=2248, W=2248, U=0, E=0)
+2022/05/29 23:15:30 - Selecciona/Renombra valores.0 - Procesamiento finalizado (I=0, O=0, R=2248, W=2248, U=0, E=0)
+2022/05/29 23:15:31 - Salida Tabla.0 - Procesamiento finalizado (I=0, O=2248, R=2248, W=2248, U=0, E=0)
+2022/05/29 23:15:31 - Job_casos_por_municipios - Starting entry [Success]
+2022/05/29 23:15:31 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/05/29 23:15:31 - Job_casos_por_municipios - Finished job entry [Transformation 2] (result=[true])
+2022/05/29 23:15:31 - Job_casos_por_municipios - Finished job entry [HTTP alm] (result=[true])
+2022/05/29 23:15:31 - Job_casos_por_municipios - Starting entry [HTTP cad]
+2022/05/29 23:15:31 - HTTP cad - Start of HTTP job entry.
+2022/05/29 23:15:31 - HTTP cad - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=5e119dc4-cff6-4f22-b4d3-1ef2e6fe4324&type=3&foto=si&ejecutaDesde=&codConsulta=38637&consTipoVisua=JP
+2022/05/29 23:15:31 - HTTP cad - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:15:32 GMT.
+2022/05/29 23:15:31 - HTTP cad - Finished writing 26523 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_cad.csv]
+2022/05/29 23:15:31 - Job_casos_por_municipios - Starting entry [Transformation 3]
+2022/05/29 23:15:31 - Transformation 3 - Using run configuration [Pentaho local]
+2022/05/29 23:15:31 - Transformation 3 - Running transformation using the Kettle execution engine
+2022/05/29 23:15:31 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:15:31 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/05/29 23:15:31 - Información de sistema.0 - Procesamiento finalizado (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/05/29 23:15:31 - CSV file input.0 - Header row skipped in file 'file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_cad.csv'
+2022/05/29 23:15:31 - CSV file input.0 - Procesamiento finalizado (I=1094, O=0, R=0, W=1093, U=0, E=0)
+2022/05/29 23:15:32 - Juntar filas (producto cartesiano).0 - Procesamiento finalizado (I=0, O=0, R=1094, W=1093, U=0, E=0)
+2022/05/29 23:15:32 - Mapeo de valores.0 - Procesamiento finalizado (I=0, O=0, R=1093, W=1093, U=0, E=0)
+2022/05/29 23:15:32 - Selecciona/Renombra valores.0 - Procesamiento finalizado (I=0, O=0, R=1093, W=1093, U=0, E=0)
+2022/05/29 23:15:32 - Salida Tabla.0 - Procesamiento finalizado (I=0, O=1093, R=1093, W=1093, U=0, E=0)
+2022/05/29 23:15:32 - Job_casos_por_municipios - Starting entry [Success]
+2022/05/29 23:15:32 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/05/29 23:15:32 - Job_casos_por_municipios - Finished job entry [Transformation 3] (result=[true])
+2022/05/29 23:15:32 - Job_casos_por_municipios - Finished job entry [HTTP cad] (result=[true])
+2022/05/29 23:15:32 - Job_casos_por_municipios - Starting entry [HTTP cor]
+2022/05/29 23:15:32 - HTTP cor - Start of HTTP job entry.
+2022/05/29 23:15:32 - HTTP cor - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=2c8742cc-9d60-4a85-908e-be8acb55464e&type=3&foto=si&ejecutaDesde=&codConsulta=38666&consTipoVisua=JP
+2022/05/29 23:15:33 - HTTP cor - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:15:33 GMT.
+2022/05/29 23:15:33 - HTTP cor - Finished writing 40736 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_cor.csv]
+2022/05/29 23:15:33 - Job_casos_por_municipios - Starting entry [Transformation 4]
+2022/05/29 23:15:33 - Transformation 4 - Using run configuration [Pentaho local]
+2022/05/29 23:15:33 - Transformation 4 - Running transformation using the Kettle execution engine
+2022/05/29 23:15:33 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:15:33 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/05/29 23:15:33 - Información de sistema.0 - Procesamiento finalizado (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/05/29 23:15:33 - CSV file input.0 - Header row skipped in file 'file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_cor.csv'
+2022/05/29 23:15:33 - CSV file input.0 - Procesamiento finalizado (I=1766, O=0, R=0, W=1765, U=0, E=0)
+2022/05/29 23:15:34 - Juntar filas (producto cartesiano).0 - Procesamiento finalizado (I=0, O=0, R=1766, W=1765, U=0, E=0)
+2022/05/29 23:15:34 - Mapeo de valores.0 - Procesamiento finalizado (I=0, O=0, R=1765, W=1765, U=0, E=0)
+2022/05/29 23:15:34 - Selecciona/Renombra valores.0 - Procesamiento finalizado (I=0, O=0, R=1765, W=1765, U=0, E=0)
+2022/05/29 23:15:34 - Salida Tabla.0 - Procesamiento finalizado (I=0, O=1765, R=1765, W=1765, U=0, E=0)
+2022/05/29 23:15:34 - Job_casos_por_municipios - Starting entry [Success]
+2022/05/29 23:15:34 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/05/29 23:15:34 - Job_casos_por_municipios - Finished job entry [Transformation 4] (result=[true])
+2022/05/29 23:15:34 - Job_casos_por_municipios - Finished job entry [HTTP cor] (result=[true])
+2022/05/29 23:15:34 - Job_casos_por_municipios - Starting entry [HTTP gra]
+2022/05/29 23:15:34 - HTTP gra - Start of HTTP job entry.
+2022/05/29 23:15:34 - HTTP gra - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=bad97422-dd1a-4da8-b030-8b61a8355fcc&type=3&foto=si&ejecutaDesde=&codConsulta=38667&consTipoVisua=JP
+2022/05/29 23:15:34 - HTTP gra - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:15:35 GMT.
+2022/05/29 23:15:34 - HTTP gra - Finished writing 83774 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_gra.csv]
+2022/05/29 23:15:34 - Job_casos_por_municipios - Starting entry [Transformation 5]
+2022/05/29 23:15:35 - Transformation 5 - Using run configuration [Pentaho local]
+2022/05/29 23:15:35 - Transformation 5 - Running transformation using the Kettle execution engine
+2022/05/29 23:15:35 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:15:35 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/05/29 23:15:35 - Información de sistema.0 - Procesamiento finalizado (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/05/29 23:15:35 - CSV file input.0 - Header row skipped in file 'file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_gra.csv'
+2022/05/29 23:15:35 - CSV file input.0 - Procesamiento finalizado (I=3782, O=0, R=0, W=3781, U=0, E=0)
+2022/05/29 23:15:35 - Mapeo de valores.0 - Procesamiento finalizado (I=0, O=0, R=3781, W=3781, U=0, E=0)
+2022/05/29 23:15:35 - Juntar filas (producto cartesiano).0 - Procesamiento finalizado (I=0, O=0, R=3782, W=3781, U=0, E=0)
+2022/05/29 23:15:35 - Selecciona/Renombra valores.0 - Procesamiento finalizado (I=0, O=0, R=3781, W=3781, U=0, E=0)
+2022/05/29 23:15:36 - Salida Tabla.0 - Procesamiento finalizado (I=0, O=3781, R=3781, W=3781, U=0, E=0)
+2022/05/29 23:15:36 - Job_casos_por_municipios - Starting entry [Success]
+2022/05/29 23:15:36 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/05/29 23:15:36 - Job_casos_por_municipios - Finished job entry [Transformation 5] (result=[true])
+2022/05/29 23:15:36 - Job_casos_por_municipios - Finished job entry [HTTP gra] (result=[true])
+2022/05/29 23:15:36 - Job_casos_por_municipios - Starting entry [HTTP hue]
+2022/05/29 23:15:36 - HTTP hue - Start of HTTP job entry.
+2022/05/29 23:15:36 - HTTP hue - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=104cbea6-efb2-459f-b5d4-5c7d4758afb3&type=3&foto=si&ejecutaDesde=&codConsulta=38668&consTipoVisua=JP
+2022/05/29 23:15:36 - HTTP hue - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:15:38 GMT.
+2022/05/29 23:15:36 - HTTP hue - Finished writing 39468 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_hue.csv]
+2022/05/29 23:15:36 - Job_casos_por_municipios - Starting entry [Transformation 6]
+2022/05/29 23:15:36 - Transformation 6 - Using run configuration [Pentaho local]
+2022/05/29 23:15:36 - Transformation 6 - Running transformation using the Kettle execution engine
+2022/05/29 23:15:36 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:15:37 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/05/29 23:15:37 - Información de sistema.0 - Procesamiento finalizado (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/05/29 23:15:37 - CSV file input.0 - Header row skipped in file 'file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_hue.csv'
+2022/05/29 23:15:37 - CSV file input.0 - Procesamiento finalizado (I=1661, O=0, R=0, W=1660, U=0, E=0)
+2022/05/29 23:15:37 - Juntar filas (producto cartesiano).0 - Procesamiento finalizado (I=0, O=0, R=1661, W=1660, U=0, E=0)
+2022/05/29 23:15:37 - Mapeo de valores.0 - Procesamiento finalizado (I=0, O=0, R=1660, W=1660, U=0, E=0)
+2022/05/29 23:15:37 - Selecciona/Renombra valores.0 - Procesamiento finalizado (I=0, O=0, R=1660, W=1660, U=0, E=0)
+2022/05/29 23:15:38 - Salida Tabla.0 - Procesamiento finalizado (I=0, O=1660, R=1660, W=1660, U=0, E=0)
+2022/05/29 23:15:38 - Job_casos_por_municipios - Starting entry [Success]
+2022/05/29 23:15:38 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/05/29 23:15:38 - Job_casos_por_municipios - Finished job entry [Transformation 6] (result=[true])
+2022/05/29 23:15:38 - Job_casos_por_municipios - Finished job entry [HTTP hue] (result=[true])
+2022/05/29 23:15:38 - Job_casos_por_municipios - Starting entry [HTTP jae]
+2022/05/29 23:15:38 - HTTP jae - Start of HTTP job entry.
+2022/05/29 23:15:38 - HTTP jae - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=bdb74d81-b03a-4de7-9185-2c96ccbd6126&type=3&foto=si&ejecutaDesde=&codConsulta=38669&consTipoVisua=JP
+2022/05/29 23:15:38 - HTTP jae - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:15:39 GMT.
+2022/05/29 23:15:38 - HTTP jae - Finished writing 49401 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_jae.csv]
+2022/05/29 23:15:38 - Job_casos_por_municipios - Starting entry [Transformation 7]
+2022/05/29 23:15:38 - Transformation 7 - Using run configuration [Pentaho local]
+2022/05/29 23:15:38 - Transformation 7 - Running transformation using the Kettle execution engine
+2022/05/29 23:15:38 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:15:38 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/05/29 23:15:39 - Información de sistema.0 - Procesamiento finalizado (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/05/29 23:15:39 - CSV file input.0 - Header row skipped in file 'file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_jae.csv'
+2022/05/29 23:15:39 - CSV file input.0 - Procesamiento finalizado (I=2165, O=0, R=0, W=2164, U=0, E=0)
+2022/05/29 23:15:39 - Juntar filas (producto cartesiano).0 - Procesamiento finalizado (I=0, O=0, R=2165, W=2164, U=0, E=0)
+2022/05/29 23:15:39 - Mapeo de valores.0 - Procesamiento finalizado (I=0, O=0, R=2164, W=2164, U=0, E=0)
+2022/05/29 23:15:39 - Selecciona/Renombra valores.0 - Procesamiento finalizado (I=0, O=0, R=2164, W=2164, U=0, E=0)
+2022/05/29 23:15:40 - Salida Tabla.0 - Procesamiento finalizado (I=0, O=2164, R=2164, W=2164, U=0, E=0)
+2022/05/29 23:15:40 - Job_casos_por_municipios - Starting entry [Success]
+2022/05/29 23:15:40 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/05/29 23:15:40 - Job_casos_por_municipios - Finished job entry [Transformation 7] (result=[true])
+2022/05/29 23:15:40 - Job_casos_por_municipios - Finished job entry [HTTP jae] (result=[true])
+2022/05/29 23:15:40 - Job_casos_por_municipios - Starting entry [HTTP mal]
+2022/05/29 23:15:40 - HTTP mal - Start of HTTP job entry.
+2022/05/29 23:15:40 - HTTP mal - Connecting to URL: https://www.juntadeandalucia.es/institutodeestadisticaycartografia/badea/stpivot/stpivot/Print?cube=14bab3d0-916e-4253-8d56-343c325bf719&type=3&foto=si&ejecutaDesde=&codConsulta=38674&consTipoVisua=JP
+2022/05/29 23:15:40 - HTTP mal - Resource type: Content-Type: application/zip, last modified on: Sun, 29 May 2022 21:15:41 GMT.
+2022/05/29 23:15:40 - HTTP mal - Finished writing 52145 bytes to result file [file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_mal.csv]
+2022/05/29 23:15:40 - Job_casos_por_municipios - Starting entry [Transformation 8]
+2022/05/29 23:15:40 - Transformation 8 - Using run configuration [Pentaho local]
+2022/05/29 23:15:40 - Transformation 8 - Running transformation using the Kettle execution engine
+2022/05/29 23:15:40 - Casos_por_municipios - Iniciado despacho de la transformaci?n [Casos_por_municipios]
+2022/05/29 23:15:40 - Salida Tabla.0 - Connected to database [Azure] (commit=1000)
+2022/05/29 23:15:40 - Información de sistema.0 - Procesamiento finalizado (I=0, O=0, R=1, W=1, U=0, E=0)
+2022/05/29 23:15:40 - CSV file input.0 - Header row skipped in file 'file:///C:/Users/sejavichan/OneDrive%20-%20Universidad%20Pablo%20de%20Olavide%20de%20Sevilla/Universidad/2021-2022/TFG/Git/TFG/procesos/ficheros/casos_mun_mal.csv'
+2022/05/29 23:15:40 - CSV file input.0 - Procesamiento finalizado (I=2333, O=0, R=0, W=2332, U=0, E=0)
+2022/05/29 23:15:41 - Juntar filas (producto cartesiano).0 - Procesamiento finalizado (I=0, O=0, R=2333, W=2332, U=0, E=0)
+2022/05/29 23:15:41 - Mapeo de valores.0 - Procesamiento finalizado (I=0, O=0, R=2332, W=2332, U=0, E=0)
+2022/05/29 23:15:41 - Selecciona/Renombra valores.0 - Procesamiento finalizado (I=0, O=0, R=2332, W=2332, U=0, E=0)
+2022/05/29 23:15:41 - Salida Tabla.0 - Procesamiento finalizado (I=0, O=2332, R=2332, W=2332, U=0, E=0)
+2022/05/29 23:15:41 - Job_casos_por_municipios - Starting entry [Success]
+2022/05/29 23:15:41 - Job_casos_por_municipios - Finished job entry [Success] (result=[true])
+2022/05/29 23:15:41 - Job_casos_por_municipios - Finished job entry [Transformation 8] (result=[true])
+2022/05/29 23:15:41 - Job_casos_por_municipios - Finished job entry [HTTP mal] (result=[true])
+2022/05/29 23:15:41 - Job_casos_por_municipios - Job execution finished
+2022/05/29 23:15:41 - Kitchen - Finished!
+2022/05/29 23:15:41 - Kitchen - Start=2022/05/29 23:15:25.953, Stop=2022/05/29 23:15:41.749
+2022/05/29 23:15:41 - Kitchen - Processing ended after 15 seconds.
