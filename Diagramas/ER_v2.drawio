@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T20:16:50.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WVp2Mcij9w3EvR2rChcm" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T20:19:54.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IVdD4mDhVSl8AF6AeX6Z" version="20.0.4" type="github">
   <diagram id="x1stXme_lI0jsgs1N3h_" name="Page-1">
-    <mxGraphModel dx="9480" dy="4913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,7 +537,7 @@
         <mxCell id="ETN5ZDyVyyqrD5R9jvIr-17" value="Semana" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1495" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ETN5ZDyVyyqrD5R9jvIr-18" value="&lt;u&gt;Sexo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ETN5ZDyVyyqrD5R9jvIr-18" value="Sexo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="1430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETN5ZDyVyyqrD5R9jvIr-19" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ETN5ZDyVyyqrD5R9jvIr-18" target="ETN5ZDyVyyqrD5R9jvIr-5">
