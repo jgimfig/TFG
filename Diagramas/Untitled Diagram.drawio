@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T23:27:55.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.2" etag="AHWBobeDxcnzuxSqpl5j" type="github"><diagram id="UUzW1g3H_31g7wKMQyAc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-29T00:08:15.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FK2Q0-x374RdKlAdtHaK" version="20.2.2" type="github">
+  <diagram id="UUzW1g3H_31g7wKMQyAc" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-cnAv37CPvVa-fUKpSu-1" target="V-cnAv37CPvVa-fUKpSu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-cnAv37CPvVa-fUKpSu-1" target="V-cnAv37CPvVa-fUKpSu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-cnAv37CPvVa-fUKpSu-1" target="V-cnAv37CPvVa-fUKpSu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V-cnAv37CPvVa-fUKpSu-1" target="V-cnAv37CPvVa-fUKpSu-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-1" value="Responsable del proyecto&lt;br&gt;Javier Giménez Figueroa&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C9FFF4;" vertex="1" parent="1">
+          <mxGeometry x="830" y="185" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-2" value="Diseñador gráfico&lt;br&gt;Javier Giménez Figueroa&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-cnAv37CPvVa-fUKpSu-6" target="V-cnAv37CPvVa-fUKpSu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-6" value="Analista programador&lt;br&gt;Javier Giménez Figueroa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-cnAv37CPvVa-fUKpSu-8" target="V-cnAv37CPvVa-fUKpSu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-8" value="Revisión técnica&lt;br&gt;&lt;span id=&quot;docs-internal-guid-d1149949-7fff-bdbf-34db-fd04fa41e75f&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Domingo Savio Rodriguez Baena&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-11" value="Desarrollo del sistema" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-12" value="Testeo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-13" value="Desarrollo de la interfaz gráfica" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-14" value="BBDD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-15" value="Administrador de BBDD&lt;br&gt;Javier Giménez Figueroa" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-16" value="Programador&lt;br&gt;Javier Giménez Figueroa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-cnAv37CPvVa-fUKpSu-18" value="Tester&lt;br&gt;Javier Giménez Figueroa" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;rounded=0;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
