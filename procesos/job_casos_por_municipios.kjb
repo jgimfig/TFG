@@ -53,7 +53,7 @@
     </parameter>
     <parameter>
       <name>target_table</name>
-      <default_value>CASOS_MUNICIPIOS</default_value>
+      <default_value>A_COVID_M</default_value>
       <description/>
     </parameter>
   </parameters>
