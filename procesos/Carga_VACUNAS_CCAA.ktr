@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>Carga_A_COVID</name>
+    <name>Carga_VACUNAS_CCAA</name>
     <description/>
     <extended_description/>
     <trans_version/>
@@ -10,28 +10,18 @@
     <directory>/</directory>
     <parameters>
       <parameter>
-        <name>DB_NAME</name>
-        <default_value>Covid</default_value>
-        <description/>
-      </parameter>
-      <parameter>
         <name>HOST</name>
         <default_value>tfg-upo.database.windows.net</default_value>
         <description/>
       </parameter>
       <parameter>
-        <name>fichero_CNE</name>
-        <default_value/>
+        <name>NAME_DB</name>
+        <default_value>Covid</default_value>
         <description/>
       </parameter>
       <parameter>
         <name>pass</name>
         <default_value>qpzm_WOXN</default_value>
-        <description/>
-      </parameter>
-      <parameter>
-        <name>target_table</name>
-        <default_value/>
         <description/>
       </parameter>
       <parameter>
@@ -458,9 +448,9 @@
     <clusterschemas>
     </clusterschemas>
     <created_user>-</created_user>
-    <created_date>2022/08/24 11:12:17.591</created_date>
+    <created_date>2022/08/27 09:09:54.921</created_date>
     <modified_user>-</modified_user>
-    <modified_date>2022/08/24 11:12:17.591</modified_date>
+    <modified_date>2022/08/27 09:09:54.921</modified_date>
     <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
@@ -471,7 +461,7 @@
     <server>${HOST}</server>
     <type>MSSQLNATIVE</type>
     <access>Native</access>
-    <database>${DB_NAME}</database>
+    <database>${NAME_DB}</database>
     <port>1433</port>
     <username>${user}</username>
     <password>${pass}</password>
@@ -527,28 +517,38 @@
   </connection>
   <order>
     <hop>
-      <from>CSV file input</from>
-      <to>Provincia invalida</to>
+      <from>Codigos ccaa</from>
+      <to>Filtrar filas</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Provincia invalida</from>
-      <to>Juntar filas (producto cartesiano)</to>
+      <from>Salida Tabla</from>
+      <to>Salida Fichero de Texto</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Entrada Tabla</from>
-      <to>Juntar filas (producto cartesiano)</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Juntar filas (producto cartesiano)</from>
-      <to>Incremental</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Incremental</from>
+      <from>Des-Normalización de fila</from>
       <to>Salida Tabla</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Filtrar filas</from>
+      <to>Ordenar filas</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Ordenar filas</from>
+      <to>Des-Normalización de fila</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>CSV file input</from>
+      <to>Filtrar filas 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Filtrar filas 2</from>
+      <to>Codigos ccaa</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -563,11 +563,11 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>${Internal.Entry.Current.Directory}/${fichero_CNE}</filename>
+    <filename>${Internal.Entry.Current.Directory}/${fichero_vac_ccaa}</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
-    <separator>,</separator>
+    <separator>;</separator>
     <enclosure/>
     <header>Y</header>
     <buffer_size>50000</buffer_size>
@@ -579,42 +579,9 @@
     <encoding>UTF-8</encoding>
     <fields>
       <field>
-        <name>provincia_iso</name>
-        <type>String</type>
-        <format/>
-        <currency>€</currency>
-        <decimal>,</decimal>
-        <group>.</group>
-        <length>2</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>sexo</name>
-        <type>String</type>
-        <format/>
-        <currency>€</currency>
-        <decimal>,</decimal>
-        <group>.</group>
-        <length>2</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>grupo_edad</name>
-        <type>String</type>
-        <format/>
-        <currency>€</currency>
-        <decimal>,</decimal>
-        <group>.</group>
-        <length>5</length>
-        <precision>-1</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>fecha</name>
+        <name>Fecha</name>
         <type>Date</type>
-        <format>yyyy-MM-dd</format>
+        <format>dd/MM/yyyy</format>
         <currency>€</currency>
         <decimal>,</decimal>
         <group>.</group>
@@ -623,41 +590,41 @@
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>num_casos</name>
-        <type>Integer</type>
-        <format>#</format>
+        <name>Territorio</name>
+        <type>String</type>
+        <format/>
         <currency>€</currency>
         <decimal>,</decimal>
         <group>.</group>
-        <length>15</length>
-        <precision>0</precision>
+        <length>9</length>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>num_hosp</name>
-        <type>Integer</type>
-        <format>#</format>
+        <name>Tipo vacuna</name>
+        <type>String</type>
+        <format/>
         <currency>€</currency>
         <decimal>,</decimal>
         <group>.</group>
-        <length>15</length>
-        <precision>0</precision>
+        <length>18</length>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>num_uci</name>
-        <type>Integer</type>
-        <format>#</format>
+        <name>Medida</name>
+        <type>String</type>
+        <format/>
         <currency>€</currency>
         <decimal>,</decimal>
         <group>.</group>
-        <length>15</length>
-        <precision>0</precision>
+        <length>19</length>
+        <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>num_def</name>
-        <type>Integer</type>
+        <name>Valor</name>
+        <type>String</type>
         <format>#</format>
         <currency>€</currency>
         <decimal>,</decimal>
@@ -677,13 +644,13 @@
     </remotesteps>
     <GUI>
       <xloc>80</xloc>
-      <yloc>176</yloc>
+      <yloc>256</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Entrada Tabla</name>
-    <type>TableInput</type>
+    <name>Codigos ccaa</name>
+    <type>ValueMapper</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -692,40 +659,194 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <connection>Covid</connection>
-    <sql>select MAX(fecha) ultima_fecha
-from A_COVID_P</sql>
-    <limit>0</limit>
-    <lookup/>
-    <execute_each_row>N</execute_each_row>
-    <variables_active>N</variables_active>
-    <lazy_conversion_active>N</lazy_conversion_active>
-    <cached_row_meta_active>N</cached_row_meta_active>
-    <row-meta>
-      <value-meta>
+    <field_to_use>Territorio</field_to_use>
+    <target_field/>
+    <non_match_default/>
+    <fields>
+      <field>
+        <source_value>Andalucía</source_value>
+        <target_value>1</target_value>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>368</xloc>
+      <yloc>256</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Filtrar filas</name>
+    <type>FilterRows</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <send_true_to>Ordenar filas</send_true_to>
+    <send_false_to/>
+    <compare>
+      <condition>
+        <negated>N</negated>
+        <conditions>
+          <condition>
+            <negated>N</negated>
+            <operator>AND</operator>
+            <leftvalue>Tipo vacuna</leftvalue>
+            <function>&lt;></function>
+            <rightvalue/>
+            <value>
+              <name>constant</name>
+              <type>String</type>
+              <text>TOTAL</text>
+              <length>-1</length>
+              <precision>-1</precision>
+              <isnull>N</isnull>
+              <mask/>
+            </value>
+          </condition>
+        </conditions>
+      </condition>
+    </compare>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>512</xloc>
+      <yloc>256</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Salida Fichero de Texto</name>
+    <type>TextFileOutput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <separator>;</separator>
+    <enclosure>"</enclosure>
+    <enclosure_forced>N</enclosure_forced>
+    <enclosure_fix_disabled>N</enclosure_fix_disabled>
+    <header>Y</header>
+    <footer>N</footer>
+    <format>DOS</format>
+    <compression>None</compression>
+    <encoding/>
+    <endedLine/>
+    <fileNameInField>N</fileNameInField>
+    <fileNameField/>
+    <create_parent_folder>Y</create_parent_folder>
+    <file>
+      <name>${Internal.Entry.Current.Directory}/log_vacunas_ccaa</name>
+      <servlet_output>N</servlet_output>
+      <do_not_open_new_file_init>N</do_not_open_new_file_init>
+      <extention>txt</extention>
+      <append>N</append>
+      <split>N</split>
+      <haspartno>N</haspartno>
+      <add_date>N</add_date>
+      <add_time>N</add_time>
+      <SpecifyFormat>N</SpecifyFormat>
+      <date_time_format/>
+      <add_to_result_filenames>Y</add_to_result_filenames>
+      <pad>N</pad>
+      <fast_dump>N</fast_dump>
+      <splitevery/>
+    </file>
+    <fields>
+      <field>
+        <name>Fecha</name>
         <type>Date</type>
-        <storagetype>normal</storagetype>
-        <name>ultima_fecha</name>
+        <format>dd/MM/yyyy</format>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
         <length>-1</length>
         <precision>-1</precision>
-        <origin>Entrada Tabla</origin>
-        <comments>ultima_fecha</comments>
-        <conversion_Mask/>
-        <decimal_symbol>,</decimal_symbol>
-        <grouping_symbol>.</grouping_symbol>
-        <currency_symbol/>
+      </field>
+      <field>
+        <name>Territorio</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
         <trim_type>none</trim_type>
-        <case_insensitive>N</case_insensitive>
-        <collator_disabled>Y</collator_disabled>
-        <collator_strength>0</collator_strength>
-        <sort_descending>N</sort_descending>
-        <output_padding>N</output_padding>
-        <date_format_lenient>N</date_format_lenient>
-        <date_format_locale>es_ES</date_format_locale>
-        <date_format_timezone>Europe/Paris</date_format_timezone>
-        <lenient_string_to_number>N</lenient_string_to_number>
-      </value-meta>
-    </row-meta>
+        <length>9</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>Tipo vacuna</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>18</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>recibidas</name>
+        <type>Number</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>administradas</name>
+        <type>Number</type>
+        <format>000000000</format>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>9</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>adminis/recib</name>
+        <type>Number</type>
+        <format>000000000000000000</format>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>18</length>
+        <precision>-1</precision>
+      </field>
+    </fields>
     <attributes/>
     <cluster_schema/>
     <remotesteps>
@@ -735,124 +856,8 @@ from A_COVID_P</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>272</xloc>
-      <yloc>320</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Incremental</name>
-    <type>FilterRows</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <send_true_to>Salida Tabla</send_true_to>
-    <send_false_to/>
-    <compare>
-      <condition>
-        <negated>N</negated>
-        <leftvalue>fecha</leftvalue>
-        <function>&gt;</function>
-        <rightvalue>ultima_fecha</rightvalue>
-      </condition>
-    </compare>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>560</xloc>
-      <yloc>240</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Juntar filas (producto cartesiano)</name>
-    <type>JoinRows</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <directory>%%java.io.tmpdir%%</directory>
-    <prefix>out</prefix>
-    <cache_size>500</cache_size>
-    <main/>
-    <compare>
-      <condition>
-        <negated>N</negated>
-        <leftvalue/>
-        <function>=</function>
-        <rightvalue/>
-      </condition>
-    </compare>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>416</xloc>
-      <yloc>240</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Provincia invalida</name>
-    <type>FilterRows</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <send_true_to>Juntar filas (producto cartesiano)</send_true_to>
-    <send_false_to/>
-    <compare>
-      <condition>
-        <negated>N</negated>
-        <leftvalue>provincia_iso</leftvalue>
-        <function>&lt;></function>
-        <rightvalue/>
-        <value>
-          <name>constant</name>
-          <type>String</type>
-          <text>NC</text>
-          <length>-1</length>
-          <precision>-1</precision>
-          <isnull>N</isnull>
-          <mask/>
-        </value>
-      </condition>
-    </compare>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>256</xloc>
-      <yloc>176</yloc>
+      <xloc>944</xloc>
+      <yloc>400</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -869,9 +874,9 @@ from A_COVID_P</sql>
     </partitioning>
     <connection>Covid</connection>
     <schema/>
-    <table>${target_table}</table>
+    <table>VACUNAS_CCAA</table>
     <commit>1000</commit>
-    <truncate>N</truncate>
+    <truncate>Y</truncate>
     <ignore_errors>N</ignore_errors>
     <use_batch>Y</use_batch>
     <specify_fields>Y</specify_fields>
@@ -886,36 +891,28 @@ from A_COVID_P</sql>
     <return_field/>
     <fields>
       <field>
-        <column_name>COD_PROVINCIA</column_name>
-        <stream_name>provincia_iso</stream_name>
-      </field>
-      <field>
-        <column_name>SEXO</column_name>
-        <stream_name>sexo</stream_name>
-      </field>
-      <field>
-        <column_name>EDAD</column_name>
-        <stream_name>grupo_edad</stream_name>
-      </field>
-      <field>
         <column_name>FECHA</column_name>
-        <stream_name>fecha</stream_name>
+        <stream_name>Fecha</stream_name>
       </field>
       <field>
-        <column_name>NUM_CASOS</column_name>
-        <stream_name>num_casos</stream_name>
+        <column_name>COD_CCAA</column_name>
+        <stream_name>Territorio</stream_name>
       </field>
       <field>
-        <column_name>NUM_HOSPITALIZACIONES</column_name>
-        <stream_name>num_hosp</stream_name>
+        <column_name>TIPO</column_name>
+        <stream_name>Tipo vacuna</stream_name>
       </field>
       <field>
-        <column_name>NUM_UCI</column_name>
-        <stream_name>num_uci</stream_name>
+        <column_name>RECIBIDAS</column_name>
+        <stream_name>recibidas</stream_name>
       </field>
       <field>
-        <column_name>NUM_DEFUNCIONES</column_name>
-        <stream_name>num_def</stream_name>
+        <column_name>TOTAL_ADMINISTRADAS</column_name>
+        <stream_name>administradas</stream_name>
+      </field>
+      <field>
+        <column_name>PORCENTAJE_ADM_RECV</column_name>
+        <stream_name>adminis/recib</stream_name>
       </field>
     </fields>
     <attributes/>
@@ -927,15 +924,211 @@ from A_COVID_P</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>688</xloc>
-      <yloc>240</yloc>
+      <xloc>944</xloc>
+      <yloc>256</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Des-Normalización de fila</name>
+    <type>Denormaliser</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <key_field>Medida</key_field>
+    <group>
+      <field>
+        <name>Fecha</name>
+      </field>
+      <field>
+        <name>Territorio</name>
+      </field>
+      <field>
+        <name>Tipo vacuna</name>
+      </field>
+    </group>
+    <fields>
+      <field>
+        <field_name>Valor</field_name>
+        <key_value>Dosis recibidas </key_value>
+        <target_name>recibidas</target_name>
+        <target_type>Number</target_type>
+        <target_format/>
+        <target_length>-1</target_length>
+        <target_precision>-1</target_precision>
+        <target_decimal_symbol/>
+        <target_grouping_symbol/>
+        <target_currency_symbol/>
+        <target_null_string/>
+        <target_aggregation_type>-</target_aggregation_type>
+      </field>
+      <field>
+        <field_name>Valor</field_name>
+        <key_value>Dosis administradas </key_value>
+        <target_name>administradas</target_name>
+        <target_type>Number</target_type>
+        <target_format/>
+        <target_length>9</target_length>
+        <target_precision>-1</target_precision>
+        <target_decimal_symbol/>
+        <target_grouping_symbol/>
+        <target_currency_symbol/>
+        <target_null_string/>
+        <target_aggregation_type>-</target_aggregation_type>
+      </field>
+      <field>
+        <field_name>Valor</field_name>
+        <key_value>Porcentaje adm/recib</key_value>
+        <target_name>adminis/recib</target_name>
+        <target_type>Number</target_type>
+        <target_format/>
+        <target_length>18</target_length>
+        <target_precision>-1</target_precision>
+        <target_decimal_symbol/>
+        <target_grouping_symbol/>
+        <target_currency_symbol/>
+        <target_null_string/>
+        <target_aggregation_type>-</target_aggregation_type>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>800</xloc>
+      <yloc>256</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Ordenar filas</name>
+    <type>SortRows</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <directory>%%java.io.tmpdir%%</directory>
+    <prefix>out</prefix>
+    <sort_size>1000000</sort_size>
+    <free_memory/>
+    <compress>N</compress>
+    <compress_variable/>
+    <unique_rows>N</unique_rows>
+    <fields>
+      <field>
+        <name>Fecha</name>
+        <ascending>Y</ascending>
+        <case_sensitive>N</case_sensitive>
+        <collator_enabled>N</collator_enabled>
+        <collator_strength>0</collator_strength>
+        <presorted>N</presorted>
+      </field>
+      <field>
+        <name>Territorio</name>
+        <ascending>Y</ascending>
+        <case_sensitive>N</case_sensitive>
+        <collator_enabled>N</collator_enabled>
+        <collator_strength>0</collator_strength>
+        <presorted>N</presorted>
+      </field>
+      <field>
+        <name>Tipo vacuna</name>
+        <ascending>Y</ascending>
+        <case_sensitive>N</case_sensitive>
+        <collator_enabled>N</collator_enabled>
+        <collator_strength>0</collator_strength>
+        <presorted>N</presorted>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>640</xloc>
+      <yloc>256</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Filtrar filas 2</name>
+    <type>FilterRows</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <send_true_to>Codigos ccaa</send_true_to>
+    <send_false_to/>
+    <compare>
+      <condition>
+        <negated>N</negated>
+        <conditions>
+          <condition>
+            <negated>N</negated>
+            <operator>AND</operator>
+            <leftvalue>Valor</leftvalue>
+            <function>IS NOT NULL</function>
+            <rightvalue/>
+          </condition>
+          <condition>
+            <negated>N</negated>
+            <operator>AND</operator>
+            <leftvalue>Valor</leftvalue>
+            <function>&lt;></function>
+            <rightvalue/>
+            <value>
+              <name>constant</name>
+              <type>String</type>
+              <text>-</text>
+              <length>-1</length>
+              <precision>-1</precision>
+              <isnull>N</isnull>
+              <mask>####0.0#########;-####0.0#########</mask>
+            </value>
+          </condition>
+        </conditions>
+      </condition>
+    </compare>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>224</xloc>
+      <yloc>256</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step_error_handling>
     <error>
       <source_step>Salida Tabla</source_step>
-      <target_step/>
+      <target_step>Salida Fichero de Texto</target_step>
       <is_enabled>Y</is_enabled>
       <nr_valuename/>
       <descriptions_valuename/>
