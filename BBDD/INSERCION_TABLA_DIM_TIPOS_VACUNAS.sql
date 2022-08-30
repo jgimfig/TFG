@@ -1,0 +1,5 @@
+insert into DIM_TIPOS_VACUNAS values (1,'Janssen')
+insert into DIM_TIPOS_VACUNAS values (2,'Moderna')
+insert into DIM_TIPOS_VACUNAS values (3,'AstraZeneca/Oxford')
+insert into DIM_TIPOS_VACUNAS values (4,'Novavax')
+insert into DIM_TIPOS_VACUNAS values (5,'Pfizer/BioNtech')
