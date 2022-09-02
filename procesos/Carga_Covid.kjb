@@ -23,7 +23,7 @@
     </parameter>
     <parameter>
       <name>fichero_vac_prov</name>
-      <default_value>ficheros/vac_prov.csv</default_value>
+      <default_value>ficheros/vacuna_prov.csv</default_value>
       <description/>
     </parameter>
     <parameter>
@@ -360,7 +360,7 @@
       <attributes_kjc/>
     </entry>
     <entry>
-      <name>Transformation</name>
+      <name>Carga_A_COVID</name>
       <description/>
       <type>TRANS</type>
       <attributes/>
@@ -571,7 +571,7 @@
     </hop>
     <hop>
       <from>CNE Covid</from>
-      <to>Transformation</to>
+      <to>Carga_A_COVID</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -579,7 +579,7 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>Transformation</from>
+      <from>Carga_A_COVID</from>
       <to>Success</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
