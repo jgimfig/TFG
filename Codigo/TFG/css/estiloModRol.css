@@ -1,0 +1,106 @@
+
+#rol{
+    width: 30%;
+}
+
+label{
+    font-size: 2em;
+}
+
+body{
+    margin: auto;
+    width: 100%;
+    background: rgb(33,112,189);
+    background: linear-gradient(to right, rgba(252,234,187,1) 0%, rgba(252,205,77,1) 20%, rgba(248,181,0,1) 51%, rgba(251,223,147,1) 100%);    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#ventanaPerfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white; 
+    border-radius: 10%;
+    padding-top: 4%;
+    padding-bottom: 1%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    top: 50%;
+    left: 50%; 
+    width: 30%;
+    height: 55%;
+}
+
+#perfil{
+    width: 100%;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 30% 60%;
+    grid-template-areas: "logo    usuario";
+
+}
+
+#rol{
+    text-transform: uppercase;
+}
+
+
+#logoP img{
+    grid-area: logo;
+    margin-left: 55%;
+    margin-top: 20%;
+    width: 8em;
+}
+
+#usuario{
+    grid-area: usuario;
+    font-weight: bold; 
+    margin-left: 20%;
+    margin-top: 15%;
+    font-size: 4em; 
+    text-transform: uppercase;
+}
+
+#otros{
+    margin-left: 3%;
+
+}
+
+#otros h4{    
+    text-align: center;
+    font-size: 2em; 
+    margin-top: 7%;
+}
+
+.boton{
+    align-items: center;
+    margin-top: 5%;
+    padding: 0;
+}
+
+.boton input{
+    background: #fadb4e; 
+    border: 0.1em solid gray;
+    cursor: pointer;
+    width: 80%;
+    height: 5%;
+    font-size: 2em;
+    margin: 2%;
+    margin-left: 0%;
+}
+
+.boton input:hover{
+    background: #e0c446; 
+    color: white;
+    border: 0.1em solid black;
+}
+
+#botones{
+    margin-top: 5%;
+    margin-left: 25%;
+}

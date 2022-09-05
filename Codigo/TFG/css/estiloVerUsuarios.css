@@ -1,0 +1,47 @@
+table{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    margin-top: 0%;
+    font-size: 2em;
+}
+
+#linea{
+    border-top: orange;
+    border-width: 1px;
+    border-style: solid;
+    padding-top: 5%; 
+}
+
+
+td{
+    height: 5em;
+}
+
+tr{
+    height: 1em;
+}
+
+.boton{
+    align-items: center;
+    margin: 10%;
+    padding: 0;
+    background-color: orange;
+    width: 10em;
+}
+
+.boton input{
+    background: #fadb4e; 
+    border: 0.1em solid gray;
+    cursor: pointer;
+    width: 25em;
+    height: 3em;
+    font-size: 1em;
+    margin: 5%;
+}
+
+.boton input:hover{
+    background: #e0c446; 
+    color: white;
+    border: 0.1em solid black;
+}

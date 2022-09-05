@@ -1,0 +1,10 @@
+@import "estiloLogin.css";
+
+.inputLogin{
+    margin-left: -6%;
+}
+
+#ventanaLogin form #divRegistrar{
+    margin-left: 2.5em;
+}
+

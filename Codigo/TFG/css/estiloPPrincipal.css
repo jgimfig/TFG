@@ -1,0 +1,30 @@
+.grid{
+  display: grid;
+  grid-template-columns: 16.6% 16.6% 15% 16.6% 16.6% 18.2%; 
+  gap: 0px 0px;
+  grid-template-areas:
+    "btnCasos btnDefunciones btnUci btnVacunaciones btnHospitalizaciones  btnIAs";
+}
+.btnCasos { grid-area: btnCasos; }
+.btnDefunciones { grid-area: btnDefunciones; }
+.btnHospitalizaciones { grid-area: btnHospitalizaciones; }
+.btnUci { grid-area: btnUci; }
+.btnVacunaciones { grid-area: btnVacunaciones; }
+.btnIAs { grid-area: btnIAs; }
+
+/* Style tab links */
+.tablink {
+    background-color: #555;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 100%;
+}
+
+.tablink:hover {
+    background-color: #777;
+}
+

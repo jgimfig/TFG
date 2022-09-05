@@ -1,0 +1,89 @@
+body{
+    margin: auto;
+    width: 100%;
+    background: rgb(33,112,189);
+    background: linear-gradient(to right, rgba(252,234,187,1) 0%, rgba(252,205,77,1) 20%, rgba(248,181,0,1) 51%, rgba(251,223,147,1) 100%);    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#ventanaLogin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white; 
+    border-radius: 10%;
+    padding-top: 4%;
+    padding-left: 0%;
+    padding-bottom: 4%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    top: 50%;
+    left: 50%; 
+    width: 30%;
+    height: 70%;
+}
+
+#ventanaLogin figure{
+    width: 10%;
+    margin-right: 5%;
+    margin-left: 25%;
+}
+
+#ventanaLogin img{
+    width: 100%;
+}
+
+#inputRecuerdame{
+    margin-left: 14%;
+}
+
+.inputLogin{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 1.5em;
+    margin: 5%;
+    margin-left: 0%;
+}
+
+#usuarioTextField::before{
+    content: 'text that follows 1';
+    background: url('img/iconoUsuario.svg') left center no-repeat;
+    vertical-align: middle;
+    background-size: 16% auto;
+    padding-left: 20%;
+}
+
+.boton{
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.boton input{
+    background: #fadb4e; 
+    border: 0.1em solid gray;
+    cursor: pointer;
+    width: 65%;
+    height: 20%;
+    font-size: 2em;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+.boton input:hover{
+    background: #e0c446; 
+    color: white;
+    border: 0.1em solid black;
+}
+
+
+form #divIniciarSesion{
+    margin: 0;
+    padding: 0;
+    margin-left: 2.9em;
+}
+
