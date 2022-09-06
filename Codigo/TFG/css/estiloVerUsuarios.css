@@ -18,6 +18,10 @@ td{
     height: 5em;
 }
 
+#rol{
+    text-transform: uppercase; 
+}
+
 tr{
     height: 1em;
 }
@@ -45,3 +49,4 @@ tr{
     color: white;
     border: 0.1em solid black;
 }
+

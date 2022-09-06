@@ -4,8 +4,8 @@ include_once 'funciones.php';
 session_start();
 
 if (!isset($_SESSION['usuario']))
-    header('location: login.php')
-    ?>
+    header('location: login.php');
+?>
 
 <!DOCTYPE html>
 <html>
@@ -21,6 +21,9 @@ if (!isset($_SESSION['usuario']))
         <!--ESTILOS PROPIOS-->
         <link rel="stylesheet" type="text/css" href="../css/estiloPagina.css">
         <link href="../css/estiloPPrincipal.css" rel="stylesheet" type="text/css"/>
+        <!-- FUNCIONES JS -->
+        <?php include 'libreriasJS.php'; ?>
+        <script type='text/javascript' src='../js/confirmaciones.js'></script>
     </head>
     <body>
         <?php
@@ -38,13 +41,31 @@ if (!isset($_SESSION['usuario']))
                 <button class="tablink" id="btnUC" onclick="location.href = './uci.php';">UCI</button>
             </div>
             <div class="btnVacunaciones" id="divVacunaciones">
-                <button class="tablink" id="btnVacunacion" onclick="location.href = './vacunacion.php';">Vacunación</button>
+                <?php
+                if ($_SESSION['tipo'] == 'estandar') {
+                    echo "<button class='tablink' id='disabled' id='btnVacunacion' onclick='redirect(0);'>Vacunación</button>";
+                } else {
+                    echo "<button class='tablink' id='btnVacunacion' onclick='redirect(1);'>Vacunación</button>";
+                }
+                ?>
             </div>            
             <div class="btnHospitalizaciones" id="divHospitalizaciones">
-                <button class="tablink" id="btnHospitalizacion" onclick="location.href = './hospitalizaciones.php';">Hospitalizaciones</button>
+                <?php
+                if ($_SESSION['tipo'] == 'estandar') {
+                    echo "<button class='tablink' id='disabled' id='btnHospitalizacion' onclick='redirect(0);'>Hospitalizaciones</button>";
+                } else {
+                    echo "<button class='tablink' id='btnHospitalizacion' onclick='redirect(2);'>Hospitalizaciones</button>";
+                }
+                ?>
             </div>
             <div class="btnIAs" id="divIAs">
-                <button class="tablink" id="btnIA" onclick="location.href = './IA.php';">Incidencia Acumulada</button>
+                <?php
+                if ($_SESSION['tipo'] == 'estandar' or $_SESSION['tipo'] == 'medio') {
+                    echo "<button class='tablink' id='disabled' id='btnIA' onclick='redirect(0);'>Incidencia Acumulada</button>";
+                } else {
+                    echo "<button class='tablink' id='btnIA' onclick='redirect(3);'>Incidencia Acumulada</button>";
+                }
+                ?>
             </div>     
         </div>
         <iframe title="Defunciones - Defunciones Provinc" width="1900" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiYWRkNWZhMzYtNzcyMC00MWYwLWJlMjItOTE4ZjdkY2JiMjQwIiwidCI6ImY3ZGY1NjA1LWE4OGItNDRkMy05NDFkLWIzMGQ3MjE3M2JjNCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>

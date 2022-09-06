@@ -11,6 +11,13 @@ if(isset($_POST['eliminar'])){
     header('location: logout.php');
 }
 
+if (isset($_POST['guardar'])) {
+    $user = filter_var($_POST['usuario'], FILTER_SANITIZE_STRING);
+    $pass = filter_var($_POST['contrasena'], FILTER_SANITIZE_STRING);
+    $mail = filter_var($_POST['email'], FILTER_SANITIZE_STRING);
+    modificarUsuario($user, $_SESSION['dni'], $pass, $mail);
+}
+
 ?>
 <!DOCTYPE html>
 <html>

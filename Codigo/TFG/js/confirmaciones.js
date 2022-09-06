@@ -16,9 +16,9 @@ function comprobarRegistros() {
     } else {
         $("#usuarioTextField").css({"border-color": "black"});
     }
-    var validarPass = new RegExp('^(?=\w*\d)(?=\w*[A-Z])(?=\w*[a-z])\S{5,16}$', 'gi');
+    var validarPass = new RegExp('^[a-z0-9_-]{2,16}$', 'gi');
     if (!validarPass.test($("#contrasenaTextField").val())){
-        alert('La contraseña debe tener entre 5 y 16 caracteres, al menos un dígito, al menos una minúscula y al menos una mayúscula.');
+        alert('La contraseña debe tener entre 5 y 16 caracteres, al menos una minúscula y al menos una mayúscula.');
         $("#contrasenaTextField").css({"border-color": "red"});
         return false;
     } else {
@@ -45,4 +45,19 @@ function validarEmail(email)
 
 function usuarioExiste(){
      alert('El nombre de usuario ya existe');
+}
+
+function sinPermiso(){
+    alert("Este usuario no tiene permiso para acceder a esta sección. Contacte con un administrador");
+}
+
+function redirect(lugar){
+    if(lugar==0)
+        sinPermiso();
+    else if(lugar==1)
+        location.href = './vacunacion.php';
+    else if (lugar==2) {
+        location.href = './hospitalizaciones.php';
+    }else if (lugar==3)
+        location.href = './IA.php';
 }

@@ -10,9 +10,15 @@ elseif ($_SESSION['tipo'] != 'admin') {
 }
 
 if (isset($_POST['modificar'])) {
-    $user=substr($_POST['user'],0, strlen($_POST['user'])-1);
+    $user = substr($_POST['user'], 0, strlen($_POST['user']) - 1);
     modificarRol($_POST['rol'], $user);
 }
+
+if (isset($_GET['eliminarBtn'])) {
+    $user=$_GET['eliminar'];
+    eliminarUsuario2($user);
+}
+
 
 function muestraUsuarios() {
     $consulta = ("select * from usuarios");
@@ -23,14 +29,14 @@ function muestraUsuarios() {
         . "<td>" . $usuarios[$i]['usuario'] . "</td>"
         . "<td>" . $usuarios[$i]['dni'] . "</td>"
         . "<td>" . $usuarios[$i]['email'] . "</td>"
-        . "<td>" . $usuarios[$i]['tipo'] . "</td>"
+        . "<td id='rol'>" . $usuarios[$i]['tipo'] . "</td>"
         ?>
         <form action='modificarRol.php' method='GET' >
             <?php
             echo "<input name='modRol' type='hidden' value=" . $usuarios[$i]['usuario'] . ">";
             echo "<td><input class='boton' name='modificarRol' type='submit' value='Modificar Rol'/></td>";
             ?></form>
-        <form action = '#' method = 'GET' >
+        <form action = '#' method = 'GET' onsubmit="return eliminarUsuarioConf()">
             <?php
             echo "<input name='eliminar' type='hidden' value=" . $usuarios[$i]['usuario'] . ">";
             echo "<td><input class='boton' name='eliminarBtn' type='submit' value='Eliminar'/></td>";
@@ -54,6 +60,9 @@ function muestraUsuarios() {
         <!--ESTILOS PROPIOS-->
         <link rel="stylesheet" type="text/css" href="../css/estiloPagina.css">
         <link href="../css/estiloVerUsuarios.css" rel="stylesheet" type="text/css"/>
+        <!-- FUNCIONES JS -->
+        <?php include 'libreriasJS.php'; ?>
+        <script type='text/javascript' src='../js/confirmaciones.js'></script>
     </head>
     <body>
         <?php

@@ -66,31 +66,6 @@ function comprobarLogin($usuario = "", $passwd = "") {
     return false;
 }
 
-/*
-  function consulta($consulta) {
-
-  $con = mysqli_connect(HOST, USUARIO_BD, CONTRASENA_BD, NOMBRE_BD);
-
-  if ($con) {
-  mysqli_set_charset($con, 'utf8');
-  $resultadoConsulta = mysqli_query($con, $consulta);
-
-  if ($resultadoConsulta === true) {
-  mysqli_close($con);
-  return true;
-  }
-
-  if ($resultadoConsulta) {
-  $res = mysqli_fetch_all($resultadoConsulta);
-  mysqli_close($con);
-  return $res;
-  }
-  mysqli_close($con);
-  }
-  return false;
-  }
- */
-
 function registrarUsuario($usuario, $passwd, $email, $dni, $tipo) {
     $hash = password_hash($passwd, PASSWORD_DEFAULT);
     $existeDNI = "select count(1) from [dbo].[usuarios] where dni='$dni'";

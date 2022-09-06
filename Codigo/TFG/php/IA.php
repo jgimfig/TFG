@@ -4,8 +4,12 @@ include_once 'funciones.php';
 session_start();
 
 if (!isset($_SESSION['usuario']))
-    header('location: login.php')
-    ?>
+    header('location: login.php');
+else {
+    if ($_SESSION['tipo'] == 'estandar' or $_SESSION['tipo'] == 'medio')
+        header('location: casosConfirmados.php');
+}
+?>
 
 <!DOCTYPE html>
 <html>
@@ -21,6 +25,9 @@ if (!isset($_SESSION['usuario']))
         <!--ESTILOS PROPIOS-->
         <link rel="stylesheet" type="text/css" href="../css/estiloPagina.css">
         <link href="../css/estiloPPrincipal.css" rel="stylesheet" type="text/css"/>
+        <!-- FUNCIONES JS -->
+        <?php include 'libreriasJS.php'; ?>
+        <script type='text/javascript' src='../js/confirmaciones.js'></script>
     </head>
     <body>
         <?php

@@ -23,25 +23,24 @@ if (!isset($_SESSION['usuario']))
         <!-- FUNCIONES JS -->
         <?php include 'libreriasJS.php'; ?>
         <script type='text/javascript' src='../js/confirmaciones.js'></script>
-
     </head>
     <body>
         <?php
-        //INCLUIMOS EL HEADER y NAV CON INTERACCIÓN COMÚN A TODA LA PAGINA
+//INCLUIMOS EL HEADER y NAV CON INTERACCIÓN COMÚN A TODA LA PAGINA
         include './header.php';
         ?>
         <main>
             <div id="ventanaLogin">
-                <form action="#" method="POST" onsubmit="return comprobarRegistros()">
+                <form action="perfil.php" method="POST" onsubmit="return comprobarRegistros()">
                     <!--TEXT FIELD DE NOMBRE DE USUARIO-->
                     <div class="inputLogin">
                         <figure><img src="../img/iconos/user.png" alt="icono de contraseña"/></figure>
-                        <input id='usuarioTextField' type='text' name='usuario' value=<?php echo $_SESSION['usuario'];?> placeholder='Usuario'/><br/>
+                        <input id='usuarioTextField' type='text' name='usuario' value=<?php echo $_SESSION['usuario']; ?> placeholder='Usuario'/><br/>
                     </div>
                     <!--TEXT FIELD DE DNI-->
                     <div class="inputLogin">                    
                         <figure><img src="../img/iconos/user.png" alt="icono de usuario"/></figure>                    
-                        <input id='dniTextField' disabled="true" type='text' name='dni' value=<?php echo $_SESSION['dni'];?> placeholder='DNI'/><br/>
+                        <input id='dniTextField' disabled="true" type='text' name='dni' value=<?php echo $_SESSION['dni']; ?> placeholder='DNI'/><br/>
                     </div>
                     <!--TEXT FIELD DE CONTRASEÑA-->
                     <div class="inputLogin">                    
@@ -52,7 +51,7 @@ if (!isset($_SESSION['usuario']))
                     <!--TEXT FIELD DE EMAIL-->
                     <div class="inputLogin">                    
                         <figure><img src="../img/iconos/correo.png" alt="icono de correo"/></figure>                    
-                        <input id='emailTextField' type='text' name='email' value=<?php echo $_SESSION['email'];?> placeholder='Email'/><br/>
+                        <input id='emailTextField' type='text' name='email' value=<?php echo $_SESSION['email']; ?> placeholder='Email'/><br/>
                     </div>
 
                     <!--BOTON REGISTRAR: submit-->

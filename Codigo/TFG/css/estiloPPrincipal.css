@@ -5,6 +5,11 @@
   grid-template-areas:
     "btnCasos btnDefunciones btnUci btnVacunaciones btnHospitalizaciones  btnIAs";
 }
+
+#disabled{
+    background-color:  #777;
+}
+
 .btnCasos { grid-area: btnCasos; }
 .btnDefunciones { grid-area: btnDefunciones; }
 .btnHospitalizaciones { grid-area: btnHospitalizaciones; }
